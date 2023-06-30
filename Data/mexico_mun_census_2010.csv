@@ -1,0 +1,2457 @@
+ID,state,municipality,total_pop,w_law_entitlement,wout_law_entitlement,unspecified
+01 001, Aguascalientes, Aguascalientes,797010,"614,582","178,471","3,957"
+01 002, Aguascalientes, Asientos,45492,"39,155","6,264",73
+01 003, Aguascalientes, Calvillo,54136,"44,768","9,263",105
+01 004, Aguascalientes, Cosío,15042,"12,867","2,092",83
+01 005, Aguascalientes, Jesús María,99590,"76,864","22,241",485
+01 006, Aguascalientes, Pabellón de Arteaga,41862,"33,822","7,914",126
+01 007, Aguascalientes, Rincón de Romos,49156,"39,403","9,586",167
+01 008, Aguascalientes, San José de Gracia,8443,"7,583",805,55
+01 009, Aguascalientes, Tepezalá,19668,"16,610","3,039",19
+01 010, Aguascalientes, El Llano,18828,"15,508","3,283",37
+01 011, Aguascalientes, San Francisco de los Romo,35769,"28,987","6,638",144
+02 001, Baja California, Ensenada,466814,"349,787","110,182","6,845"
+02 002, Baja California, Mexicali,936826,"694,167","216,732","25,927"
+02 003, Baja California, Tecate,101079,"72,645","23,352","5,082"
+02 004, Baja California, Tijuana,1559683,"1,002,991","531,571","25,121"
+02 005, Baja California, Playas de Rosarito,90668,"59,331","27,123","4,214"
+03 001, Baja California Sur, Comondú,70816,"57,675","12,879",262
+03 002, Baja California Sur, Mulegé,59114,"48,579","10,016",519
+03 003, Baja California Sur, La Paz,251871,"193,945","54,336","3,590"
+03 008, Baja California Sur, Los Cabos,238487,"168,626","64,056","5,805"
+03 009, Baja California Sur, Loreto,16738,"12,562","3,878",298
+04 001, Campeche, Calkiní,52890,"42,891","9,670",329
+04 002, Campeche, Campeche,259005,"205,575","51,859","1,571"
+04 003, Campeche, Carmen,221094,"161,588","53,674","5,832"
+04 004, Campeche, Champotón,83021,"63,544","19,059",418
+04 005, Campeche, Hecelchakán,28306,"20,749","7,494",63
+04 006, Campeche, Hopelchén,37777,"29,994","7,721",62
+04 007, Campeche, Palizada,8352,"7,292","1,010",50
+04 008, Campeche, Tenabo,9736,"8,101","1,622",13
+04 009, Campeche, Escárcega,54184,"42,028","11,986",170
+04 010, Campeche, Calakmul,26882,"18,179","8,620",83
+04 011, Campeche, Candelaria,41194,"31,465","9,480",249
+05 001, Coahuila de Zaragoza, Abasolo,1070,662,399,9
+05 002, Coahuila de Zaragoza, Acuña,136755,"103,778","30,916","2,061"
+05 003, Coahuila de Zaragoza, Allende,22675,"18,968","3,217",490
+05 004, Coahuila de Zaragoza, Arteaga,22544,"15,959","6,286",299
+05 005, Coahuila de Zaragoza, Candela,1808,"1,419",371,18
+05 006, Coahuila de Zaragoza, Castaños,25892,"21,218","4,573",101
+05 007, Coahuila de Zaragoza, Cuatro Ciénegas,13013,"10,923","2,050",40
+05 008, Coahuila de Zaragoza, Escobedo,2901,"2,057",829,15
+05 009, Coahuila de Zaragoza, Francisco I. Madero,55676,"43,463","12,061",152
+05 010, Coahuila de Zaragoza, Frontera,75215,"62,208","12,490",517
+05 011, Coahuila de Zaragoza, General Cepeda,11682,"8,406","3,219",57
+05 012, Coahuila de Zaragoza, Guerrero,2091,"1,398",559,134
+05 013, Coahuila de Zaragoza, Hidalgo,1852,826,830,196
+05 014, Coahuila de Zaragoza, Jiménez,9935,"7,196","2,644",95
+05 015, Coahuila de Zaragoza, Juárez,1599,"1,089",496,14
+05 016, Coahuila de Zaragoza, Lamadrid,1835,"1,510",301,24
+05 017, Coahuila de Zaragoza, Matamoros,107160,"77,538","29,063",559
+05 018, Coahuila de Zaragoza, Monclova,216206,"179,672","34,513","2,021"
+05 019, Coahuila de Zaragoza, Morelos,8207,"6,917","1,245",45
+05 020, Coahuila de Zaragoza, Múzquiz,66834,"56,211","10,230",393
+05 021, Coahuila de Zaragoza, Nadadores,6335,"4,917","1,406",12
+05 022, Coahuila de Zaragoza, Nava,27928,"22,898","4,651",379
+05 023, Coahuila de Zaragoza, Ocampo,10991,"8,049","2,833",109
+05 024, Coahuila de Zaragoza, Parras,45401,"36,423","8,325",653
+05 025, Coahuila de Zaragoza, Piedras Negras,152806,"117,963","32,027","2,816"
+05 026, Coahuila de Zaragoza, Progreso,3473,"2,735",723,15
+05 027, Coahuila de Zaragoza, Ramos Arizpe,75461,"61,143","13,201","1,117"
+05 028, Coahuila de Zaragoza, Sabinas,60847,"48,413","11,521",913
+05 029, Coahuila de Zaragoza, Sacramento,2314,"1,847",460,7
+05 030, Coahuila de Zaragoza, Saltillo,725123,"561,054","152,253","11,816"
+05 031, Coahuila de Zaragoza, San Buenaventura,22149,"17,326","4,563",260
+05 032, Coahuila de Zaragoza, San Juan de Sabinas,41649,"35,459","5,401",789
+05 033, Coahuila de Zaragoza, San Pedro,102650,"74,701","27,698",251
+05 034, Coahuila de Zaragoza, Sierra Mojada,6375,"5,253","1,096",26
+05 035, Coahuila de Zaragoza, Torreón,639629,"453,423","170,160","16,046"
+05 036, Coahuila de Zaragoza, Viesca,21319,"14,862","6,405",52
+05 037, Coahuila de Zaragoza, Villa Unión,6289,"5,189",989,111
+05 038, Coahuila de Zaragoza, Zaragoza,12702,"10,105","2,565",32
+06 001, Colima, Armería,28695,"23,945","4,683",67
+06 002, Colima, Colima,146904,"120,168","23,728","3,008"
+06 003, Colima, Comala,20888,"16,827","3,958",103
+06 004, Colima, Coquimatlán,19385,"16,083","3,158",144
+06 005, Colima, Cuauhtémoc,27107,"23,201","3,471",435
+06 006, Colima, Ixtlahuacán,5300,"4,800",471,29
+06 007, Colima, Manzanillo,161420,"129,188","29,760","2,472"
+06 008, Colima, Minatitlán,8174,"7,409",736,29
+06 009, Colima, Tecomán,112726,"87,894","24,475",357
+06 010, Colima, Villa de Álvarez,119956,"99,196","18,336","2,424"
+07 001, Chiapas, Acacoyagua,16814,"10,438","6,355",21
+07 002, Chiapas, Acala,28947,"20,188","8,698",61
+07 003, Chiapas, Acapetahua,27580,"14,299","13,219",62
+07 004, Chiapas, Altamirano,29865,"7,439","19,201","3,225"
+07 005, Chiapas, Amatán,21275,"12,904","8,193",178
+07 006, Chiapas, Amatenango de la Frontera,29547,"18,656","10,729",162
+07 007, Chiapas, Amatenango del Valle,8728,"1,226","7,109",393
+07 008, Chiapas, Angel Albino Corzo,26628,"11,972","14,588",68
+07 009, Chiapas, Arriaga,40042,"24,550","15,439",53
+07 010, Chiapas, Bejucal de Ocampo,7623,"5,653","1,920",50
+07 011, Chiapas, Bella Vista,19281,"11,757","7,428",96
+07 012, Chiapas, Berriozábal,43179,"21,406","20,879",894
+07 013, Chiapas, Bochil,30642,"13,097","17,449",96
+07 014, Chiapas, El Bosque,18559,"9,215","8,700",644
+07 015, Chiapas, Cacahoatán,43811,"21,625","22,145",41
+07 016, Chiapas, Catazajá,17140,"11,718","5,318",104
+07 017, Chiapas, Cintalapa,78114,"41,025","36,420",669
+07 018, Chiapas, Coapilla,8444,"5,414","3,007",23
+07 019, Chiapas, Comitán de Domínguez,141013,"78,374","61,051","1,588"
+07 020, Chiapas, La Concordia,44082,"28,858","14,971",253
+07 021, Chiapas, Copainalá,21050,"14,687","6,275",88
+07 022, Chiapas, Chalchihuitán,14027,"6,931","6,785",311
+07 023, Chiapas, Chamula,76941,"34,037","42,437",467
+07 024, Chiapas, Chanal,10817,"9,112","1,630",75
+07 025, Chiapas, Chapultenango,7332,"5,780","1,517",35
+07 026, Chiapas, Chenalhó,36111,"23,634","11,333","1,144"
+07 027, Chiapas, Chiapa de Corzo,87603,"49,276","37,963",364
+07 028, Chiapas, Chiapilla,5405,"3,907","1,489",9
+07 029, Chiapas, Chicoasén,5018,"2,893","2,101",24
+07 030, Chiapas, Chicomuselo,31515,"15,948","15,477",90
+07 031, Chiapas, Chilón,111554,"68,197","39,539","3,818"
+07 032, Chiapas, Escuintla,30068,"18,163","11,840",65
+07 033, Chiapas, Francisco León,7000,"5,836","1,133",31
+07 034, Chiapas, Frontera Comalapa,67012,"29,996","36,896",120
+07 035, Chiapas, Frontera Hidalgo,12665,"7,247","5,398",20
+07 036, Chiapas, La Grandeza,7272,"4,913","2,336",23
+07 037, Chiapas, Huehuetán,33444,"18,324","15,074",46
+07 038, Chiapas, Huixtán,21507,"17,316","3,895",296
+07 039, Chiapas, Huitiupán,22536,"15,053","7,153",330
+07 040, Chiapas, Huixtla,51359,"27,579","23,628",152
+07 041, Chiapas, La Independencia,41266,"11,864","29,291",111
+07 042, Chiapas, Ixhuatán,10239,"7,664","2,345",230
+07 043, Chiapas, Ixtacomitán,10176,"8,072","2,057",47
+07 044, Chiapas, Ixtapa,24517,"14,478","9,959",80
+07 045, Chiapas, Ixtapangajoya,5478,"4,424","1,011",43
+07 046, Chiapas, Jiquipilas,37818,"24,429","13,300",89
+07 047, Chiapas, Jitotol,18683,"7,034","11,400",249
+07 048, Chiapas, Juárez,21084,"13,229","7,812",43
+07 049, Chiapas, Larráinzar,20349,"11,150","8,043","1,156"
+07 050, Chiapas, La Libertad,4974,"3,914","1,038",22
+07 051, Chiapas, Mapastepec,43913,"24,411","19,297",205
+07 052, Chiapas, Las Margaritas,111484,"61,253","45,618","4,613"
+07 053, Chiapas, Mazapa de Madero,7793,"5,066","2,668",59
+07 054, Chiapas, Mazatán,26573,"16,980","9,517",76
+07 055, Chiapas, Metapa,5033,"3,206","1,814",13
+07 056, Chiapas, Mitontic,11157,"8,161","2,880",116
+07 057, Chiapas, Motozintla,69119,"41,113","27,734",272
+07 058, Chiapas, Nicolás Ruíz,4317,"2,098","2,084",135
+07 059, Chiapas, Ocosingo,198877,"79,006","102,607","17,264"
+07 060, Chiapas, Ocotepec,11878,"8,070","3,499",309
+07 061, Chiapas, Ocozocoautla de Espinosa,82059,"39,783","41,630",646
+07 062, Chiapas, Ostuacán,17067,"11,313","5,722",32
+07 063, Chiapas, Osumacinta,3792,"2,739","1,011",42
+07 064, Chiapas, Oxchuc,43350,"22,974","20,070",306
+07 065, Chiapas, Palenque,110918,"52,109","57,381","1,428"
+07 066, Chiapas, Pantelhó,20589,"12,901","7,032",656
+07 067, Chiapas, Pantepec,10870,"7,200","3,585",85
+07 068, Chiapas, Pichucalco,29813,"22,270","7,377",166
+07 069, Chiapas, Pijijiapan,50079,"33,028","16,924",127
+07 070, Chiapas, El Porvenir,13201,"10,433","2,751",17
+07 071, Chiapas, Villa Comaltitlán,27899,"12,281","15,532",86
+07 072, Chiapas, Pueblo Nuevo Solistahuacán,31075,"20,058","10,370",647
+07 073, Chiapas, Rayón,9002,"6,223","2,775",4
+07 074, Chiapas, Reforma,40711,"24,804","15,645",262
+07 075, Chiapas, Las Rosas,25530,"19,782","5,552",196
+07 076, Chiapas, Sabanilla,25187,"13,194","11,581",412
+07 077, Chiapas, Salto de Agua,57253,"35,845","20,660",748
+07 078, Chiapas, San Cristóbal de las Casas,185917,"99,367","81,822","4,728"
+07 079, Chiapas, San Fernando,33060,"21,845","11,116",99
+07 080, Chiapas, Siltepec,38143,"27,763","10,155",225
+07 081, Chiapas, Simojovel,40297,"23,729","15,043","1,525"
+07 082, Chiapas, Sitalá,12269,"8,023","3,823",423
+07 083, Chiapas, Socoltenango,17125,"10,129","6,936",60
+07 084, Chiapas, Solosuchiapa,8065,"6,590","1,464",11
+07 085, Chiapas, Soyaló,9740,"8,485","1,219",36
+07 086, Chiapas, Suchiapa,21045,"13,527","7,460",58
+07 087, Chiapas, Suchiate,35056,"14,775","20,160",121
+07 088, Chiapas, Sunuapa,2235,"1,774",439,22
+07 089, Chiapas, Tapachula,320451,"188,422","130,802","1,227"
+07 090, Chiapas, Tapalapa,4121,"2,442","1,657",22
+07 091, Chiapas, Tapilula,12170,"7,900","4,228",42
+07 092, Chiapas, Tecpatán,41045,"24,562","16,381",102
+07 093, Chiapas, Tenejapa,40268,"32,392","7,566",310
+07 094, Chiapas, Teopisca,37607,"22,957","14,413",237
+07 096, Chiapas, Tila,71432,"30,433","39,646","1,353"
+07 097, Chiapas, Tonalá,84594,"58,075","26,211",308
+07 098, Chiapas, Totolapa,6375,"4,896","1,467",12
+07 099, Chiapas, La Trinitaria,72769,"40,698","31,961",110
+07 100, Chiapas, Tumbalá,31723,"16,542","14,578",603
+07 101, Chiapas, Tuxtla Gutiérrez,553374,"327,363","219,182","6,829"
+07 102, Chiapas, Tuxtla Chico,37737,"20,488","17,118",131
+07 103, Chiapas, Tuzantán,28137,"15,909","12,192",36
+07 104, Chiapas, Tzimol,14009,"9,976","3,928",105
+07 105, Chiapas, Unión Juárez,14089,"8,729","5,350",10
+07 106, Chiapas, Venustiano Carranza,61341,"35,969","24,562",810
+07 107, Chiapas, Villa Corzo,74477,"34,562","39,649",266
+07 108, Chiapas, Villaflores,98618,"54,684","43,558",376
+07 109, Chiapas, Yajalón,34028,"20,055","13,004",969
+07 110, Chiapas, San Lucas,6734,"5,175","1,549",10
+07 111, Chiapas, Zinacantán,36489,"23,781","11,685","1,023"
+07 112, Chiapas, San Juan Cancuc,29016,"9,357","19,320",339
+07 113, Chiapas, Aldama,5072,"3,645",545,882
+07 114, Chiapas, Benemérito de las Américas,17282,"11,736","5,438",108
+07 115, Chiapas, Maravilla Tenejapa,11451,"8,931","2,462",58
+07 116, Chiapas, Marqués de Comillas,9856,"6,615","3,186",55
+07 117, Chiapas, Montecristo de Guerrero,6900,"4,131","2,748",21
+07 118, Chiapas, San Andrés Duraznal,4545,"3,637",889,19
+07 119, Chiapas, Santiago el Pinar,3245,"2,258",330,657
+08 001, Chihuahua, Ahumada,11457,"8,989","2,394",74
+08 002, Chihuahua, Aldama,22302,"19,060","3,092",150
+08 003, Chihuahua, Allende,8409,"4,001","4,361",47
+08 004, Chihuahua, Aquiles Serdán,10688,"9,056","1,213",419
+08 005, Chihuahua, Ascensión,23975,"10,365","11,903","1,707"
+08 006, Chihuahua, Bachíniva,6011,"4,717","1,242",52
+08 007, Chihuahua, Balleza,17672,"6,519","11,041",112
+08 008, Chihuahua, Batopilas,14362,"8,055","6,112",195
+08 009, Chihuahua, Bocoyna,28766,"14,889","13,504",373
+08 010, Chihuahua, Buenaventura,22378,"15,690","6,411",277
+08 011, Chihuahua, Camargo,48748,"38,040","10,499",209
+08 012, Chihuahua, Carichí,8795,"4,005","4,778",12
+08 013, Chihuahua, Casas Grandes,10587,"7,121","3,390",76
+08 014, Chihuahua, Coronado,2284,"1,648",629,7
+08 015, Chihuahua, Coyame del Sotol,1681,"1,405",263,13
+08 016, Chihuahua, La Cruz,3982,"3,332",646,4
+08 017, Chihuahua, Cuauhtémoc,154639,"107,869","42,456","4,314"
+08 018, Chihuahua, Cusihuiriachi,5414,"3,687","1,700",27
+08 019, Chihuahua, Chihuahua,819543,"663,832","128,047","27,664"
+08 020, Chihuahua, Chínipas,8441,"6,268","2,118",55
+08 021, Chihuahua, Delicias,137935,"110,448","26,697",790
+08 022, Chihuahua, Dr. Belisario Domínguez,2911,"2,410",481,20
+08 023, Chihuahua, Galeana,5892,"2,988","2,813",91
+08 024, Chihuahua, Santa Isabel,3937,"3,270",621,46
+08 025, Chihuahua, Gómez Farías,8624,"7,244",998,382
+08 026, Chihuahua, Gran Morelos,3209,"2,813",367,29
+08 027, Chihuahua, Guachochi,49689,"31,081","18,128",480
+08 028, Chihuahua, Guadalupe,6458,"4,432","1,916",110
+08 029, Chihuahua, Guadalupe y Calvo,53499,"31,821","21,159",519
+08 030, Chihuahua, Guazapares,8998,"6,330","2,604",64
+08 031, Chihuahua, Guerrero,39626,"25,427","13,855",344
+08 032, Chihuahua, Hidalgo del Parral,107061,"85,155","21,143",763
+08 033, Chihuahua, Huejotitán,1049,841,190,18
+08 034, Chihuahua, Ignacio Zaragoza,6934,"6,035",877,22
+08 035, Chihuahua, Janos,10953,"5,238","5,542",173
+08 036, Chihuahua, Jiménez,41265,"32,857","8,325",83
+08 037, Chihuahua, Juárez,1332131,"931,552","325,215","75,364"
+08 038, Chihuahua, Julimes,4953,"3,926","1,012",15
+08 039, Chihuahua, López,4025,"3,134",882,9
+08 040, Chihuahua, Madera,29611,"21,956","7,119",536
+08 041, Chihuahua, Maguarichi,1921,"1,172",746,3
+08 042, Chihuahua, Manuel Benavides,1601,"1,158",428,15
+08 043, Chihuahua, Matachí,3104,"2,610",462,32
+08 044, Chihuahua, Matamoros,4499,"3,844",646,9
+08 045, Chihuahua, Meoqui,43833,"33,063","10,621",149
+08 046, Chihuahua, Morelos,8343,"4,423","3,772",148
+08 047, Chihuahua, Moris,5312,"3,905","1,375",32
+08 048, Chihuahua, Namiquipa,22880,"17,025","5,757",98
+08 049, Chihuahua, Nonoava,2849,"2,202",625,22
+08 050, Chihuahua, Nuevo Casas Grandes,59337,"43,016","15,861",460
+08 051, Chihuahua, Ocampo,7546,"4,451","3,069",26
+08 052, Chihuahua, Ojinaga,26304,"17,066","8,641",597
+08 053, Chihuahua, Praxedis G. Guerrero,4799,"3,198","1,557",44
+08 054, Chihuahua, Riva Palacio,8012,"6,254","1,593",165
+08 055, Chihuahua, Rosales,16785,"13,516","3,228",41
+08 056, Chihuahua, Rosario,2235,975,"1,248",12
+08 057, Chihuahua, San Francisco de Borja,2290,"2,061",211,18
+08 058, Chihuahua, San Francisco de Conchos,2983,"2,686",286,11
+08 059, Chihuahua, San Francisco del Oro,4753,"3,995",680,78
+08 060, Chihuahua, Santa Bárbara,10427,"8,918","1,418",91
+08 061, Chihuahua, Satevó,3662,"2,762",885,15
+08 062, Chihuahua, Saucillo,32325,"26,466","5,725",134
+08 063, Chihuahua, Temósachic,6211,"3,657","2,453",101
+08 064, Chihuahua, El Tule,1869,"1,419",438,12
+08 065, Chihuahua, Urique,20386,"12,706","7,570",110
+08 066, Chihuahua, Uruachi,8200,"5,065","3,100",35
+08 067, Chihuahua, Valle de Zaragoza,5105,"4,182",832,91
+09 002, Distrito Federal, Azcapotzalco,414711,"301,040","103,119","10,552"
+09 003, Distrito Federal, Coyoacán,620416,"411,833","184,184","24,399"
+09 004, Distrito Federal, Cuajimalpa de Morelos,186391,"123,175","57,829","5,387"
+09 005, Distrito Federal, Gustavo A. Madero,1185772,"803,418","364,663","17,691"
+09 006, Distrito Federal, Iztacalco,384326,"249,671","124,514","10,141"
+09 007, Distrito Federal, Iztapalapa,1815786,"1,096,323","695,478","23,985"
+09 008, Distrito Federal, La Magdalena Contreras,239086,"156,569","79,162","3,355"
+09 009, Distrito Federal, Milpa Alta,130582,"69,193","60,399",990
+09 010, Distrito Federal, Álvaro Obregón,727034,"494,813","218,334","13,887"
+09 011, Distrito Federal, Tláhuac,360265,"211,530","145,186","3,549"
+09 012, Distrito Federal, Tlalpan,650567,"367,618","263,754","19,195"
+09 013, Distrito Federal, Xochimilco,415007,"222,238","179,132","13,637"
+09 014, Distrito Federal, Benito Juárez,385439,"262,155","94,404","28,880"
+09 015, Distrito Federal, Cuauhtémoc,531831,"340,430","170,897","20,504"
+09 016, Distrito Federal, Miguel Hidalgo,372889,"259,891","88,809","24,189"
+09 017, Distrito Federal, Venustiano Carranza,430978,"275,004","141,210","14,764"
+10 001, Durango, Canatlán,31401,"21,569","9,757",75
+10 002, Durango, Canelas,4122,"2,780","1,329",13
+10 003, Durango, Coneto de Comonfort,4530,"3,074","1,404",52
+10 004, Durango, Cuencamé,33664,"23,632","9,736",296
+10 005, Durango, Durango,582267,"396,541","165,963","19,763"
+10 006, Durango, General Simón Bolívar,10629,"7,723","2,861",45
+10 007, Durango, Gómez Palacio,327985,"241,537","82,436","4,012"
+10 008, Durango, Guadalupe Victoria,34052,"16,858","16,991",203
+10 009, Durango, Guanaceví,10149,"5,527","4,598",24
+10 010, Durango, Hidalgo,4265,"3,206","1,010",49
+10 011, Durango, Indé,5280,"3,611","1,620",49
+10 012, Durango, Lerdo,141043,"98,265","39,027","3,751"
+10 013, Durango, Mapimí,25137,"16,642","8,310",185
+10 014, Durango, Mezquital,33396,"19,810","12,356","1,230"
+10 015, Durango, Nazas,12411,"8,453","3,910",48
+10 016, Durango, Nombre de Dios,18488,"11,182","7,222",84
+10 017, Durango, Ocampo,9626,"6,810","2,806",10
+10 018, Durango, El Oro,11320,"7,372","3,925",23
+10 019, Durango, Otáez,5208,"3,038","2,152",18
+10 020, Durango, Pánuco de Coronado,11927,"8,143","3,705",79
+10 021, Durango, Peñón Blanco,10473,"7,106","3,349",18
+10 022, Durango, Poanas,24918,"15,607","9,187",124
+10 023, Durango, Pueblo Nuevo,49162,"33,312","15,574",276
+10 024, Durango, Rodeo,12788,"9,926","2,775",87
+10 025, Durango, San Bernardo,3433,"2,595",825,13
+10 026, Durango, San Dimas,19691,"14,299","5,294",98
+10 027, Durango, San Juan de Guadalupe,5947,"4,183","1,739",25
+10 028, Durango, San Juan del Río,11855,"8,749","2,955",151
+10 029, Durango, San Luis del Cordero,2181,"1,534",635,12
+10 030, Durango, San Pedro del Gallo,1709,"1,281",420,8
+10 031, Durango, Santa Clara,7003,"4,841","2,151",11
+10 032, Durango, Santiago Papasquiaro,44966,"28,328","15,997",641
+10 033, Durango, Súchil,6761,"4,780","1,967",14
+10 034, Durango, Tamazula,26368,"16,833","9,468",67
+10 035, Durango, Tepehuanes,10745,"7,484","3,138",123
+10 036, Durango, Tlahualilo,22244,"16,407","5,672",165
+10 037, Durango, Topia,8581,"4,654","3,904",23
+10 038, Durango, Vicente Guerrero,21117,"10,289","10,751",77
+10 039, Durango, Nuevo Ideal,26092,"15,512","10,463",117
+11 001, Guanajuato, Abasolo,84332,"60,462","23,643",227
+11 002, Guanajuato, Acámbaro,109030,"76,917","31,364",749
+11 003, Guanajuato, San Miguel de Allende,160383,"103,935","55,225","1,223"
+11 004, Guanajuato, Apaseo el Alto,64433,"42,529","21,728",176
+11 005, Guanajuato, Apaseo el Grande,85319,"59,969","25,154",196
+11 006, Guanajuato, Atarjea,5610,"5,213",388,9
+11 007, Guanajuato, Celaya,468469,"293,636","167,756","7,077"
+11 008, Guanajuato, Manuel Doblado,37145,"26,791","10,283",71
+11 009, Guanajuato, Comonfort,77794,"56,904","20,745",145
+11 010, Guanajuato, Coroneo,11691,"9,830","1,783",78
+11 011, Guanajuato, Cortazar,88397,"63,512","24,573",312
+11 012, Guanajuato, Cuerámaro,27308,"18,593","8,539",176
+11 013, Guanajuato, Doctor Mora,23324,"18,790","4,512",22
+11 014, Guanajuato, Dolores Hidalgo Cuna de la Independencia Nacional,148173,"107,786","39,486",901
+11 015, Guanajuato, Guanajuato,171709,"130,510","37,923","3,276"
+11 016, Guanajuato, Huanímaro,20117,"16,120","3,906",91
+11 017, Guanajuato, Irapuato,529440,"341,297","184,668","3,475"
+11 018, Guanajuato, Jaral del Progreso,36584,"28,257","8,234",93
+11 019, Guanajuato, Jerécuaro,50832,"40,294","10,389",149
+11 020, Guanajuato, León,1436480,"1,006,570","418,990","10,920"
+11 021, Guanajuato, Moroleón,49364,"24,832","23,863",669
+11 022, Guanajuato, Ocampo,22683,"18,144","4,487",52
+11 023, Guanajuato, Pénjamo,149936,"95,663","53,705",568
+11 024, Guanajuato, Pueblo Nuevo,11169,"7,981","3,149",39
+11 025, Guanajuato, Purísima del Rincón,68795,"49,590","18,974",231
+11 026, Guanajuato, Romita,56655,"46,800","9,709",146
+11 027, Guanajuato, Salamanca,260732,"186,773","71,861","2,098"
+11 028, Guanajuato, Salvatierra,97054,"66,564","29,999",491
+11 029, Guanajuato, San Diego de la Unión,37103,"30,184","6,849",70
+11 030, Guanajuato, San Felipe,106952,"86,878","19,858",216
+11 031, Guanajuato, San Francisco del Rincón,113570,"78,281","34,218","1,071"
+11 032, Guanajuato, San José Iturbide,72411,"54,565","17,692",154
+11 033, Guanajuato, San Luis de la Paz,115656,"78,218","37,108",330
+11 034, Guanajuato, Santa Catarina,5120,"4,561",513,46
+11 035, Guanajuato, Santa Cruz de Juventino Rosas,79214,"53,804","25,154",256
+11 036, Guanajuato, Santiago Maravatío,6670,"5,308","1,336",26
+11 037, Guanajuato, Silao,173024,"133,514","38,578",932
+11 038, Guanajuato, Tarandacuao,11641,"8,338","3,255",48
+11 039, Guanajuato, Tarimoro,35571,"26,651","8,723",197
+11 040, Guanajuato, Tierra Blanca,18175,"15,201","2,922",52
+11 041, Guanajuato, Uriangato,59305,"32,533","25,954",818
+11 042, Guanajuato, Valle de Santiago,141058,"92,021","48,495",542
+11 043, Guanajuato, Victoria,19820,"16,524","3,261",35
+11 044, Guanajuato, Villagrán,55782,"42,763","12,774",245
+11 045, Guanajuato, Xichú,11560,"10,706",836,18
+11 046, Guanajuato, Yuriria,70782,"48,159","22,047",576
+12 001, Guerrero, Acapulco de Juárez,789971,"446,163","335,482","8,326"
+12 002, Guerrero, Ahuacuotzingo,25027,"12,458","12,328",241
+12 003, Guerrero, Ajuchitlán del Progreso,38203,"9,968","27,987",248
+12 004, Guerrero, Alcozauca de Guerrero,18971,"14,292","4,579",100
+12 005, Guerrero, Alpoyeca,6637,"4,617","1,960",60
+12 006, Guerrero, Apaxtla,12389,"2,989","9,260",140
+12 007, Guerrero, Arcelia,32181,"15,721","15,805",655
+12 008, Guerrero, Atenango del Río,8390,"4,587","3,748",55
+12 009, Guerrero, Atlamajalcingo del Monte,5706,553,"4,642",511
+12 010, Guerrero, Atlixtac,26341,"12,597","13,388",356
+12 011, Guerrero, Atoyac de Álvarez,61316,"34,948","26,121",247
+12 012, Guerrero, Ayutla de los Libres,62690,"41,334","21,172",184
+12 013, Guerrero, Azoyú,14429,"5,447","8,894",88
+12 014, Guerrero, Benito Juárez,15019,"9,854","5,139",26
+12 015, Guerrero, Buenavista de Cuéllar,12688,"5,102","7,559",27
+12 016, Guerrero, Coahuayutla de José María Izazaga,13025,"7,792","5,166",67
+12 017, Guerrero, Cocula,14707,"5,746","8,929",32
+12 018, Guerrero, Copala,13636,"9,203","4,354",79
+12 019, Guerrero, Copalillo,14456,"9,335","4,991",130
+12 020, Guerrero, Copanatoyac,18855,"11,436","7,229",190
+12 021, Guerrero, Coyuca de Benítez,73460,"31,950","41,312",198
+12 022, Guerrero, Coyuca de Catalán,42069,"16,662","22,464","2,943"
+12 023, Guerrero, Cuajinicuilapa,25922,"15,709","9,996",217
+12 024, Guerrero, Cualác,7007,"3,261","3,390",356
+12 025, Guerrero, Cuautepec,15115,"8,444","6,629",42
+12 026, Guerrero, Cuetzala del Progreso,9166,"2,071","7,053",42
+12 027, Guerrero, Cutzamala de Pinzón,21388,"6,822","14,443",123
+12 028, Guerrero, Chilapa de Álvarez,120790,"53,943","66,165",682
+12 029, Guerrero, Chilpancingo de los Bravo,241717,"135,140","103,919","2,658"
+12 030, Guerrero, Florencio Villarreal,20175,"10,006","10,097",72
+12 031, Guerrero, General Canuto A. Neri,6301,"1,547","4,671",83
+12 032, Guerrero, General Heliodoro Castillo,36586,"28,478","7,948",160
+12 033, Guerrero, Huamuxtitlán,14393,"11,230","2,941",222
+12 034, Guerrero, Huitzuco de los Figueroa,37364,"21,900","15,343",121
+12 035, Guerrero, Iguala de la Independencia,140363,"73,427","65,722","1,214"
+12 036, Guerrero, Igualapa,10815,"4,170","6,622",23
+12 037, Guerrero, Ixcateopan de Cuauhtémoc,6603,"3,638","2,921",44
+12 038, Guerrero, Zihuatanejo de Azueta,118211,"68,238","49,061",912
+12 039, Guerrero, Juan R. Escudero,24364,"11,398","12,922",44
+12 040, Guerrero, Leonardo Bravo,24720,"12,962","11,703",55
+12 041, Guerrero, Malinaltepec,29599,"10,062","19,345",192
+12 042, Guerrero, Mártir de Cuilapan,17702,"8,351","9,245",106
+12 043, Guerrero, Metlatónoc,18976,"2,835","15,954",187
+12 044, Guerrero, Mochitlán,11376,"6,084","5,260",32
+12 045, Guerrero, Olinalá,24723,"14,620","9,913",190
+12 046, Guerrero, Ometepec,61306,"33,277","27,793",236
+12 047, Guerrero, Pedro Ascencio Alquisiras,6978,"2,800","4,165",13
+12 048, Guerrero, Petatlán,44979,"29,714","15,092",173
+12 049, Guerrero, Pilcaya,11558,"6,603","4,937",18
+12 050, Guerrero, Pungarabato,37035,"13,907","22,806",322
+12 051, Guerrero, Quechultenango,34728,"25,216","9,388",124
+12 052, Guerrero, San Luis Acatlán,42360,"28,433","13,697",230
+12 053, Guerrero, San Marcos,48501,"30,256","18,128",117
+12 054, Guerrero, San Miguel Totolapan,28009,"9,567","18,197",245
+12 055, Guerrero, Taxco de Alarcón,104053,"62,151","41,264",638
+12 056, Guerrero, Tecoanapa,44079,"28,522","15,472",85
+12 057, Guerrero, Técpan de Galeana,62071,"32,919","28,994",158
+12 058, Guerrero, Teloloapan,53769,"17,704","35,884",181
+12 059, Guerrero, Tepecoacuilco de Trujano,30470,"15,279","15,022",169
+12 060, Guerrero, Tetipac,13128,"9,005","4,053",70
+12 061, Guerrero, Tixtla de Guerrero,40058,"21,209","18,440",409
+12 062, Guerrero, Tlacoachistlahuaca,21306,"13,580","7,486",240
+12 063, Guerrero, Tlacoapa,9967,350,"9,520",97
+12 064, Guerrero, Tlalchapa,11495,"4,936","6,527",32
+12 065, Guerrero, Tlalixtaquilla de Maldonado,7096,"5,113","1,940",43
+12 066, Guerrero, Tlapa de Comonfort,81419,"44,410","36,115",894
+12 067, Guerrero, Tlapehuala,21819,"6,638","15,101",80
+12 068, Guerrero, La Unión de Isidoro Montes de Oca,25712,"12,074","13,395",243
+12 069, Guerrero, Xalpatláhuac,12240,"8,024","4,119",97
+12 070, Guerrero, Xochihuehuetlán,7079,"6,215",705,159
+12 071, Guerrero, Xochistlahuaca,28089,"22,746","5,054",289
+12 072, Guerrero, Zapotitlán Tablas,10516,312,"10,081",123
+12 073, Guerrero, Zirándaro,18813,"4,300","13,002","1,511"
+12 074, Guerrero, Zitlala,22587,"9,199","13,344",44
+12 075, Guerrero, Eduardo Neri,46158,"28,339","17,601",218
+12 076, Guerrero, Acatepec,32792,"20,470","11,812",510
+12 077, Guerrero, Marquelia,12912,"6,885","5,886",141
+12 078, Guerrero, Cochoapa el Grande,18778,"1,691","17,006",81
+12 079, Guerrero, José Joaquín de Herrera,15678,"8,279","7,032",367
+12 080, Guerrero, Juchitán,7166,"3,576","3,570",20
+12 081, Guerrero, Iliatenco,10522,"6,508","3,804",210
+13 001, Hidalgo, Acatlán,20077,"12,282","7,734",61
+13 002, Hidalgo, Acaxochitlán,40583,"22,313","17,954",316
+13 003, Hidalgo, Actopan,54299,"31,923","22,197",179
+13 004, Hidalgo, Agua Blanca de Iturbide,8994,"2,450","6,502",42
+13 005, Hidalgo, Ajacuba,17055,"11,119","5,695",241
+13 006, Hidalgo, Alfajayucan,18879,"13,642","5,213",24
+13 007, Hidalgo, Almoloya,11294,"9,073","2,190",31
+13 008, Hidalgo, Apan,42563,"28,055","14,047",461
+13 009, Hidalgo, El Arenal,17374,"11,392","5,878",104
+13 010, Hidalgo, Atitalaquia,26904,"19,016","7,698",190
+13 011, Hidalgo, Atlapexco,19452,"15,451","3,931",70
+13 012, Hidalgo, Atotonilco el Grande,26940,"18,789","8,043",108
+13 013, Hidalgo, Atotonilco de Tula,31078,"21,892","9,013",173
+13 014, Hidalgo, Calnali,16962,"13,774","3,162",26
+13 015, Hidalgo, Cardonal,18427,"13,116","5,272",39
+13 016, Hidalgo, Cuautepec de Hinojosa,54500,"29,603","24,536",361
+13 017, Hidalgo, Chapantongo,12271,"9,113","3,148",10
+13 018, Hidalgo, Chapulhuacán,22402,"18,289","4,050",63
+13 019, Hidalgo, Chilcuautla,17436,"10,035","7,352",49
+13 020, Hidalgo, Eloxochitlán,2800,815,"1,955",30
+13 021, Hidalgo, Emiliano Zapata,13357,"8,910","4,394",53
+13 022, Hidalgo, Epazoyucan,13830,"9,354","4,407",69
+13 023, Hidalgo, Francisco I. Madero,33901,"22,199","11,584",118
+13 024, Hidalgo, Huasca de Ocampo,17182,"11,272","5,838",72
+13 025, Hidalgo, Huautla,22621,"16,242","6,295",84
+13 026, Hidalgo, Huazalingo,12779,"8,259","4,461",59
+13 027, Hidalgo, Huehuetla,23563,"19,642","3,672",249
+13 028, Hidalgo, Huejutla de Reyes,122905,"79,485","43,016",404
+13 029, Hidalgo, Huichapan,44253,"32,724","11,454",75
+13 030, Hidalgo, Ixmiquilpan,86363,"52,861","32,412","1,090"
+13 031, Hidalgo, Jacala de Ledezma,12804,"10,881","1,911",12
+13 032, Hidalgo, Jaltocán,10933,"8,311","2,589",33
+13 033, Hidalgo, Juárez Hidalgo,3193,"1,161","2,023",9
+13 034, Hidalgo, Lolotla,9843,"8,401","1,424",18
+13 035, Hidalgo, Metepec,11429,"3,274","8,095",60
+13 036, Hidalgo, San Agustín Metzquititlán,9364,"5,092","4,259",13
+13 037, Hidalgo, Metztitlán,21623,"6,205","15,367",51
+13 038, Hidalgo, Mineral del Chico,7980,"6,183","1,776",21
+13 039, Hidalgo, Mineral del Monte,13864,"9,336","4,451",77
+13 040, Hidalgo, La Misión,10452,"9,136","1,297",19
+13 041, Hidalgo, Mixquiahuala de Juárez,42834,"26,734","15,953",147
+13 042, Hidalgo, Molango de Escamilla,11209,"8,282","2,883",44
+13 043, Hidalgo, Nicolás Flores,6614,"5,065","1,523",26
+13 044, Hidalgo, Nopala de Villagrán,15666,"11,561","4,071",34
+13 045, Hidalgo, Omitlán de Juárez,8963,"7,056","1,898",9
+13 046, Hidalgo, San Felipe Orizatlán,39181,"23,346","15,641",194
+13 047, Hidalgo, Pacula,5049,"3,884","1,151",14
+13 048, Hidalgo, Pachuca de Soto,267862,"172,867","89,746","5,249"
+13 049, Hidalgo, Pisaflores,18244,"15,089","3,142",13
+13 050, Hidalgo, Progreso de Obregón,22217,"13,622","8,542",53
+13 051, Hidalgo, Mineral de la Reforma,127404,"88,861","36,068","2,475"
+13 052, Hidalgo, San Agustín Tlaxiaca,32057,"19,769","12,117",171
+13 053, Hidalgo, San Bartolo Tutotepec,18137,"15,513","2,530",94
+13 054, Hidalgo, San Salvador,32773,"22,846","9,874",53
+13 055, Hidalgo, Santiago de Anaya,16014,"12,148","3,810",56
+13 056, Hidalgo, Santiago Tulantepec de Lugo Guerrero,33495,"19,959","12,811",725
+13 057, Hidalgo, Singuilucan,14851,"9,431","5,292",128
+13 058, Hidalgo, Tasquillo,16865,"9,093","7,664",108
+13 059, Hidalgo, Tecozautla,35067,"27,338","7,626",103
+13 060, Hidalgo, Tenango de Doria,17206,"14,574","2,519",113
+13 061, Hidalgo, Tepeapulco,51664,"35,777","15,392",495
+13 062, Hidalgo, Tepehuacán de Guerrero,29125,"23,549","5,519",57
+13 063, Hidalgo, Tepeji del Río de Ocampo,80612,"58,387","22,051",174
+13 064, Hidalgo, Tepetitlán,9940,"6,434","3,496",10
+13 065, Hidalgo, Tetepango,11112,"6,755","3,756",601
+13 066, Hidalgo, Villa de Tezontepec,11654,"6,944","4,591",119
+13 067, Hidalgo, Tezontepec de Aldama,48025,"29,128","18,807",90
+13 068, Hidalgo, Tianguistengo,14037,"5,752","8,248",37
+13 069, Hidalgo, Tizayuca,97461,"61,013","33,036","3,412"
+13 070, Hidalgo, Tlahuelilpan,17153,"10,741","6,274",138
+13 071, Hidalgo, Tlahuiltepa,9753,"5,106","4,507",140
+13 072, Hidalgo, Tlanalapa,10248,"7,477","2,690",81
+13 073, Hidalgo, Tlanchinol,36382,"32,861","3,397",124
+13 074, Hidalgo, Tlaxcoapan,26758,"18,203","8,506",49
+13 075, Hidalgo, Tolcayuca,13228,"8,288","4,902",38
+13 076, Hidalgo, Tula de Allende,103919,"72,150","30,730","1,039"
+13 077, Hidalgo, Tulancingo de Bravo,151584,"76,310","73,146","2,128"
+13 078, Hidalgo, Xochiatipan,19067,"17,277","1,748",42
+13 079, Hidalgo, Xochicoatlán,7320,"2,595","4,695",30
+13 080, Hidalgo, Yahualica,23607,"13,877","9,661",69
+13 081, Hidalgo, Zacualtipán de Ángeles,32437,"12,488","19,763",186
+13 082, Hidalgo, Zapotlán de Juárez,18036,"10,857","6,987",192
+13 083, Hidalgo, Zempoala,39143,"24,477","13,915",751
+13 084, Hidalgo, Zimapán,38516,"24,653","13,622",241
+14 001, Jalisco, Acatic,21206,"12,950","8,234",22
+14 002, Jalisco, Acatlán de Juárez,23241,"16,984","6,164",93
+14 003, Jalisco, Ahualulco de Mercado,21714,"16,010","5,644",60
+14 004, Jalisco, Amacueca,5545,"3,760","1,762",23
+14 005, Jalisco, Amatitán,14648,"11,046","3,566",36
+14 006, Jalisco, Ameca,57340,"38,627","18,412",301
+14 007, Jalisco, San Juanito de Escobedo,8896,"7,362","1,466",68
+14 008, Jalisco, Arandas,72812,"38,188","34,327",297
+14 009, Jalisco, El Arenal,17545,"11,784","5,425",336
+14 010, Jalisco, Atemajac de Brizuela,6655,"5,074","1,556",25
+14 011, Jalisco, Atengo,5400,"4,085","1,305",10
+14 012, Jalisco, Atenguillo,4115,"2,650","1,447",18
+14 013, Jalisco, Atotonilco el Alto,57717,"36,721","20,790",206
+14 014, Jalisco, Atoyac,8276,"5,998","2,252",26
+14 015, Jalisco, Autlán de Navarro,57559,"42,322","14,998",239
+14 016, Jalisco, Ayotlán,38291,"20,502","17,679",110
+14 017, Jalisco, Ayutla,12664,"9,239","3,414",11
+14 018, Jalisco, La Barca,64269,"39,074","25,048",147
+14 019, Jalisco, Bolaños,6820,"4,847","1,838",135
+14 020, Jalisco, Cabo Corrientes,10029,"7,308","2,685",36
+14 021, Jalisco, Casimiro Castillo,21475,"16,217","5,226",32
+14 022, Jalisco, Cihuatlán,39020,"23,014","15,605",401
+14 023, Jalisco, Zapotlán el Grande,100534,"71,177","27,727","1,630"
+14 024, Jalisco, Cocula,26174,"17,506","8,592",76
+14 025, Jalisco, Colotlán,18091,"13,657","4,305",129
+14 026, Jalisco, Concepción de Buenos Aires,5933,"3,767","2,165",1
+14 027, Jalisco, Cuautitlán de García Barragán,17322,"14,503","2,779",40
+14 028, Jalisco, Cuautla,2171,"1,184",983,4
+14 029, Jalisco, Cuquío,17795,"11,807","5,862",126
+14 030, Jalisco, Chapala,48839,"24,198","23,946",695
+14 031, Jalisco, Chimaltitán,3771,"3,136",623,12
+14 032, Jalisco, Chiquilistlán,5814,"4,239","1,571",4
+14 033, Jalisco, Degollado,21132,"10,991","10,086",55
+14 034, Jalisco, Ejutla,2082,"1,569",511,2
+14 035, Jalisco, Encarnación de Díaz,51396,"27,599","23,625",172
+14 036, Jalisco, Etzatlán,18632,"13,851","4,731",50
+14 037, Jalisco, El Grullo,23845,"16,096","7,527",222
+14 038, Jalisco, Guachinango,4323,"3,322",990,11
+14 039, Jalisco, Guadalajara,1495189,"945,326","519,653","30,210"
+14 040, Jalisco, Hostotipaquillo,10284,"7,829","2,427",28
+14 041, Jalisco, Huejúcar,6084,"3,438","2,638",8
+14 042, Jalisco, Huejuquilla el Alto,8781,"6,357","2,397",27
+14 043, Jalisco, La Huerta,23428,"15,150","8,222",56
+14 044, Jalisco, Ixtlahuacán de los Membrillos,41060,"25,307","15,632",121
+14 045, Jalisco, Ixtlahuacán del Río,19005,"11,580","7,369",56
+14 046, Jalisco, Jalostotitlán,31948,"15,283","16,584",81
+14 047, Jalisco, Jamay,22881,"15,673","7,143",65
+14 048, Jalisco, Jesús María,18634,"8,538","10,044",52
+14 049, Jalisco, Jilotlán de los Dolores,9545,"5,782","3,751",12
+14 050, Jalisco, Jocotepec,42164,"19,908","21,734",522
+14 051, Jalisco, Juanacatlán,13218,"8,745","4,449",24
+14 052, Jalisco, Juchitlán,5515,"4,238","1,276",1
+14 053, Jalisco, Lagos de Moreno,153817,"102,277","50,989",551
+14 054, Jalisco, El Limón,5499,"3,921","1,555",23
+14 055, Jalisco, Magdalena,21321,"14,924","6,217",180
+14 056, Jalisco, Santa María del Oro,2517,"1,932",572,13
+14 057, Jalisco, La Manzanilla de la Paz,3755,"2,513","1,239",3
+14 058, Jalisco, Mascota,14245,"10,839","3,364",42
+14 059, Jalisco, Mazamitla,13225,"7,927","5,251",47
+14 060, Jalisco, Mexticacán,6034,"4,085","1,937",12
+14 061, Jalisco, Mezquitic,18084,"9,983","7,829",272
+14 062, Jalisco, Mixtlán,3574,"2,256","1,314",4
+14 063, Jalisco, Ocotlán,92967,"64,106","28,094",767
+14 064, Jalisco, Ojuelos de Jalisco,30097,"22,966","7,090",41
+14 065, Jalisco, Pihuamo,12119,"9,352","2,759",8
+14 066, Jalisco, Poncitlán,48408,"32,208","16,082",118
+14 067, Jalisco, Puerto Vallarta,255681,"168,062","80,688","6,931"
+14 068, Jalisco, Villa Purificación,11623,"8,131","3,462",30
+14 069, Jalisco, Quitupan,8691,"4,794","3,883",14
+14 070, Jalisco, El Salto,138226,"87,929","49,347",950
+14 071, Jalisco, San Cristóbal de la Barranca,3176,"2,333",728,115
+14 072, Jalisco, San Diego de Alejandría,6647,"4,432","2,198",17
+14 073, Jalisco, San Juan de los Lagos,65219,"41,684","23,291",244
+14 074, Jalisco, San Julián,15454,"7,863","7,524",67
+14 075, Jalisco, San Marcos,3762,"2,844",916,2
+14 076, Jalisco, San Martín de Bolaños,3405,"2,726",650,29
+14 077, Jalisco, San Martín Hidalgo,26306,"16,960","9,277",69
+14 078, Jalisco, San Miguel el Alto,31166,"17,685","13,389",92
+14 079, Jalisco, Gómez Farías,14011,"9,950","3,925",136
+14 080, Jalisco, San Sebastián del Oeste,5755,"4,699","1,042",14
+14 081, Jalisco, Santa María de los Ángeles,3726,"2,756",961,9
+14 082, Jalisco, Sayula,34829,"25,082","9,646",101
+14 083, Jalisco, Tala,69031,"50,381","18,502",148
+14 084, Jalisco, Talpa de Allende,14410,"10,823","3,550",37
+14 085, Jalisco, Tamazula de Gordiano,37986,"26,107","11,740",139
+14 086, Jalisco, Tapalpa,18096,"13,091","4,901",104
+14 087, Jalisco, Tecalitlán,16847,"11,637","5,202",8
+14 088, Jalisco, Tecolotlán,16573,"11,558","4,981",34
+14 089, Jalisco, Techaluta de Montenegro,3511,"2,905",595,11
+14 090, Jalisco, Tenamaxtlán,7051,"5,142","1,901",8
+14 091, Jalisco, Teocaltiche,40105,"23,170","16,779",156
+14 092, Jalisco, Teocuitatlán de Corona,10837,"7,938","2,885",14
+14 093, Jalisco, Tepatitlán de Morelos,136123,"84,277","51,196",650
+14 094, Jalisco, Tequila,40697,"27,663","12,876",158
+14 095, Jalisco, Teuchitlán,9088,"6,436","2,632",20
+14 096, Jalisco, Tizapán el Alto,20857,"12,304","8,470",83
+14 097, Jalisco, Tlajomulco de Zúñiga,416626,"273,125","130,307","13,194"
+14 098, Jalisco, Tlaquepaque,608114,"384,595","216,548","6,971"
+14 099, Jalisco, Tolimán,9591,"7,857","1,729",5
+14 100, Jalisco, Tomatlán,35050,"26,442","8,279",329
+14 101, Jalisco, Tonalá,478689,"278,662","189,802","10,225"
+14 102, Jalisco, Tonaya,5930,"3,894","2,020",16
+14 103, Jalisco, Tonila,7256,"5,423","1,825",8
+14 104, Jalisco, Totatiche,4435,"2,756","1,621",58
+14 105, Jalisco, Tototlán,21871,"13,061","8,737",73
+14 106, Jalisco, Tuxcacuesco,4234,"3,152","1,069",13
+14 107, Jalisco, Tuxcueca,6316,"3,814","2,454",48
+14 108, Jalisco, Tuxpan,34182,"23,531","10,490",161
+14 109, Jalisco, Unión de San Antonio,17325,"10,615","6,645",65
+14 110, Jalisco, Unión de Tula,13737,"10,281","3,436",20
+14 111, Jalisco, Valle de Guadalupe,6705,"3,740","2,953",12
+14 112, Jalisco, Valle de Juárez,5798,"3,066","2,715",17
+14 113, Jalisco, San Gabriel,15310,"10,071","5,155",84
+14 114, Jalisco, Villa Corona,16969,"10,662","6,202",105
+14 115, Jalisco, Villa Guerrero,5638,"3,701","1,913",24
+14 116, Jalisco, Villa Hidalgo,18711,"8,056","10,580",75
+14 117, Jalisco, Cañadas de Obregón,4152,"2,574","1,565",13
+14 118, Jalisco, Yahualica de González Gallo,22284,"17,844","4,350",90
+14 119, Jalisco, Zacoalco de Torres,27901,"15,266","12,452",183
+14 120, Jalisco, Zapopan,1243756,"815,577","405,232","22,947"
+14 121, Jalisco, Zapotiltic,29192,"19,149","9,949",94
+14 122, Jalisco, Zapotitlán de Vadillo,6685,"5,381","1,286",18
+14 123, Jalisco, Zapotlán del Rey,17585,"11,261","6,305",19
+14 124, Jalisco, Zapotlanejo,63636,"29,814","33,578",244
+14 125, Jalisco, San Ignacio Cerro Gordo,17626,"9,733","7,840",53
+15 001, México, Acambay,60918,"42,897","17,771",250
+15 002, México, Acolman,136558,"74,084","55,747","6,727"
+15 003, México, Aculco,44823,"34,278","10,481",64
+15 004, México, Almoloya de Alquisiras,14856,"11,223","3,613",20
+15 005, México, Almoloya de Juárez,147653,"95,365","48,534","3,754"
+15 006, México, Almoloya del Río,10886,"6,069","4,764",53
+15 007, México, Amanalco,22868,"16,375","6,391",102
+15 008, México, Amatepec,26334,"19,444","6,861",29
+15 009, México, Amecameca,48421,"23,136","24,812",473
+15 010, México, Apaxco,27521,"14,620","12,781",120
+15 011, México, Atenco,56243,"24,823","30,537",883
+15 012, México, Atizapán,10299,"6,149","4,055",95
+15 013, México, Atizapán de Zaragoza,489937,"286,129","197,401","6,407"
+15 014, México, Atlacomulco,93718,"62,918","30,203",597
+15 015, México, Atlautla,27663,"15,396","11,989",278
+15 016, México, Axapusco,25559,"13,372","12,059",128
+15 017, México, Ayapango,8864,"5,098","3,719",47
+15 018, México, Calimaya,47033,"25,290","21,301",442
+15 019, México, Capulhuac,34101,"11,869","21,971",261
+15 020, México, Coacalco de Berriozábal,278064,"186,773","87,783","3,508"
+15 021, México, Coatepec Harinas,36174,"27,319","8,720",135
+15 022, México, Cocotitlán,12142,"8,101","3,947",94
+15 023, México, Coyotepec,39030,"20,567","17,498",965
+15 024, México, Cuautitlán,140059,"91,549","44,672","3,838"
+15 025, México, Chalco,310130,"141,616","162,184","6,330"
+15 026, México, Chapa de Mota,27551,"20,156","7,292",103
+15 027, México, Chapultepec,9676,"7,227","2,335",114
+15 028, México, Chiautla,26191,"11,706","14,291",194
+15 029, México, Chicoloapan,175053,"103,402","70,119","1,532"
+15 030, México, Chiconcuac,22819,"7,500","14,916",403
+15 031, México, Chimalhuacán,614453,"275,903","333,619","4,931"
+15 032, México, Donato Guerra,33455,"22,959","10,289",207
+15 033, México, Ecatepec de Morelos,1656107,"932,548","699,848","23,711"
+15 034, México, Ecatzingo,9369,"5,370","3,956",43
+15 035, México, Huehuetoca,100023,"67,963","30,968","1,092"
+15 036, México, Hueypoxtla,39864,"12,821","26,927",116
+15 037, México, Huixquilucan,242167,"143,636","88,303","10,228"
+15 038, México, Isidro Fabela,10308,"6,792","3,491",25
+15 039, México, Ixtapaluca,467361,"257,366","205,799","4,196"
+15 040, México, Ixtapan de la Sal,33541,"26,548","6,868",125
+15 041, México, Ixtapan del Oro,6629,"5,616",994,19
+15 042, México, Ixtlahuaca,141482,"91,723","49,162",597
+15 043, México, Xalatlaco,26865,"13,351","13,290",224
+15 044, México, Jaltenco,26328,"16,629","9,358",341
+15 045, México, Jilotepec,83755,"59,391","23,742",622
+15 046, México, Jilotzingo,17970,"9,104","8,804",62
+15 047, México, Jiquipilco,69031,"41,541","27,221",269
+15 048, México, Jocotitlán,61204,"38,971","21,990",243
+15 049, México, Joquicingo,12840,"8,620","4,099",121
+15 050, México, Juchitepec,23497,"12,183","11,235",79
+15 051, México, Lerma,134799,"87,231","45,439","2,129"
+15 052, México, Malinalco,25624,"17,549","7,782",293
+15 053, México, Melchor Ocampo,50240,"26,795","22,683",762
+15 054, México, Metepec,214162,"147,214","62,162","4,786"
+15 055, México, Mexicaltzingo,11712,"5,681","5,941",90
+15 056, México, Morelos,28426,"20,857","7,352",217
+15 057, México, Naucalpan de Juárez,833779,"465,325","346,892","21,562"
+15 058, México, Nezahualcóyotl,1110565,"588,296","502,743","19,526"
+15 059, México, Nextlalpan,31691,"17,031","14,389",271
+15 060, México, Nicolás Romero,366602,"204,368","158,342","3,892"
+15 061, México, Nopaltepec,8895,"4,743","4,111",41
+15 062, México, Ocoyoacac,61805,"36,816","24,612",377
+15 063, México, Ocuilan,31803,"18,562","13,101",140
+15 064, México, El Oro,34446,"26,885","7,275",286
+15 065, México, Otumba,34232,"14,973","17,899","1,360"
+15 066, México, Otzoloapan,4864,"3,592","1,264",8
+15 067, México, Otzolotepec,78146,"46,674","30,973",499
+15 068, México, Ozumba,27207,"13,768","13,098",341
+15 069, México, Papalotla,4147,"1,971","2,158",18
+15 070, México, La Paz,253845,"130,426","121,372","2,047"
+15 071, México, Polotitlán,13002,"9,806","3,144",52
+15 072, México, Rayón,12748,"8,485","4,232",31
+15 073, México, San Antonio la Isla,22152,"14,950","6,724",478
+15 074, México, San Felipe del Progreso,121396,"83,373","37,513",510
+15 075, México, San Martín de las Pirámides,24851,"13,190","11,552",109
+15 076, México, San Mateo Atenco,72579,"46,210","25,133","1,236"
+15 077, México, San Simón de Guerrero,6272,"5,008","1,258",6
+15 078, México, Santo Tomás,9111,"7,667","1,347",97
+15 079, México, Soyaniquilpan de Juárez,11798,"8,946","2,805",47
+15 080, México, Sultepec,25809,"21,260","4,300",249
+15 081, México, Tecámac,364579,"215,273","143,816","5,490"
+15 082, México, Tejupilco,71077,"52,949","17,910",218
+15 083, México, Temamatla,11206,"7,993","3,134",79
+15 084, México, Temascalapa,35987,"17,322","18,311",354
+15 085, México, Temascalcingo,62695,"39,855","22,661",179
+15 086, México, Temascaltepec,32870,"23,688","8,801",381
+15 087, México, Temoaya,90010,"59,761","29,903",346
+15 088, México, Tenancingo,90946,"46,026","43,973",947
+15 089, México, Tenango del Aire,10578,"6,295","4,253",30
+15 090, México, Tenango del Valle,77965,"42,401","34,912",652
+15 091, México, Teoloyucan,63115,"29,430","32,924",761
+15 092, México, Teotihuacán,53010,"30,099","21,426","1,485"
+15 093, México, Tepetlaoxtoc,27944,"15,194","12,623",127
+15 094, México, Tepetlixpa,18327,"7,510","10,747",70
+15 095, México, Tepotzotlán,88559,"48,653","38,790","1,116"
+15 096, México, Tequixquiac,33907,"13,526","20,146",235
+15 097, México, Texcaltitlán,17390,"13,534","3,796",60
+15 098, México, Texcalyacac,5111,"3,329","1,758",24
+15 099, México, Texcoco,235151,"113,051","116,534","5,566"
+15 100, México, Tezoyuca,35199,"15,146","19,428",625
+15 101, México, Tianguistenco,70682,"33,735","36,648",299
+15 102, México, Timilpan,15391,"11,178","4,126",87
+15 103, México, Tlalmanalco,46130,"30,744","14,801",585
+15 104, México, Tlalnepantla de Baz,664225,"414,670","228,276","21,279"
+15 105, México, Tlatlaya,32997,"25,823","7,084",90
+15 106, México, Toluca,819561,"536,874","266,231","16,456"
+15 107, México, Tonatico,12099,"9,996","2,080",23
+15 108, México, Tultepec,131567,"71,450","58,926","1,191"
+15 109, México, Tultitlán,486998,"293,695","184,844","8,459"
+15 110, México, Valle de Bravo,61599,"39,586","21,259",754
+15 111, México, Villa de Allende,47709,"31,082","16,542",85
+15 112, México, Villa del Carbón,44881,"34,532","10,223",126
+15 113, México, Villa Guerrero,59991,"40,975","18,721",295
+15 114, México, Villa Victoria,94369,"59,140","34,873",356
+15 115, México, Xonacatlán,46331,"29,649","16,527",155
+15 116, México, Zacazonapan,4051,"3,450",591,10
+15 117, México, Zacualpan,15121,"12,315","2,797",9
+15 118, México, Zinacantepec,167759,"110,450","55,604","1,705"
+15 119, México, Zumpahuacán,16365,"10,502","5,805",58
+15 120, México, Zumpango,159647,"82,001","75,629","2,017"
+15 121, México, Cuautitlán Izcalli,511675,"326,964","172,394","12,317"
+15 122, México, Valle de Chalco Solidaridad,357645,"147,888","206,755","3,002"
+15 123, México, Luvianos,27781,"22,717","4,980",84
+15 124, México, San José del Rincón,91345,"64,267","26,807",271
+15 125, México, Tonanitla,10216,"5,808","4,315",93
+16 001, Michoacán de Ocampo, Acuitzio,10987,"6,647","4,325",15
+16 002, Michoacán de Ocampo, Aguililla,16214,"5,545","10,587",82
+16 003, Michoacán de Ocampo, Álvaro Obregón,20913,"9,610","11,124",179
+16 004, Michoacán de Ocampo, Angamacutiro,14684,"7,735","6,896",53
+16 005, Michoacán de Ocampo, Angangueo,10768,"6,302","4,438",28
+16 006, Michoacán de Ocampo, Apatzingán,123649,"52,152","70,948",549
+16 007, Michoacán de Ocampo, Aporo,3218,"2,235",978,5
+16 008, Michoacán de Ocampo, Aquila,23536,"10,851","12,561",124
+16 009, Michoacán de Ocampo, Ario,34848,"17,281","17,467",100
+16 010, Michoacán de Ocampo, Arteaga,21790,"13,494","7,659",637
+16 011, Michoacán de Ocampo, Briseñas,10653,"5,829","4,798",26
+16 012, Michoacán de Ocampo, Buenavista,42234,"15,521","26,610",103
+16 013, Michoacán de Ocampo, Carácuaro,9212,"6,775","2,359",78
+16 014, Michoacán de Ocampo, Coahuayana,14136,"9,230","4,820",86
+16 015, Michoacán de Ocampo, Coalcomán de Vázquez Pallares,17615,"8,454","8,830",331
+16 016, Michoacán de Ocampo, Coeneo,20492,"5,343","15,042",107
+16 017, Michoacán de Ocampo, Contepec,32954,"18,132","14,548",274
+16 018, Michoacán de Ocampo, Copándaro,8952,"6,062","2,879",11
+16 019, Michoacán de Ocampo, Cotija,19644,"11,397","8,186",61
+16 020, Michoacán de Ocampo, Cuitzeo,28227,"13,143","14,982",102
+16 021, Michoacán de Ocampo, Charapan,12163,"6,049","6,058",56
+16 022, Michoacán de Ocampo, Charo,21723,"12,665","8,683",375
+16 023, Michoacán de Ocampo, Chavinda,9975,"4,265","5,683",27
+16 024, Michoacán de Ocampo, Cherán,18141,"9,791","8,265",85
+16 025, Michoacán de Ocampo, Chilchota,36293,"13,139","22,820",334
+16 026, Michoacán de Ocampo, Chinicuila,5271,"2,824","2,408",39
+16 027, Michoacán de Ocampo, Chucándiro,5166,"3,657","1,482",27
+16 028, Michoacán de Ocampo, Churintzio,5564,"2,952","2,522",90
+16 029, Michoacán de Ocampo, Churumuco,14366,"8,572","5,746",48
+16 030, Michoacán de Ocampo, Ecuandureo,12855,"5,499","7,339",17
+16 031, Michoacán de Ocampo, Epitacio Huerta,16218,"8,670","7,518",30
+16 032, Michoacán de Ocampo, Erongarícuaro,14555,"4,597","9,921",37
+16 033, Michoacán de Ocampo, Gabriel Zamora,21294,"13,059","8,128",107
+16 034, Michoacán de Ocampo, Hidalgo,117620,"56,145","61,093",382
+16 035, Michoacán de Ocampo, La Huacana,32757,"17,643","14,330",784
+16 036, Michoacán de Ocampo, Huandacareo,11592,"6,251","5,269",72
+16 037, Michoacán de Ocampo, Huaniqueo,7983,"3,198","4,761",24
+16 038, Michoacán de Ocampo, Huetamo,41937,"21,077","20,575",285
+16 039, Michoacán de Ocampo, Huiramba,7925,"5,540","2,196",189
+16 040, Michoacán de Ocampo, Indaparapeo,16427,"7,103","9,269",55
+16 041, Michoacán de Ocampo, Irimbo,14766,"8,536","6,161",69
+16 042, Michoacán de Ocampo, Ixtlán,13584,"3,741","9,812",31
+16 043, Michoacán de Ocampo, Jacona,64011,"38,353","25,370",288
+16 044, Michoacán de Ocampo, Jiménez,13275,"6,321","6,929",25
+16 045, Michoacán de Ocampo, Jiquilpan,34199,"19,054","15,008",137
+16 046, Michoacán de Ocampo, Juárez,13604,"6,079","7,492",33
+16 047, Michoacán de Ocampo, Jungapeo,19986,"10,941","8,960",85
+16 048, Michoacán de Ocampo, Lagunillas,5506,"3,574","1,877",55
+16 049, Michoacán de Ocampo, Madero,17427,"8,981","8,371",75
+16 050, Michoacán de Ocampo, Maravatío,80258,"44,128","35,858",272
+16 051, Michoacán de Ocampo, Marcos Castellanos,13031,"6,318","6,682",31
+16 052, Michoacán de Ocampo, Lázaro Cárdenas,178817,"123,755","50,059","5,003"
+16 053, Michoacán de Ocampo, Morelia,729279,"442,856","267,281","19,142"
+16 054, Michoacán de Ocampo, Morelos,8091,"4,690","3,344",57
+16 055, Michoacán de Ocampo, Múgica,44963,"19,995","24,354",614
+16 056, Michoacán de Ocampo, Nahuatzen,27174,"18,879","8,038",257
+16 057, Michoacán de Ocampo, Nocupétaro,7799,"5,217","2,519",63
+16 058, Michoacán de Ocampo, Nuevo Parangaricutiro,18834,"8,458","10,309",67
+16 059, Michoacán de Ocampo, Nuevo Urecho,8240,"5,380","2,819",41
+16 060, Michoacán de Ocampo, Numarán,9599,"5,532","3,825",242
+16 061, Michoacán de Ocampo, Ocampo,22628,"8,786","13,784",58
+16 062, Michoacán de Ocampo, Pajacuarán,19450,"10,767","8,604",79
+16 063, Michoacán de Ocampo, Panindícuaro,16064,"7,291","8,685",88
+16 064, Michoacán de Ocampo, Parácuaro,25343,"9,217","15,828",298
+16 065, Michoacán de Ocampo, Paracho,34721,"16,189","18,372",160
+16 066, Michoacán de Ocampo, Pátzcuaro,87794,"49,458","38,015",321
+16 067, Michoacán de Ocampo, Penjamillo,17159,"7,713","9,375",71
+16 068, Michoacán de Ocampo, Peribán,25296,"11,428","13,244",624
+16 069, Michoacán de Ocampo, La Piedad,99576,"58,483","40,067","1,026"
+16 070, Michoacán de Ocampo, Purépero,15306,"9,224","6,015",67
+16 071, Michoacán de Ocampo, Puruándiro,67837,"40,602","26,893",342
+16 072, Michoacán de Ocampo, Queréndaro,13550,"6,686","6,833",31
+16 073, Michoacán de Ocampo, Quiroga,25592,"12,870","12,556",166
+16 074, Michoacán de Ocampo, Cojumatlán de Régules,9980,"5,976","3,962",42
+16 075, Michoacán de Ocampo, Los Reyes,64141,"34,694","26,410","3,037"
+16 076, Michoacán de Ocampo, Sahuayo,72841,"43,646","28,492",703
+16 077, Michoacán de Ocampo, San Lucas,18461,"7,510","10,683",268
+16 078, Michoacán de Ocampo, Santa Ana Maya,12618,"6,423","6,168",27
+16 079, Michoacán de Ocampo, Salvador Escalante,45217,"24,050","21,018",149
+16 080, Michoacán de Ocampo, Senguio,18427,"7,851","10,538",38
+16 081, Michoacán de Ocampo, Susupuato,8704,"3,535","5,149",20
+16 082, Michoacán de Ocampo, Tacámbaro,69955,"34,542","35,218",195
+16 083, Michoacán de Ocampo, Tancítaro,29414,"11,176","18,126",112
+16 084, Michoacán de Ocampo, Tangamandapio,27822,"12,479","15,209",134
+16 085, Michoacán de Ocampo, Tangancícuaro,32677,"14,261","18,080",336
+16 086, Michoacán de Ocampo, Tanhuato,15176,"7,377","7,743",56
+16 087, Michoacán de Ocampo, Taretan,13558,"10,538","2,805",215
+16 088, Michoacán de Ocampo, Tarímbaro,78623,"46,048","26,581","5,994"
+16 089, Michoacán de Ocampo, Tepalcatepec,22987,"7,059","15,827",101
+16 090, Michoacán de Ocampo, Tingambato,13950,"7,431","6,459",60
+16 091, Michoacán de Ocampo, Tingüindín,13511,"6,279","7,123",109
+16 092, Michoacán de Ocampo, Tiquicheo de Nicolás Romero,14274,"8,065","6,084",125
+16 093, Michoacán de Ocampo, Tlalpujahua,27587,"14,374","13,146",67
+16 094, Michoacán de Ocampo, Tlazazalca,6890,"2,499","4,340",51
+16 095, Michoacán de Ocampo, Tocumbo,11504,"7,050","4,407",47
+16 096, Michoacán de Ocampo, Tumbiscatío,7890,"3,604","4,259",27
+16 097, Michoacán de Ocampo, Turicato,31877,"20,162","11,560",155
+16 098, Michoacán de Ocampo, Tuxpan,26026,"11,985","13,989",52
+16 099, Michoacán de Ocampo, Tuzantla,16305,"8,808","7,459",38
+16 100, Michoacán de Ocampo, Tzintzuntzan,13556,"6,038","7,449",69
+16 101, Michoacán de Ocampo, Tzitzio,9166,"4,974","4,141",51
+16 102, Michoacán de Ocampo, Uruapan,315350,"184,242","123,033","8,075"
+16 103, Michoacán de Ocampo, Venustiano Carranza,23457,"13,293","10,126",38
+16 104, Michoacán de Ocampo, Villamar,16991,"8,958","7,982",51
+16 105, Michoacán de Ocampo, Vista Hermosa,18995,"10,936","8,005",54
+16 106, Michoacán de Ocampo, Yurécuaro,29995,"13,539","16,353",103
+16 107, Michoacán de Ocampo, Zacapu,73455,"43,543","29,164",748
+16 108, Michoacán de Ocampo, Zamora,186102,"106,108","77,757","2,237"
+16 109, Michoacán de Ocampo, Zináparo,3247,"1,712","1,516",19
+16 110, Michoacán de Ocampo, Zinapécuaro,46666,"22,591","23,908",167
+16 111, Michoacán de Ocampo, Ziracuaretiro,15222,"7,406","7,597",219
+16 112, Michoacán de Ocampo, Zitácuaro,155534,"74,453","79,911","1,170"
+16 113, Michoacán de Ocampo, José Sixto Verduzco,25576,"10,386","15,101",89
+17 001, Morelos, Amacuzac,17021,"11,080","5,887",54
+17 002, Morelos, Atlatlahucan,18895,"10,167","8,661",67
+17 003, Morelos, Axochiapan,33695,"22,420","11,183",92
+17 004, Morelos, Ayala,78866,"54,396","23,819",651
+17 005, Morelos, Coatlán del Río,9471,"7,183","2,187",101
+17 006, Morelos, Cuautla,175207,"107,486","66,193","1,528"
+17 007, Morelos, Cuernavaca,365168,"225,477","124,219","15,472"
+17 008, Morelos, Emiliano Zapata,83485,"51,672","29,564","2,249"
+17 009, Morelos, Huitzilac,17340,"9,689","7,173",478
+17 010, Morelos, Jantetelco,15646,"10,118","5,497",31
+17 011, Morelos, Jiutepec,196953,"127,136","67,888","1,929"
+17 012, Morelos, Jojutla,55115,"37,684","17,206",225
+17 013, Morelos, Jonacatepec,14604,"9,423","5,145",36
+17 014, Morelos, Mazatepec,9456,"7,312","1,989",155
+17 015, Morelos, Miacatlán,24990,"16,919","7,676",395
+17 016, Morelos, Ocuituco,16858,"11,014","5,791",53
+17 017, Morelos, Puente de Ixtla,61585,"37,084","24,189",312
+17 018, Morelos, Temixco,108126,"64,091","43,322",713
+17 019, Morelos, Tepalcingo,25346,"17,677","7,628",41
+17 020, Morelos, Tepoztlán,41629,"23,168","18,096",365
+17 021, Morelos, Tetecala,7441,"5,967","1,385",89
+17 022, Morelos, Tetela del Volcán,19138,"9,705","9,380",53
+17 023, Morelos, Tlalnepantla,6636,"4,194","2,423",19
+17 024, Morelos, Tlaltizapán,48881,"33,840","14,505",536
+17 025, Morelos, Tlaquiltenango,31534,"23,148","8,260",126
+17 026, Morelos, Tlayacapan,16543,"9,523","6,959",61
+17 027, Morelos, Totolapan,10789,"5,986","4,766",37
+17 028, Morelos, Xochitepec,63382,"38,397","24,170",815
+17 029, Morelos, Yautepec,97827,"63,991","33,074",762
+17 030, Morelos, Yecapixtla,46809,"25,947","20,643",219
+17 031, Morelos, Zacatepec,35063,"24,203","10,646",214
+17 032, Morelos, Zacualpan,9087,"5,906","3,151",30
+17 033, Morelos, Temoac,14641,"10,317","4,290",34
+18 001, Nayarit, Acaponeta,36572,"29,565","6,870",137
+18 002, Nayarit, Ahuacatlán,15229,"12,340","2,872",17
+18 003, Nayarit, Amatlán de Cañas,11188,"9,273","1,896",19
+18 004, Nayarit, Compostela,70399,"51,072","18,985",342
+18 005, Nayarit, Huajicori,11400,"7,490","3,893",17
+18 006, Nayarit, Ixtlán del Río,27273,"19,973","7,251",49
+18 007, Nayarit, Jala,17698,"14,522","3,128",48
+18 008, Nayarit, Xalisco,49102,"37,364","11,172",566
+18 009, Nayarit, Del Nayar,34300,"23,735","9,763",802
+18 010, Nayarit, Rosamorada,34393,"28,001","6,336",56
+18 011, Nayarit, Ruíz,23469,"17,789","5,638",42
+18 012, Nayarit, San Blas,43120,"32,849","10,206",65
+18 013, Nayarit, San Pedro Lagunillas,7510,"6,510",995,5
+18 014, Nayarit, Santa María del Oro,22412,"17,201","5,169",42
+18 015, Nayarit, Santiago Ixcuintla,93074,"75,771","17,188",115
+18 016, Nayarit, Tecuala,39756,"31,640","7,788",328
+18 017, Nayarit, Tepic,380249,"292,857","82,476","4,916"
+18 018, Nayarit, Tuxpan,30030,"24,124","5,830",76
+18 019, Nayarit, La Yesca,13600,"10,128","3,442",30
+18 020, Nayarit, Bahía de Banderas,124205,"85,627","36,168","2,410"
+19 001, Nuevo León, Abasolo,2791,"2,180",506,105
+19 002, Nuevo León, Agualeguas,3443,"2,819",609,15
+19 003, Nuevo León, Los Aldamas,1374,835,479,60
+19 004, Nuevo León, Allende,32593,"25,883","6,129",581
+19 005, Nuevo León, Anáhuac,18480,"13,111","4,472",897
+19 006, Nuevo León, Apodaca,523370,"420,271","90,349","12,750"
+19 007, Nuevo León, Aramberri,15470,"13,970","1,446",54
+19 008, Nuevo León, Bustamante,3773,"2,974",751,48
+19 009, Nuevo León, Cadereyta Jiménez,86445,"66,085","18,924","1,436"
+19 010, Nuevo León, Carmen,16092,"13,032","2,948",112
+19 011, Nuevo León, Cerralvo,7855,"6,415","1,414",26
+19 012, Nuevo León, Ciénega de Flores,24526,"19,797","4,452",277
+19 013, Nuevo León, China,10864,"7,940","2,870",54
+19 014, Nuevo León, Dr. Arroyo,35445,"31,472","3,805",168
+19 015, Nuevo León, Dr. Coss,1716,"1,038",665,13
+19 016, Nuevo León, Dr. González,3345,"2,356",904,85
+19 017, Nuevo León, Galeana,39991,"35,314","4,424",253
+19 018, Nuevo León, García,143668,"115,616","25,027","3,025"
+19 019, Nuevo León, San Pedro Garza García,122659,"90,549","19,264","12,846"
+19 020, Nuevo León, Gral. Bravo,5527,"3,253","2,240",34
+19 021, Nuevo León, Gral. Escobedo,357937,"272,261","78,189","7,487"
+19 022, Nuevo León, Gral. Terán,14437,"10,923","3,418",96
+19 023, Nuevo León, Gral. Treviño,1277,"1,024",233,20
+19 024, Nuevo León, Gral. Zaragoza,5942,"5,284",614,44
+19 025, Nuevo León, Gral. Zuazua,55213,"46,031","8,859",323
+19 026, Nuevo León, Guadalupe,678006,"516,329","145,429","16,248"
+19 027, Nuevo León, Los Herreras,2030,"1,357",599,74
+19 028, Nuevo León, Higueras,1594,"1,225",352,17
+19 029, Nuevo León, Hualahuises,6914,"5,426","1,464",24
+19 030, Nuevo León, Iturbide,3558,"3,146",406,6
+19 031, Nuevo León, Juárez,256970,"200,726","52,394","3,850"
+19 032, Nuevo León, Lampazos de Naranjo,5349,"3,494","1,827",28
+19 033, Nuevo León, Linares,78669,"66,728","11,276",665
+19 034, Nuevo León, Marín,5488,"4,365","1,003",120
+19 035, Nuevo León, Melchor Ocampo,862,680,174,8
+19 036, Nuevo León, Mier y Noriega,7095,"6,472",560,63
+19 037, Nuevo León, Mina,5447,"4,343","1,088",16
+19 038, Nuevo León, Montemorelos,59113,"45,565","12,006","1,542"
+19 039, Nuevo León, Monterrey,1135550,"837,548","265,034","32,968"
+19 040, Nuevo León, Parás,1034,809,216,9
+19 041, Nuevo León, Pesquería,20843,"15,875","4,648",320
+19 042, Nuevo León, Los Ramones,5359,"3,647","1,639",73
+19 043, Nuevo León, Rayones,2628,"1,961",648,19
+19 044, Nuevo León, Sabinas Hidalgo,34671,"28,173","6,111",387
+19 045, Nuevo León, Salinas Victoria,32660,"23,766","7,757","1,137"
+19 046, Nuevo León, San Nicolás de los Garza,443273,"349,660","84,250","9,363"
+19 047, Nuevo León, Hidalgo,16604,"12,917","2,314","1,373"
+19 048, Nuevo León, Santa Catarina,268955,"207,921","53,912","7,122"
+19 049, Nuevo León, Santiago,40469,"32,122","6,936","1,411"
+19 050, Nuevo León, Vallecillo,1971,"1,438",468,65
+19 051, Nuevo León, Villaldama,4113,"3,291",771,51
+20 001, Oaxaca, Abejones,1084,29,"1,054",1
+20 002, Oaxaca, Acatlán de Pérez Figueroa,44885,"27,067","17,635",183
+20 003, Oaxaca, Asunción Cacalotepec,2495,746,"1,745",4
+20 004, Oaxaca, Asunción Cuyotepeji,1012,819,189,4
+20 005, Oaxaca, Asunción Ixtaltepec,14751,"8,445","6,257",49
+20 006, Oaxaca, Asunción Nochixtlán,17820,"10,714","7,050",56
+20 007, Oaxaca, Asunción Ocotlán,2612,573,"1,914",125
+20 008, Oaxaca, Asunción Tlacolulita,842,468,371,3
+20 009, Oaxaca, Ayotzintepec,6720,"2,776","3,941",3
+20 010, Oaxaca, El Barrio de la Soledad,13608,"10,645","2,708",255
+20 011, Oaxaca, Calihualá,1220,974,240,6
+20 012, Oaxaca, Candelaria Loxicha,9860,"4,947","4,877",36
+20 013, Oaxaca, Ciénega de Zimatlán,2785,"1,964",798,23
+20 014, Oaxaca, Ciudad Ixtepec,26450,"18,437","7,141",872
+20 015, Oaxaca, Coatecas Altas,4712,"1,295","3,389",28
+20 016, Oaxaca, Coicoyán de las Flores,8531,"6,393","2,106",32
+20 017, Oaxaca, La Compañía,3302,"2,248","1,046",8
+20 018, Oaxaca, Concepción Buenavista,834,596,220,18
+20 019, Oaxaca, Concepción Pápalo,3071,"2,712",358,1
+20 020, Oaxaca, Constancia del Rosario,3860,"1,702","2,142",16
+20 021, Oaxaca, Cosolapa,14667,"9,596","5,019",52
+20 022, Oaxaca, Cosoltepec,866,743,115,8
+20 023, Oaxaca, Cuilápam de Guerrero,18428,"8,198","10,192",38
+20 024, Oaxaca, Cuyamecalco Villa de Zaragoza,3846,"1,905","1,922",19
+20 025, Oaxaca, Chahuites,11105,"5,159","5,938",8
+20 026, Oaxaca, Chalcatongo de Hidalgo,8481,"4,953","3,472",56
+20 027, Oaxaca, Chiquihuitlán de Benito Juárez,2458,685,"1,716",57
+20 028, Oaxaca, Heroica Ciudad de Ejutla de Crespo,19679,"11,881","7,634",164
+20 029, Oaxaca, Eloxochitlán de Flores Magón,4263,"2,037","2,161",65
+20 030, Oaxaca, El Espinal,8310,"6,317","1,897",96
+20 031, Oaxaca, Tamazulápam del Espíritu Santo,7362,"4,008","3,315",39
+20 032, Oaxaca, Fresnillo de Trujano,1033,361,670,2
+20 033, Oaxaca, Guadalupe Etla,2433,"1,577",834,22
+20 034, Oaxaca, Guadalupe de Ramírez,1425,"1,105",316,4
+20 035, Oaxaca, Guelatao de Juárez,544,443,97,4
+20 036, Oaxaca, Guevea de Humboldt,5285,"3,454","1,811",20
+20 037, Oaxaca, Mesones Hidalgo,4402,"2,404","1,954",44
+20 038, Oaxaca, Villa Hidalgo,2112,160,"1,947",5
+20 039, Oaxaca, Heroica Ciudad de Huajuapan de León,69839,"38,838","30,357",644
+20 040, Oaxaca, Huautepec,5995,"3,143","2,832",20
+20 041, Oaxaca, Huautla de Jiménez,30004,"13,635","16,209",160
+20 042, Oaxaca, Ixtlán de Juárez,7674,"4,670","2,988",16
+20 043, Oaxaca, Heroica Ciudad de Juchitán de Zaragoza,93038,"51,275","41,092",671
+20 044, Oaxaca, Loma Bonita,41535,"26,667","14,463",405
+20 045, Oaxaca, Magdalena Apasco,7522,"5,282","2,143",97
+20 046, Oaxaca, Magdalena Jaltepec,3313,"1,251","2,018",44
+20 047, Oaxaca, Santa Magdalena Jicotlán,93,68,24,1
+20 048, Oaxaca, Magdalena Mixtepec,1304,895,406,3
+20 049, Oaxaca, Magdalena Ocotlán,1141,902,225,14
+20 050, Oaxaca, Magdalena Peñasco,3778,936,"2,761",81
+20 051, Oaxaca, Magdalena Teitipac,4368,"1,677","2,655",36
+20 052, Oaxaca, Magdalena Tequisistlán,6182,"4,035","2,135",12
+20 053, Oaxaca, Magdalena Tlacotepec,1221,653,559,9
+20 054, Oaxaca, Magdalena Zahuatlán,409,341,67,1
+20 055, Oaxaca, Mariscala de Juárez,3530,"2,402","1,127",1
+20 056, Oaxaca, Mártires de Tacubaya,1451,"1,091",358,2
+20 057, Oaxaca, Matías Romero Avendaño,38019,"20,305","17,529",185
+20 058, Oaxaca, Mazatlán Villa de Flores,13435,"8,393","4,279",763
+20 059, Oaxaca, Miahuatlán de Porfirio Díaz,41387,"17,423","23,638",326
+20 060, Oaxaca, Mixistlán de la Reforma,2770,782,"1,984",4
+20 061, Oaxaca, Monjas,2568,"1,915",637,16
+20 062, Oaxaca, Natividad,586,431,155, 
+20 063, Oaxaca, Nazareno Etla,3882,"2,183","1,676",23
+20 064, Oaxaca, Nejapa de Madero,7390,"4,114","3,227",49
+20 065, Oaxaca, Ixpantepec Nieves,1182,579,600,3
+20 066, Oaxaca, Santiago Niltepec,5353,"2,777","2,560",16
+20 067, Oaxaca, Oaxaca de Juárez,263357,"163,785","93,273","6,299"
+20 068, Oaxaca, Ocotlán de Morelos,21341,"12,216","9,050",75
+20 069, Oaxaca, La Pe,2446,"1,865",577,4
+20 070, Oaxaca, Pinotepa de Don Luis,6629,"1,824","4,782",23
+20 071, Oaxaca, Pluma Hidalgo,3060,"1,966","1,074",20
+20 072, Oaxaca, San José del Progreso,6579,"4,488","2,065",26
+20 073, Oaxaca, Putla Villa de Guerrero,31897,"15,039","16,778",80
+20 074, Oaxaca, Santa Catarina Quioquitani,505,284,220,1
+20 075, Oaxaca, Reforma de Pineda,2671,490,"2,177",4
+20 076, Oaxaca, La Reforma,3331,"1,385","1,933",13
+20 077, Oaxaca, Reyes Etla,3568,"2,009","1,540",19
+20 078, Oaxaca, Rojas de Cuauhtémoc,1092,731,361, 
+20 079, Oaxaca, Salina Cruz,82371,"57,888","24,198",285
+20 080, Oaxaca, San Agustín Amatengo,1312,401,905,6
+20 081, Oaxaca, San Agustín Atenango,1914,"1,304",603,7
+20 082, Oaxaca, San Agustín Chayuco,3952,"1,018","2,920",14
+20 083, Oaxaca, San Agustín de las Juntas,8089,"4,491","3,383",215
+20 084, Oaxaca, San Agustín Etla,3893,"2,454","1,427",12
+20 085, Oaxaca, San Agustín Loxicha,22565,"17,184","5,272",109
+20 086, Oaxaca, San Agustín Tlacotepec,874,148,726, 
+20 087, Oaxaca, San Agustín Yatareni,4075,"1,896","2,145",34
+20 088, Oaxaca, San Andrés Cabecera Nueva,2851,"1,816","1,025",10
+20 089, Oaxaca, San Andrés Dinicuiti,2152,"1,642",508,2
+20 090, Oaxaca, San Andrés Huaxpaltepec,5867,"3,433","2,384",50
+20 091, Oaxaca, San Andrés Huayápam,4879,"2,768","2,026",85
+20 092, Oaxaca, San Andrés Ixtlahuaca,1439,667,754,18
+20 093, Oaxaca, San Andrés Lagunas,505,108,368,29
+20 094, Oaxaca, San Andrés Nuxiño,1898,"1,056",840,2
+20 095, Oaxaca, San Andrés Paxtlán,3990,"1,774","2,195",21
+20 096, Oaxaca, San Andrés Sinaxtla,772,525,246,1
+20 097, Oaxaca, San Andrés Solaga,1740,954,756,30
+20 098, Oaxaca, San Andrés Teotilálpam,4427,"1,139","3,267",21
+20 099, Oaxaca, San Andrés Tepetlapa,475,94,380,1
+20 100, Oaxaca, San Andrés Yaá,497,26,449,22
+20 101, Oaxaca, San Andrés Zabache,726,449,276,1
+20 102, Oaxaca, San Andrés Zautla,4405,"2,887","1,516",2
+20 103, Oaxaca, San Antonino Castillo Velasco,5651,"1,927","3,662",62
+20 104, Oaxaca, San Antonino el Alto,2508,969,"1,538",1
+20 105, Oaxaca, San Antonino Monte Verde,6650,"5,983",624,43
+20 106, Oaxaca, San Antonio Acutla,297,103,185,9
+20 107, Oaxaca, San Antonio de la Cal,21456,"12,447","8,937",72
+20 108, Oaxaca, San Antonio Huitepec,4289,"3,062","1,218",9
+20 109, Oaxaca, San Antonio Nanahuatípam,1233,993,239,1
+20 110, Oaxaca, San Antonio Sinicahua,1603,562,"1,018",23
+20 111, Oaxaca, San Antonio Tepetlapa,4394,"1,371","2,986",37
+20 112, Oaxaca, San Baltazar Chichicápam,2439,"1,473",965,1
+20 113, Oaxaca, San Baltazar Loxicha,2832,"1,733","1,097",2
+20 114, Oaxaca, San Baltazar Yatzachi el Bajo,677,127,544,6
+20 115, Oaxaca, San Bartolo Coyotepec,8684,"6,074","2,515",95
+20 116, Oaxaca, San Bartolomé Ayautla,4052,"2,911","1,086",55
+20 117, Oaxaca, San Bartolomé Loxicha,2422,"2,106",306,10
+20 118, Oaxaca, San Bartolomé Quialana,2470,196,"2,257",17
+20 119, Oaxaca, San Bartolomé Yucuañe,399,12,385,2
+20 120, Oaxaca, San Bartolomé Zoogocho,368,29,336,3
+20 121, Oaxaca, San Bartolo Soyaltepec,655,435,220, 
+20 122, Oaxaca, San Bartolo Yautepec,677,580,96,1
+20 123, Oaxaca, San Bernardo Mixtepec,2705,"1,076","1,628",1
+20 124, Oaxaca, San Blas Atempa,17094,"7,083","9,968",43
+20 125, Oaxaca, San Carlos Yautepec,11813,"5,380","6,395",38
+20 126, Oaxaca, San Cristóbal Amatlán,5024,"2,751","2,257",16
+20 127, Oaxaca, San Cristóbal Amoltepec,1283,68,"1,206",9
+20 128, Oaxaca, San Cristóbal Lachirioag,1230,51,"1,179", 
+20 129, Oaxaca, San Cristóbal Suchixtlahuaca,334,278,55,1
+20 130, Oaxaca, San Dionisio del Mar,5098,"2,241","2,850",7
+20 131, Oaxaca, San Dionisio Ocotepec,10500,"4,933","5,548",19
+20 132, Oaxaca, San Dionisio Ocotlán,1245,499,746, 
+20 133, Oaxaca, San Esteban Atatlahuca,3974,"3,081",875,18
+20 134, Oaxaca, San Felipe Jalapa de Díaz,26838,"14,088","12,596",154
+20 135, Oaxaca, San Felipe Tejalápam,7187,"3,638","3,530",19
+20 136, Oaxaca, San Felipe Usila,11575,"5,033","6,483",59
+20 137, Oaxaca, San Francisco Cahuacuá,3427,"3,180",149,98
+20 138, Oaxaca, San Francisco Cajonos,460,109,335,16
+20 139, Oaxaca, San Francisco Chapulapa,2136,"1,695",429,12
+20 140, Oaxaca, San Francisco Chindúa,827,494,332,1
+20 141, Oaxaca, San Francisco del Mar,7232,"2,539","4,668",25
+20 142, Oaxaca, San Francisco Huehuetlán,1160,981,170,9
+20 143, Oaxaca, San Francisco Ixhuatán,8959,"5,429","3,520",10
+20 144, Oaxaca, San Francisco Jaltepetongo,1110,250,853,7
+20 145, Oaxaca, San Francisco Lachigoló,3474,"1,664","1,731",79
+20 146, Oaxaca, San Francisco Logueche,2666,148,"2,512",6
+20 147, Oaxaca, San Francisco Nuxaño,378,70,307,1
+20 148, Oaxaca, San Francisco Ozolotepec,1945,546,"1,397",2
+20 149, Oaxaca, San Francisco Sola,1509,"1,243",250,16
+20 150, Oaxaca, San Francisco Telixtlahuaca,11893,"6,976","4,901",16
+20 151, Oaxaca, San Francisco Teopan,394,339,55, 
+20 152, Oaxaca, San Francisco Tlapancingo,2152,"2,012",140, 
+20 153, Oaxaca, San Gabriel Mixtepec,4733,"3,210","1,485",38
+20 154, Oaxaca, San Ildefonso Amatlán,2393,"1,633",706,54
+20 155, Oaxaca, San Ildefonso Sola,940,690,243,7
+20 156, Oaxaca, San Ildefonso Villa Alta,3478,937,"2,515",26
+20 157, Oaxaca, San Jacinto Amilpas,13860,"9,053","4,418",389
+20 158, Oaxaca, San Jacinto Tlacotepec,2231,550,"1,671",10
+20 159, Oaxaca, San Jerónimo Coatlán,5449,"2,708","2,730",11
+20 160, Oaxaca, San Jerónimo Silacayoapilla,1449,607,790,52
+20 161, Oaxaca, San Jerónimo Sosola,2559,"1,778",775,6
+20 162, Oaxaca, San Jerónimo Taviche,1848,"1,310",376,162
+20 163, Oaxaca, San Jerónimo Tecóatl,1606,966,570,70
+20 164, Oaxaca, San Jorge Nuchita,3215,"1,992","1,198",25
+20 165, Oaxaca, San José Ayuquila,1511,"1,066",425,20
+20 166, Oaxaca, San José Chiltepec,11019,"4,717","6,264",38
+20 167, Oaxaca, San José del Peñasco,2094,916,"1,155",23
+20 168, Oaxaca, San José Estancia Grande,977,355,589,33
+20 169, Oaxaca, San José Independencia,3684,"2,672",981,31
+20 170, Oaxaca, San José Lachiguiri,3849,265,"3,564",20
+20 171, Oaxaca, San José Tenango,18478,"11,096","7,190",192
+20 172, Oaxaca, San Juan Achiutla,430,46,383,1
+20 173, Oaxaca, San Juan Atepec,1517,"1,114",402,1
+20 174, Oaxaca, Ánimas Trujano,3759,"2,394","1,300",65
+20 175, Oaxaca, San Juan Bautista Atatlahuca,1724,232,"1,491",1
+20 176, Oaxaca, San Juan Bautista Coixtlahuaca,2808,"1,549","1,212",47
+20 177, Oaxaca, San Juan Bautista Cuicatlán,9441,"7,349","2,063",29
+20 178, Oaxaca, San Juan Bautista Guelache,6287,"3,692","2,549",46
+20 179, Oaxaca, San Juan Bautista Jayacatlán,1462,"1,065",397, 
+20 180, Oaxaca, San Juan Bautista Lo de Soto,2325,"1,599",721,5
+20 181, Oaxaca, San Juan Bautista Suchitepec,417,118,299, 
+20 182, Oaxaca, San Juan Bautista Tlacoatzintepec,2292,217,"2,066",9
+20 183, Oaxaca, San Juan Bautista Tlachichilco,1447,814,631,2
+20 184, Oaxaca, San Juan Bautista Tuxtepec,155766,"100,087","54,363","1,316"
+20 185, Oaxaca, San Juan Cacahuatepec,8680,"6,291","2,369",20
+20 186, Oaxaca, San Juan Cieneguilla,605,418,186,1
+20 187, Oaxaca, San Juan Coatzóspam,2535,855,"1,666",14
+20 188, Oaxaca, San Juan Colorado,9494,"5,323","4,145",26
+20 189, Oaxaca, San Juan Comaltepec,2517,"1,560",946,11
+20 190, Oaxaca, San Juan Cotzocón,22356,"9,633","12,534",189
+20 191, Oaxaca, San Juan Chicomezúchil,320,285,34,1
+20 192, Oaxaca, San Juan Chilateca,1442,573,867,2
+20 193, Oaxaca, San Juan del Estado,2546,542,"2,003",1
+20 194, Oaxaca, San Juan del Río,1231,627,567,37
+20 195, Oaxaca, San Juan Diuxi,1256,147,"1,103",6
+20 196, Oaxaca, San Juan Evangelista Analco,404,340,62,2
+20 197, Oaxaca, San Juan Guelavía,3047,288,"2,717",42
+20 198, Oaxaca, San Juan Guichicovi,28142,"16,394","11,608",140
+20 199, Oaxaca, San Juan Ihualtepec,713,388,321,4
+20 200, Oaxaca, San Juan Juquila Mixes,3924,"2,160","1,740",24
+20 201, Oaxaca, San Juan Juquila Vijanos,1832,"1,573",250,9
+20 202, Oaxaca, San Juan Lachao,4531,"1,691","2,758",82
+20 203, Oaxaca, San Juan Lachigalla,3285,292,"2,973",20
+20 204, Oaxaca, San Juan Lajarcia,715,460,254,1
+20 205, Oaxaca, San Juan Lalana,17398,"6,415","10,951",32
+20 206, Oaxaca, San Juan de los Cués,2357,"1,104","1,242",11
+20 207, Oaxaca, San Juan Mazatlán,17100,"9,644","7,389",67
+20 208, Oaxaca,San Juan Mixtepec -Dto. 08 -,7611,"2,824","4,746",41
+20 209, Oaxaca,San Juan Mixtepec -Dto. 26 -,711,372,334,5
+20 210, Oaxaca, San Juan Ñumí,6666,"2,424","4,163",79
+20 211, Oaxaca, San Juan Ozolotepec,3168,"1,911","1,248",9
+20 212, Oaxaca, San Juan Petlapa,2807,387,"2,405",15
+20 213, Oaxaca, San Juan Quiahije,3628,"2,808",812,8
+20 214, Oaxaca, San Juan Quiotepec,2313,"1,237","1,067",9
+20 215, Oaxaca, San Juan Sayultepec,764,457,305,2
+20 216, Oaxaca, San Juan Tabaá,1331,483,842,6
+20 217, Oaxaca, San Juan Tamazola,3446,"2,327","1,091",28
+20 218, Oaxaca, San Juan Teita,607,10,595,2
+20 219, Oaxaca, San Juan Teitipac,2565,"1,550",992,23
+20 220, Oaxaca, San Juan Tepeuxila,2773,"1,150","1,613",10
+20 221, Oaxaca, San Juan Teposcolula,1340,355,943,42
+20 222, Oaxaca, San Juan Yaeé,1530,790,735,5
+20 223, Oaxaca, San Juan Yatzona,452,9,438,5
+20 224, Oaxaca, San Juan Yucuita,684,486,197,1
+20 225, Oaxaca, San Lorenzo,5955,"1,100","4,843",12
+20 226, Oaxaca, San Lorenzo Albarradas,2708,"1,644","1,064", 
+20 227, Oaxaca, San Lorenzo Cacaotepec,13704,"8,491","5,068",145
+20 228, Oaxaca, San Lorenzo Cuaunecuiltitla,771,605,152,14
+20 229, Oaxaca, San Lorenzo Texmelúcan,7048,"6,062",979,7
+20 230, Oaxaca, San Lorenzo Victoria,1007,772,235, 
+20 231, Oaxaca, San Lucas Camotlán,3026,"2,046",973,7
+20 232, Oaxaca, San Lucas Ojitlán,21514,"13,420","8,018",76
+20 233, Oaxaca, San Lucas Quiaviní,1745,838,905,2
+20 234, Oaxaca, San Lucas Zoquiápam,7554,"3,433","4,078",43
+20 235, Oaxaca, San Luis Amatlán,3624,"1,574","2,037",13
+20 236, Oaxaca, San Marcial Ozolotepec,1525,912,607,6
+20 237, Oaxaca, San Marcos Arteaga,1557,557,975,25
+20 238, Oaxaca, San Martín de los Cansecos,816,291,520,5
+20 239, Oaxaca, San Martín Huamelúlpam,1077,540,524,13
+20 240, Oaxaca, San Martín Itunyoso,2460,"1,030","1,420",10
+20 241, Oaxaca, San Martín Lachilá,1084,586,498, 
+20 242, Oaxaca, San Martín Peras,11361,"6,915","4,334",112
+20 243, Oaxaca, San Martín Tilcajete,1742,"1,005",727,10
+20 244, Oaxaca, San Martín Toxpalan,3669,"2,929",691,49
+20 245, Oaxaca, San Martín Zacatepec,1277,682,595, 
+20 246, Oaxaca, San Mateo Cajonos,620,269,351, 
+20 247, Oaxaca, Capulálpam de Méndez,1467,"1,130",309,28
+20 248, Oaxaca, San Mateo del Mar,14252,"8,832","5,387",33
+20 249, Oaxaca, San Mateo Yoloxochitlán,3475,"2,675",797,3
+20 250, Oaxaca, San Mateo Etlatongo,1181,963,217,1
+20 251, Oaxaca, San Mateo Nejápam,1180,867,313, 
+20 252, Oaxaca, San Mateo Peñasco,2116,"1,155",944,17
+20 253, Oaxaca, San Mateo Piñas,2226,"1,149","1,070",7
+20 254, Oaxaca, San Mateo Río Hondo,3308,"1,169","2,123",16
+20 255, Oaxaca, San Mateo Sindihui,2086,631,"1,449",6
+20 256, Oaxaca, San Mateo Tlapiltepec,234,212,17,5
+20 257, Oaxaca, San Melchor Betaza,1091,286,803,2
+20 258, Oaxaca, San Miguel Achiutla,744,505,239, 
+20 259, Oaxaca, San Miguel Ahuehuetitlán,2465,"1,853",598,14
+20 260, Oaxaca, San Miguel Aloápam,2488,"1,386","1,098",4
+20 261, Oaxaca, San Miguel Amatitlán,7244,"5,065","2,169",10
+20 262, Oaxaca, San Miguel Amatlán,1043,345,695,3
+20 263, Oaxaca, San Miguel Coatlán,3483,"2,751",722,10
+20 264, Oaxaca, San Miguel Chicahua,2274,"1,516",707,51
+20 265, Oaxaca, San Miguel Chimalapa,6608,"2,463","3,632",513
+20 266, Oaxaca, San Miguel del Puerto,8481,"4,762","3,717",2
+20 267, Oaxaca, San Miguel del Río,294,245,49, 
+20 268, Oaxaca, San Miguel Ejutla,916,735,177,4
+20 269, Oaxaca, San Miguel el Grande,4127,"2,331","1,620",176
+20 270, Oaxaca, San Miguel Huautla,1399,"1,063",332,4
+20 271, Oaxaca, San Miguel Mixtepec,3245,"2,610",626,9
+20 272, Oaxaca, San Miguel Panixtlahuaca,6161,"1,026","5,112",23
+20 273, Oaxaca, San Miguel Peras,3497,"2,877",616,4
+20 274, Oaxaca, San Miguel Piedras,1296,"1,115",181, 
+20 275, Oaxaca, San Miguel Quetzaltepec,7293,"1,190","6,085",18
+20 276, Oaxaca, San Miguel Santa Flor,801,378,419,4
+20 277, Oaxaca, Villa Sola de Vega,12525,"8,592","3,881",52
+20 278, Oaxaca, San Miguel Soyaltepec,36564,"20,024","16,254",286
+20 279, Oaxaca, San Miguel Suchixtepec,2911,"1,704","1,197",10
+20 280, Oaxaca, Villa Talea de Castro,2394,"1,080","1,297",17
+20 281, Oaxaca, San Miguel Tecomatlán,308,221,84,3
+20 282, Oaxaca, San Miguel Tenango,794,162,631,1
+20 283, Oaxaca, San Miguel Tequixtepec,1042,757,276,9
+20 284, Oaxaca, San Miguel Tilquiápam,3160,158,"2,973",29
+20 285, Oaxaca, San Miguel Tlacamama,3386,"1,061","2,309",16
+20 286, Oaxaca, San Miguel Tlacotepec,3220,"1,795","1,415",10
+20 287, Oaxaca, San Miguel Tulancingo,346,169,175,2
+20 288, Oaxaca, San Miguel Yotao,611,402,209, 
+20 289, Oaxaca, San Nicolás,1143,972,166,5
+20 290, Oaxaca, San Nicolás Hidalgo,1012,688,321,3
+20 291, Oaxaca, San Pablo Coatlán,4167,"2,188","1,965",14
+20 292, Oaxaca, San Pablo Cuatro Venados,1388,"1,273",115, 
+20 293, Oaxaca, San Pablo Etla,15535,"9,459","5,902",174
+20 294, Oaxaca, San Pablo Huitzo,6307,"4,489","1,810",8
+20 295, Oaxaca, San Pablo Huixtepec,9025,"5,775","3,214",36
+20 296, Oaxaca, San Pablo Macuiltianguis,929,543,382,4
+20 297, Oaxaca, San Pablo Tijaltepec,2150,842,"1,304",4
+20 298, Oaxaca, San Pablo Villa de Mitla,11825,"4,185","7,483",157
+20 299, Oaxaca, San Pablo Yaganiza,1108,614,486,8
+20 300, Oaxaca, San Pedro Amuzgos,6468,"1,928","4,519",21
+20 301, Oaxaca, San Pedro Apóstol,1544,"1,034",501,9
+20 302, Oaxaca, San Pedro Atoyac,4136,642,"3,484",10
+20 303, Oaxaca, San Pedro Cajonos,1172,377,790,5
+20 304, Oaxaca, San Pedro Coxcaltepec Cántaros,851,583,262,6
+20 305, Oaxaca, San Pedro Comitancillo,3944,"3,330",581,33
+20 306, Oaxaca, San Pedro el Alto,3903,"2,573","1,255",75
+20 307, Oaxaca, San Pedro Huamelula,9594,"5,732","3,853",9
+20 308, Oaxaca, San Pedro Huilotepec,2839,"2,038",797,4
+20 309, Oaxaca, San Pedro Ixcatlán,10371,"5,065","5,211",95
+20 310, Oaxaca, San Pedro Ixtlahuaca,6822,"3,876","2,847",99
+20 311, Oaxaca, San Pedro Jaltepetongo,458,400,51,7
+20 312, Oaxaca, San Pedro Jicayán,11555,"3,034","8,481",40
+20 313, Oaxaca, San Pedro Jocotipac,834,627,207, 
+20 314, Oaxaca, San Pedro Juchatengo,1693,366,"1,320",7
+20 315, Oaxaca, San Pedro Mártir,1711,984,669,58
+20 316, Oaxaca, San Pedro Mártir Quiechapa,753,309,441,3
+20 317, Oaxaca, San Pedro Mártir Yucuxaco,1405,261,"1,133",11
+20 318, Oaxaca,San Pedro Mixtepec -Dto. 22 -,42860,"27,290","15,052",518
+20 319, Oaxaca,San Pedro Mixtepec -Dto. 26 -,1099,128,964,7
+20 320, Oaxaca, San Pedro Molinos,723,411,294,18
+20 321, Oaxaca, San Pedro Nopala,840,722,117,1
+20 322, Oaxaca, San Pedro Ocopetatillo,884,772,85,27
+20 323, Oaxaca, San Pedro Ocotepec,2135,"1,475",651,9
+20 324, Oaxaca, San Pedro Pochutla,43860,"25,528","18,015",317
+20 325, Oaxaca, San Pedro Quiatoni,10491,"3,123","7,305",63
+20 326, Oaxaca, San Pedro Sochiápam,4957,"1,864","3,082",11
+20 327, Oaxaca, San Pedro Tapanatepec,13992,"8,809","5,159",24
+20 328, Oaxaca, San Pedro Taviche,1173,942,225,6
+20 329, Oaxaca, San Pedro Teozacoalco,1320,444,875,1
+20 330, Oaxaca, San Pedro Teutila,4277,"2,762","1,492",23
+20 331, Oaxaca, San Pedro Tidaá,894,132,758,4
+20 332, Oaxaca, San Pedro Topiltepec,406,234,170,2
+20 333, Oaxaca, San Pedro Totolápam,2603,361,"2,191",51
+20 334, Oaxaca, Villa de Tututepec de Melchor Ocampo,43913,"23,553","20,188",172
+20 335, Oaxaca, San Pedro Yaneri,1002,550,450,2
+20 336, Oaxaca, San Pedro Yólox,2267,"1,564",702,1
+20 337, Oaxaca, San Pedro y San Pablo Ayutla,5602,"2,550","2,889",163
+20 338, Oaxaca, Villa de Etla,9280,"5,345","3,901",34
+20 339, Oaxaca, San Pedro y San Pablo Teposcolula,3989,"1,915","2,011",63
+20 340, Oaxaca, San Pedro y San Pablo Tequixtepec,1878,"1,393",473,12
+20 341, Oaxaca, San Pedro Yucunama,232,135,97, 
+20 342, Oaxaca, San Raymundo Jalpan,2079,"1,422",650,7
+20 343, Oaxaca, San Sebastián Abasolo,1849,863,906,80
+20 344, Oaxaca, San Sebastián Coatlán,2613,"1,468","1,112",33
+20 345, Oaxaca, San Sebastián Ixcapa,3968,"1,234","2,713",21
+20 346, Oaxaca, San Sebastián Nicananduta,1449,"1,363",44,42
+20 347, Oaxaca, San Sebastián Río Hondo,3664,"2,341","1,261",62
+20 348, Oaxaca, San Sebastián Tecomaxtlahuaca,8246,"3,445","4,757",44
+20 349, Oaxaca, San Sebastián Teitipac,1976,407,"1,538",31
+20 350, Oaxaca, San Sebastián Tutla,16241,"11,108","4,791",342
+20 351, Oaxaca, San Simón Almolongas,2623,"1,013","1,607",3
+20 352, Oaxaca, San Simón Zahuatlán,3833,"1,167","2,630",36
+20 353, Oaxaca, Santa Ana,1978,593,"1,306",79
+20 354, Oaxaca, Santa Ana Ateixtlahuaca,510,427,77,6
+20 355, Oaxaca, Santa Ana Cuauhtémoc,738,104,632,2
+20 356, Oaxaca, Santa Ana del Valle,1993,799,"1,184",10
+20 357, Oaxaca, Santa Ana Tavela,908,86,821,1
+20 358, Oaxaca, Santa Ana Tlapacoyan,1854,992,858,4
+20 359, Oaxaca, Santa Ana Yareni,809,28,777,4
+20 360, Oaxaca, Santa Ana Zegache,3592,480,"3,079",33
+20 361, Oaxaca, Santa Catalina Quierí,922,306,608,8
+20 362, Oaxaca, Santa Catarina Cuixtla,1496,720,699,77
+20 363, Oaxaca, Santa Catarina Ixtepeji,2633,"1,740",882,11
+20 364, Oaxaca, Santa Catarina Juquila,14710,"8,726","5,888",96
+20 365, Oaxaca, Santa Catarina Lachatao,1307,777,527,3
+20 366, Oaxaca, Santa Catarina Loxicha,3986,"2,506","1,477",3
+20 367, Oaxaca, Santa Catarina Mechoacán,4543,437,"4,096",10
+20 368, Oaxaca, Santa Catarina Minas,1816,902,912,2
+20 369, Oaxaca, Santa Catarina Quiané,1847,"1,350",489,8
+20 370, Oaxaca, Santa Catarina Tayata,679,198,464,17
+20 371, Oaxaca, Santa Catarina Ticuá,954,691,262,1
+20 372, Oaxaca, Santa Catarina Yosonotú,1886,296,"1,569",21
+20 373, Oaxaca, Santa Catarina Zapoquila,448,334,114, 
+20 374, Oaxaca, Santa Cruz Acatepec,1470,"1,090",369,11
+20 375, Oaxaca, Santa Cruz Amilpas,10120,"6,843","3,087",190
+20 376, Oaxaca, Santa Cruz de Bravo,364,281,83, 
+20 377, Oaxaca, Santa Cruz Itundujia,10975,"8,495","2,465",15
+20 378, Oaxaca, Santa Cruz Mixtepec,3615,"2,063","1,536",16
+20 379, Oaxaca, Santa Cruz Nundaco,2958,"2,124",833,1
+20 380, Oaxaca, Santa Cruz Papalutla,1972,817,"1,045",110
+20 381, Oaxaca, Santa Cruz Tacache de Mina,2606,"1,503","1,101",2
+20 382, Oaxaca, Santa Cruz Tacahua,1170,849,321, 
+20 383, Oaxaca, Santa Cruz Tayata,608,354,251,3
+20 384, Oaxaca, Santa Cruz Xitla,4514,847,"3,597",70
+20 385, Oaxaca, Santa Cruz Xoxocotlán,77833,"45,301","31,465","1,067"
+20 386, Oaxaca, Santa Cruz Zenzontepec,17897,"15,894","1,950",53
+20 387, Oaxaca, Santa Gertrudis,2858,"2,018",836,4
+20 388, Oaxaca, Santa Inés del Monte,2535,"1,755",779,1
+20 389, Oaxaca, Santa Inés Yatzeche,921,269,629,23
+20 390, Oaxaca, Santa Lucía del Camino,47356,"30,150","16,649",557
+20 391, Oaxaca, Santa Lucía Miahuatlán,3356,630,"2,718",8
+20 392, Oaxaca, Santa Lucía Monteverde,6678,"5,538","1,082",58
+20 393, Oaxaca, Santa Lucía Ocotlán,3604,"2,754",841,9
+20 394, Oaxaca, Santa María Alotepec,2778,520,"2,239",19
+20 395, Oaxaca, Santa María Apazco,1898,"1,063",824,11
+20 396, Oaxaca, Santa María la Asunción,3252,"1,452","1,743",57
+20 397, Oaxaca, Heroica Ciudad de Tlaxiaco,38453,"14,377","24,008",68
+20 398, Oaxaca, Ayoquezco de Aldama,4406,"2,965","1,424",17
+20 399, Oaxaca, Santa María Atzompa,27465,"16,024","11,204",237
+20 400, Oaxaca, Santa María Camotlán,1632,"1,109",519,4
+20 401, Oaxaca, Santa María Colotepec,22562,"15,082","7,415",65
+20 402, Oaxaca, Santa María Cortijo,1083,728,350,5
+20 403, Oaxaca, Santa María Coyotepec,2772,"1,590","1,140",42
+20 404, Oaxaca, Santa María Chachoápam,766,419,341,6
+20 405, Oaxaca, Villa de Chilapa de Díaz,1932,"1,340",585,7
+20 406, Oaxaca, Santa María Chilchotla,20584,"10,374","9,585",625
+20 407, Oaxaca, Santa María Chimalapa,8506,"3,975","3,266","1,265"
+20 408, Oaxaca, Santa María del Rosario,480,81,393,6
+20 409, Oaxaca, Santa María del Tule,8165,"4,775","3,317",73
+20 410, Oaxaca, Santa María Ecatepec,3461,"2,222","1,221",18
+20 411, Oaxaca, Santa María Guelacé,816,273,539,4
+20 412, Oaxaca, Santa María Guienagati,3286,"2,060","1,219",7
+20 413, Oaxaca, Santa María Huatulco,38629,"26,565","11,338",726
+20 414, Oaxaca, Santa María Huazolotitlán,10794,"6,379","4,391",24
+20 415, Oaxaca, Santa María Ipalapa,4888,"2,197","2,184",507
+20 416, Oaxaca, Santa María Ixcatlán,516,371,145, 
+20 417, Oaxaca, Santa María Jacatepec,9240,"5,181","4,045",14
+20 418, Oaxaca, Santa María Jalapa del Marqués,11888,"8,140","3,735",13
+20 419, Oaxaca, Santa María Jaltianguis,575,470,105, 
+20 420, Oaxaca, Santa María Lachixío,1680,"1,392",282,6
+20 421, Oaxaca, Santa María Mixtequilla,4442,"3,139","1,286",17
+20 422, Oaxaca, Santa María Nativitas,681,470,210,1
+20 423, Oaxaca, Santa María Nduayaco,550,276,270,4
+20 424, Oaxaca, Santa María Ozolotepec,3992,"2,715","1,246",31
+20 425, Oaxaca, Santa María Pápalo,2209,483,"1,719",7
+20 426, Oaxaca, Santa María Peñoles,7865,"7,324",482,59
+20 427, Oaxaca, Santa María Petapa,15387,"7,171","8,072",144
+20 428, Oaxaca, Santa María Quiegolani,1770,"1,377",376,17
+20 429, Oaxaca, Santa María Sola,1524,238,"1,285",1
+20 430, Oaxaca, Santa María Tataltepec,253,9,244, 
+20 431, Oaxaca, Santa María Tecomavaca,1774,"1,354",414,6
+20 432, Oaxaca, Santa María Temaxcalapa,968,77,890,1
+20 433, Oaxaca, Santa María Temaxcaltepec,2595,"2,122",461,12
+20 434, Oaxaca, Santa María Teopoxco,4651,"1,007","3,628",16
+20 435, Oaxaca, Santa María Tepantlali,3505,"1,894","1,603",8
+20 436, Oaxaca, Santa María Texcatitlán,1113,184,921,8
+20 437, Oaxaca, Santa María Tlahuitoltepec,9663,"2,125","7,534",4
+20 438, Oaxaca, Santa María Tlalixtac,1754,"1,286",465,3
+20 439, Oaxaca, Santa María Tonameca,24318,"15,188","9,056",74
+20 440, Oaxaca, Santa María Totolapilla,896,188,705,3
+20 441, Oaxaca, Santa María Xadani,7781,"3,843","3,918",20
+20 442, Oaxaca, Santa María Yalina,354,252,97,5
+20 443, Oaxaca, Santa María Yavesía,448,390,53,5
+20 444, Oaxaca, Santa María Yolotepec,461,129,331,1
+20 445, Oaxaca, Santa María Yosoyúa,1642,457,"1,175",10
+20 446, Oaxaca, Santa María Yucuhiti,6551,"3,777","2,735",39
+20 447, Oaxaca, Santa María Zacatepec,15076,"7,849","7,150",77
+20 448, Oaxaca, Santa María Zaniza,2009,"1,492",516,1
+20 449, Oaxaca, Santa María Zoquitlán,3359,178,"3,171",10
+20 450, Oaxaca, Santiago Amoltepec,12313,"8,742","3,549",22
+20 451, Oaxaca, Santiago Apoala,1053,647,401,5
+20 452, Oaxaca, Santiago Apóstol,4220,828,"3,318",74
+20 453, Oaxaca, Santiago Astata,3915,"2,542","1,372",1
+20 454, Oaxaca, Santiago Atitlán,3180,"1,046","2,131",3
+20 455, Oaxaca, Santiago Ayuquililla,2748,"1,334","1,399",15
+20 456, Oaxaca, Santiago Cacaloxtepec,1686,"1,042",633,11
+20 457, Oaxaca, Santiago Camotlán,3395,354,"3,026",15
+20 458, Oaxaca, Santiago Comaltepec,1115,888,224,3
+20 459, Oaxaca, Santiago Chazumba,4479,"2,820","1,607",52
+20 460, Oaxaca, Santiago Choápam,5413,"2,177","3,218",18
+20 461, Oaxaca, Santiago del Río,614,101,512,1
+20 462, Oaxaca, Santiago Huajolotitlán,4350,"2,533","1,778",39
+20 463, Oaxaca, Santiago Huauclilla,663,108,552,3
+20 464, Oaxaca, Santiago Ihuitlán Plumas,480,275,204,1
+20 465, Oaxaca, Santiago Ixcuintepec,1568,317,"1,248",3
+20 466, Oaxaca, Santiago Ixtayutla,11917,"2,318","9,513",86
+20 467, Oaxaca, Santiago Jamiltepec,18383,"3,616","14,656",111
+20 468, Oaxaca, Santiago Jocotepec,13568,"5,552","7,970",46
+20 469, Oaxaca, Santiago Juxtlahuaca,32927,"11,072","20,991",864
+20 470, Oaxaca, Santiago Lachiguiri,4693,670,"3,991",32
+20 471, Oaxaca, Santiago Lalopa,496,401,94,1
+20 472, Oaxaca, Santiago Laollaga,3198,"1,829","1,350",19
+20 473, Oaxaca, Santiago Laxopa,1394,"1,050",344, 
+20 474, Oaxaca, Santiago Llano Grande,3260,"1,136","2,111",13
+20 475, Oaxaca, Santiago Matatlán,9653,"3,647","5,971",35
+20 476, Oaxaca, Santiago Miltepec,409,219,189,1
+20 477, Oaxaca, Santiago Minas,1430,398,"1,016",16
+20 478, Oaxaca, Santiago Nacaltepec,1913,"1,204",701,8
+20 479, Oaxaca, Santiago Nejapilla,219,69,150, 
+20 480, Oaxaca, Santiago Nundiche,967,18,949, 
+20 481, Oaxaca, Santiago Nuyoó,1966,972,984,10
+20 482, Oaxaca, Santiago Pinotepa Nacional,50309,"27,789","22,157",363
+20 483, Oaxaca, Santiago Suchilquitongo,9542,"6,087","3,429",26
+20 484, Oaxaca, Santiago Tamazola,4207,"3,329",864,14
+20 485, Oaxaca, Santiago Tapextla,3031,"1,772","1,242",17
+20 486, Oaxaca, Villa Tejúpam de la Unión,2469,"1,404","1,051",14
+20 487, Oaxaca, Santiago Tenango,1945,962,976,7
+20 488, Oaxaca, Santiago Tepetlapa,131,99,31,1
+20 489, Oaxaca, Santiago Tetepec,4953,"2,756","2,156",41
+20 490, Oaxaca, Santiago Texcalcingo,3076,"2,867",204,5
+20 491, Oaxaca, Santiago Textitlán,4170,"3,313",852,5
+20 492, Oaxaca, Santiago Tilantongo,3210,"1,170","1,985",55
+20 493, Oaxaca, Santiago Tillo,553,224,329, 
+20 494, Oaxaca, Santiago Tlazoyaltepec,4894,"3,286","1,584",24
+20 495, Oaxaca, Santiago Xanica,2884,"2,305",525,54
+20 496, Oaxaca, Santiago Xiacuí,2171,"1,533",634,4
+20 497, Oaxaca, Santiago Yaitepec,4122,"2,976","1,136",10
+20 498, Oaxaca, Santiago Yaveo,6665,"3,822","2,803",40
+20 499, Oaxaca, Santiago Yolomécatl,2021,"1,140",835,46
+20 500, Oaxaca, Santiago Yosondúa,7883,"4,868","2,993",22
+20 501, Oaxaca, Santiago Yucuyachi,940,662,278, 
+20 502, Oaxaca, Santiago Zacatepec,5515,"3,073","2,439",3
+20 503, Oaxaca, Santiago Zoochila,374,26,301,47
+20 504, Oaxaca, Nuevo Zoquiápam,1652,991,661, 
+20 505, Oaxaca, Santo Domingo Ingenio,7554,"5,016","2,524",14
+20 506, Oaxaca, Santo Domingo Albarradas,782,757,10,15
+20 507, Oaxaca, Santo Domingo Armenta,3224,"2,074","1,143",7
+20 508, Oaxaca, Santo Domingo Chihuitán,1521,"1,171",347,3
+20 509, Oaxaca, Santo Domingo de Morelos,10547,"5,915","4,607",25
+20 510, Oaxaca, Santo Domingo Ixcatlán,877,682,195, 
+20 511, Oaxaca, Santo Domingo Nuxaá,3610,"2,659",919,32
+20 512, Oaxaca, Santo Domingo Ozolotepec,913,574,336,3
+20 513, Oaxaca, Santo Domingo Petapa,8394,"3,107","5,269",18
+20 514, Oaxaca, Santo Domingo Roayaga,997,300,695,2
+20 515, Oaxaca, Santo Domingo Tehuantepec,61872,"41,452","19,916",504
+20 516, Oaxaca, Santo Domingo Teojomulco,4571,"3,295","1,263",13
+20 517, Oaxaca, Santo Domingo Tepuxtepec,5194,"2,872","2,169",153
+20 518, Oaxaca, Santo Domingo Tlatayápam,153,5,146,2
+20 519, Oaxaca, Santo Domingo Tomaltepec,2790,"1,202","1,563",25
+20 520, Oaxaca, Santo Domingo Tonalá,7153,"4,931","2,180",42
+20 521, Oaxaca, Santo Domingo Tonaltepec,276,157,119, 
+20 522, Oaxaca, Santo Domingo Xagacía,1213,559,651,3
+20 523, Oaxaca, Santo Domingo Yanhuitlán,1609,920,661,28
+20 524, Oaxaca, Santo Domingo Yodohino,369,355,13,1
+20 525, Oaxaca, Santo Domingo Zanatepec,11218,"7,146","3,986",86
+20 526, Oaxaca, Santos Reyes Nopala,15986,"9,050","6,880",56
+20 527, Oaxaca, Santos Reyes Pápalo,2829,"1,720","1,096",13
+20 528, Oaxaca, Santos Reyes Tepejillo,1213,969,239,5
+20 529, Oaxaca, Santos Reyes Yucuná,1332,879,452,1
+20 530, Oaxaca, Santo Tomás Jalieza,3385,"2,254","1,123",8
+20 531, Oaxaca, Santo Tomás Mazaltepec,2333,"1,239","1,092",2
+20 532, Oaxaca, Santo Tomás Ocotepec,4076,"2,564","1,498",14
+20 533, Oaxaca, Santo Tomás Tamazulapan,2191,"1,111","1,078",2
+20 534, Oaxaca, San Vicente Coatlán,3964,"2,508","1,440",16
+20 535, Oaxaca, San Vicente Lachixío,2976,"1,638","1,324",14
+20 536, Oaxaca, San Vicente Nuñú,493,337,154,2
+20 537, Oaxaca, Silacayoápam,6747,"3,840","2,885",22
+20 538, Oaxaca, Sitio de Xitlapehua,705,320,385, 
+20 539, Oaxaca, Soledad Etla,5025,"3,296","1,695",34
+20 540, Oaxaca, Villa de Tamazulápam del Progreso,7059,"3,907","3,129",23
+20 541, Oaxaca, Tanetze de Zaragoza,1707,295,"1,404",8
+20 542, Oaxaca, Taniche,746,393,352,1
+20 543, Oaxaca, Tataltepec de Valdés,5561,"3,169","2,323",69
+20 544, Oaxaca, Teococuilco de Marcos Pérez,1106,404,701,1
+20 545, Oaxaca, Teotitlán de Flores Magón,8966,"5,815","3,103",48
+20 546, Oaxaca, Teotitlán del Valle,5638,"2,634","2,982",22
+20 547, Oaxaca, Teotongo,951,623,328, 
+20 548, Oaxaca, Tepelmeme Villa de Morelos,1734,"1,103",628,3
+20 549, Oaxaca, Tezoatlán de Segura y Luna,11319,"6,322","4,959",38
+20 550, Oaxaca, San Jerónimo Tlacochahuaya,5076,"2,140","2,818",118
+20 551, Oaxaca, Tlacolula de Matamoros,19625,"8,554","10,916",155
+20 552, Oaxaca, Tlacotepec Plumas,510,424,86, 
+20 553, Oaxaca, Tlalixtac de Cabrera,9417,"4,101","5,223",93
+20 554, Oaxaca, Totontepec Villa de Morelos,5598,840,"4,748",10
+20 555, Oaxaca, Trinidad Zaachila,2653,"1,358","1,285",10
+20 556, Oaxaca, La Trinidad Vista Hermosa,249,168,81, 
+20 557, Oaxaca, Unión Hidalgo,13970,"8,430","5,482",58
+20 558, Oaxaca, Valerio Trujano,1543,"1,332",202,9
+20 559, Oaxaca, San Juan Bautista Valle Nacional,22446,"12,139","10,243",64
+20 560, Oaxaca, Villa Díaz Ordaz,6174,"2,613","3,545",16
+20 561, Oaxaca, Yaxe,2683,480,"2,199",4
+20 562, Oaxaca, Magdalena Yodocono de Porfirio Díaz,1458,"1,157",299,2
+20 563, Oaxaca, Yogana,1308,955,328,25
+20 564, Oaxaca, Yutanduchi de Guerrero,1292,"1,185",102,5
+20 565, Oaxaca, Villa de Zaachila,34101,"18,671","15,297",133
+20 566, Oaxaca, San Mateo Yucutindó,3034,"2,860",161,13
+20 567, Oaxaca, Zapotitlán Lagunas,3133,"1,482","1,630",21
+20 568, Oaxaca, Zapotitlán Palmas,1514,636,866,12
+20 569, Oaxaca, Santa Inés de Zaragoza,1707,701,990,16
+20 570, Oaxaca, Zimatlán de Álvarez,19215,"11,789","7,371",55
+21 001, Puebla, Acajete,60353,"31,743","28,470",140
+21 002, Puebla, Acateno,8916,"5,265","3,628",23
+21 003, Puebla, Acatlán,33865,"17,370","16,062",433
+21 004, Puebla, Acatzingo,52078,"18,130","33,257",691
+21 005, Puebla, Acteopan,2881,"1,878",999,4
+21 006, Puebla, Ahuacatlán,14754,"9,604","5,087",63
+21 007, Puebla, Ahuatlán,3403,"2,068","1,324",11
+21 008, Puebla, Ahuazotepec,10457,"4,092","6,354",11
+21 009, Puebla, Ahuehuetitla,2008,710,"1,290",8
+21 010, Puebla, Ajalpan,60621,"22,368","38,037",216
+21 011, Puebla, Albino Zertuche,1770,"1,233",493,44
+21 012, Puebla, Aljojuca,6288,"1,775","4,495",18
+21 013, Puebla, Altepexi,18920,"5,104","13,758",58
+21 014, Puebla, Amixtlán,5004,"2,576","2,420",8
+21 015, Puebla, Amozoc,100964,"51,388","49,163",413
+21 016, Puebla, Aquixtla,7848,"5,023","2,801",24
+21 017, Puebla, Atempan,25386,"12,296","13,040",50
+21 018, Puebla, Atexcal,3734,"1,628","2,097",9
+21 019, Puebla, Atlixco,127062,"57,099","68,598","1,365"
+21 020, Puebla, Atoyatempan,6426,"3,281","3,047",98
+21 021, Puebla, Atzala,1228,753,469,6
+21 022, Puebla, Atzitzihuacán,11684,"6,070","5,588",26
+21 023, Puebla, Atzitzintla,8408,"2,574","5,794",40
+21 024, Puebla, Axutla,947,420,479,48
+21 025, Puebla, Ayotoxco de Guerrero,8153,"5,540","2,585",28
+21 026, Puebla, Calpan,13730,"5,295","8,414",21
+21 027, Puebla, Caltepec,4177,"1,907","2,258",12
+21 028, Puebla, Camocuautla,2476,239,"2,231",6
+21 029, Puebla, Caxhuacan,3791,"1,969","1,800",22
+21 030, Puebla, Coatepec,758,36,717,5
+21 031, Puebla, Coatzingo,2964,"1,020","1,919",25
+21 032, Puebla, Cohetzala,1283,720,198,365
+21 033, Puebla, Cohuecan,4763,"1,951","2,805",7
+21 034, Puebla, Coronango,34596,"13,067","20,920",609
+21 035, Puebla, Coxcatlán,19639,"13,138","6,444",57
+21 036, Puebla, Coyomeapan,14205,"6,894","7,150",161
+21 037, Puebla, Coyotepec,2339,875,"1,434",30
+21 038, Puebla, Cuapiaxtla de Madero,8709,"3,441","5,243",25
+21 039, Puebla, Cuautempan,9212,"5,705","3,464",43
+21 040, Puebla, Cuautinchán,9538,"3,963","5,551",24
+21 041, Puebla, Cuautlancingo,79153,"46,297","31,636","1,220"
+21 042, Puebla, Cuayuca de Andrade,3062,"1,798","1,238",26
+21 043, Puebla, Cuetzalan del Progreso,47433,"32,212","15,084",137
+21 044, Puebla, Cuyoaco,15367,"9,867","5,479",21
+21 045, Puebla, Chalchicomula de Sesma,43882,"22,115","21,596",171
+21 046, Puebla, Chapulco,6992,"3,982","2,997",13
+21 047, Puebla, Chiautla,19037,"10,279","8,547",211
+21 048, Puebla, Chiautzingo,18762,"6,281","12,410",71
+21 049, Puebla, Chiconcuautla,15767,"5,550","10,099",118
+21 050, Puebla, Chichiquila,24148,"13,421","10,604",123
+21 051, Puebla, Chietla,33935,"22,858","10,928",149
+21 052, Puebla, Chigmecatitlán,1227,794,425,8
+21 053, Puebla, Chignahuapan,57909,"24,344","33,451",114
+21 054, Puebla, Chignautla,30254,"12,514","17,634",106
+21 055, Puebla, Chila,4699,"2,933","1,732",34
+21 056, Puebla, Chila de la Sal,1237,832,379,26
+21 057, Puebla, Honey,7463,"2,677","4,745",41
+21 058, Puebla, Chilchotla,19257,"8,339","10,841",77
+21 059, Puebla, Chinantla,2468,"1,533",913,22
+21 060, Puebla, Domingo Arenas,6946,992,"5,931",23
+21 061, Puebla, Eloxochitlán,12575,"7,935","4,225",415
+21 062, Puebla, Epatlán,4594,"2,434","2,148",12
+21 063, Puebla, Esperanza,13785,"7,531","6,217",37
+21 064, Puebla, Francisco Z. Mena,16270,"8,256","7,916",98
+21 065, Puebla, General Felipe Ángeles,19040,"4,322","14,611",107
+21 066, Puebla, Guadalupe,6276,"3,417","2,828",31
+21 067, Puebla, Guadalupe Victoria,16551,"10,079","6,407",65
+21 068, Puebla, Hermenegildo Galeana,7718,"3,187","4,476",55
+21 069, Puebla, Huaquechula,25373,"11,289","13,955",129
+21 070, Puebla, Huatlatlauca,6643,"2,893","3,722",28
+21 071, Puebla, Huauchinango,97753,"51,310","44,630","1,813"
+21 072, Puebla, Huehuetla,15689,"10,070","5,549",70
+21 073, Puebla, Huehuetlán el Chico,8679,"5,615","3,023",41
+21 074, Puebla, Huejotzingo,63457,"27,420","35,431",606
+21 075, Puebla, Hueyapan,11868,"7,652","4,186",30
+21 076, Puebla, Hueytamalco,26689,"14,503","12,107",79
+21 077, Puebla, Hueytlalpan,5734,"2,841","2,867",26
+21 078, Puebla, Huitzilan de Serdán,13982,"9,550","4,407",25
+21 079, Puebla, Huitziltepec,5306,"3,160","2,128",18
+21 080, Puebla, Atlequizayan,2833,879,"1,949",5
+21 081, Puebla, Ixcamilpa de Guerrero,3695,"2,771",884,40
+21 082, Puebla, Ixcaquixtla,8093,"5,592","2,454",47
+21 083, Puebla, Ixtacamaxtitlán,25326,"10,772","14,444",110
+21 084, Puebla, Ixtepec,6811,"3,756","3,036",19
+21 085, Puebla, Izúcar de Matamoros,72799,"32,871","39,589",339
+21 086, Puebla, Jalpan,12547,"7,615","4,900",32
+21 087, Puebla, Jolalpan,12662,"9,238","3,393",31
+21 088, Puebla, Jonotla,4598,"3,190","1,395",13
+21 089, Puebla, Jopala,12997,"6,584","6,384",29
+21 090, Puebla, Juan C. Bonilla,18540,"8,376","9,905",259
+21 091, Puebla, Juan Galindo,10213,"6,073","4,118",22
+21 092, Puebla, Juan N. Méndez,5223,"2,976","2,237",10
+21 093, Puebla, Lafragua,7767,"3,162","4,554",51
+21 094, Puebla, Libres,31532,"17,855","13,591",86
+21 095, Puebla, La Magdalena Tlatlauquitepec,484,18,461,5
+21 096, Puebla, Mazapiltepec de Juárez,2633,"1,844",789, 
+21 097, Puebla, Mixtla,2216,"1,114","1,082",20
+21 098, Puebla, Molcaxac,6218,"3,238","2,936",44
+21 099, Puebla, Cañada Morelos,18954,"10,683","8,239",32
+21 100, Puebla, Naupan,9707,"5,878","3,804",25
+21 101, Puebla, Nauzontla,3598,"1,727","1,863",8
+21 102, Puebla, Nealtican,12011,"3,526","8,452",33
+21 103, Puebla, Nicolás Bravo,6009,"2,423","3,552",34
+21 104, Puebla, Nopalucan,27292,"14,962","12,223",107
+21 105, Puebla, Ocotepec,4825,"2,176","2,640",9
+21 106, Puebla, Ocoyucan,25720,"7,242","18,022",456
+21 107, Puebla, Olintla,11641,"7,161","4,412",68
+21 108, Puebla, Oriental,16575,"9,929","6,621",25
+21 109, Puebla, Pahuatlán,20618,"9,955","10,587",76
+21 110, Puebla, Palmar de Bravo,42887,"26,787","15,935",165
+21 111, Puebla, Pantepec,18435,"12,544","5,812",79
+21 112, Puebla, Petlalcingo,9382,"4,506","4,811",65
+21 113, Puebla, Piaxtla,4585,"1,997","2,541",47
+21 114, Puebla, Puebla,1539819,"846,591","651,814","41,414"
+21 115, Puebla, Quecholac,47281,"17,136","29,272",873
+21 116, Puebla, Quimixtlán,21275,"12,349","8,852",74
+21 117, Puebla, Rafael Lara Grajales,14052,"8,921","5,092",39
+21 118, Puebla, Los Reyes de Juárez,25553,"7,016","18,464",73
+21 119, Puebla, San Andrés Cholula,100439,"48,140","50,597","1,702"
+21 120, Puebla, San Antonio Cañada,5110,"2,829","2,266",15
+21 121, Puebla, San Diego la Mesa Tochimiltzingo,1132,620,505,7
+21 122, Puebla, San Felipe Teotlalcingo,9426,"3,465","5,875",86
+21 123, Puebla, San Felipe Tepatlán,4120,97,"4,007",16
+21 124, Puebla, San Gabriel Chilac,14454,"6,264","8,167",23
+21 125, Puebla, San Gregorio Atzompa,8170,"3,152","4,879",139
+21 126, Puebla, San Jerónimo Tecuanipan,5826,"1,017","4,725",84
+21 127, Puebla, San Jerónimo Xayacatlán,3777,752,"3,009",16
+21 128, Puebla, San José Chiapa,8087,"3,716","4,335",36
+21 129, Puebla, San José Miahuatlán,12699,"5,498","7,150",51
+21 130, Puebla, San Juan Atenco,3416,"1,457","1,950",9
+21 131, Puebla, San Juan Atzompa,872,57,813,2
+21 132, Puebla, San Martín Texmelucan,141112,"59,555","80,787",770
+21 133, Puebla, San Martín Totoltepec,651,520,123,8
+21 134, Puebla, San Matías Tlalancaleca,19310,"7,168","12,092",50
+21 135, Puebla, San Miguel Ixitlán,586,396,188,2
+21 136, Puebla, San Miguel Xoxtla,11598,"6,919","4,527",152
+21 137, Puebla, San Nicolás Buenos Aires,9185,"3,313","5,853",19
+21 138, Puebla, San Nicolás de los Ranchos,10777,"3,347","7,354",76
+21 139, Puebla, San Pablo Anicano,3554,"1,938","1,525",91
+21 140, Puebla, San Pedro Cholula,120459,"53,739","65,599","1,121"
+21 141, Puebla, San Pedro Yeloixtlahuaca,3395,"1,911","1,433",51
+21 142, Puebla, San Salvador el Seco,27622,"3,938","23,556",128
+21 143, Puebla, San Salvador el Verde,28419,"12,809","15,477",133
+21 144, Puebla, San Salvador Huixcolotla,13541,"4,256","9,217",68
+21 145, Puebla, San Sebastián Tlacotepec,13534,"8,295","5,070",169
+21 146, Puebla, Santa Catarina Tlaltempan,874,343,531, 
+21 147, Puebla, Santa Inés Ahuatempan,5944,"3,100","2,825",19
+21 148, Puebla, Santa Isabel Cholula,8040,"3,783","4,145",112
+21 149, Puebla, Santiago Miahuatlán,21993,"10,776","11,109",108
+21 150, Puebla, Huehuetlán el Grande,7060,"3,373","3,672",15
+21 151, Puebla, Santo Tomás Hueyotlipan,8016,"2,079","5,883",54
+21 152, Puebla, Soltepec,11706,"4,965","6,701",40
+21 153, Puebla, Tecali de Herrera,20267,"8,961","11,212",94
+21 154, Puebla, Tecamachalco,71571,"24,970","45,412","1,189"
+21 155, Puebla, Tecomatlán,5420,"3,112","2,171",137
+21 156, Puebla, Tehuacán,274906,"144,190","127,967","2,749"
+21 157, Puebla, Tehuitzingo,11328,"5,417","5,801",110
+21 158, Puebla, Tenampulco,6772,"2,109","4,373",290
+21 159, Puebla, Teopantlán,4024,925,"3,063",36
+21 160, Puebla, Teotlalco,3121,"1,910","1,197",14
+21 161, Puebla, Tepanco de López,19002,"9,643","9,332",27
+21 162, Puebla, Tepango de Rodríguez,4244,"2,994","1,243",7
+21 163, Puebla, Tepatlaxco de Hidalgo,16275,"6,528","9,714",33
+21 164, Puebla, Tepeaca,74708,"27,851","46,560",297
+21 165, Puebla, Tepemaxalco,1141,704,431,6
+21 166, Puebla, Tepeojuma,8056,"3,876","4,142",38
+21 167, Puebla, Tepetzintla,10240,"5,527","4,647",66
+21 168, Puebla, Tepexco,6580,"4,562","1,994",24
+21 169, Puebla, Tepexi de Rodríguez,20478,"11,952","8,456",70
+21 170, Puebla, Tepeyahualco,16390,"9,772","6,568",50
+21 171, Puebla, Tepeyahualco de Cuauhtémoc,3365,"1,874","1,484",7
+21 172, Puebla, Tetela de Ocampo,25793,"8,439","17,290",64
+21 173, Puebla, Teteles de Avila Castillo,5689,"3,796","1,878",15
+21 174, Puebla, Teziutlán,92246,"47,512","43,889",845
+21 175, Puebla, Tianguismanalco,9807,"3,225","6,456",126
+21 176, Puebla, Tilapa,8401,"5,513","2,818",70
+21 177, Puebla, Tlacotepec de Benito Juárez,48268,"21,526","26,590",152
+21 178, Puebla, Tlacuilotepec,17115,"6,698","10,399",18
+21 179, Puebla, Tlachichuca,28568,"14,827","13,671",70
+21 180, Puebla, Tlahuapan,36518,"16,747","19,652",119
+21 181, Puebla, Tlaltenango,6269,"3,241","2,942",86
+21 182, Puebla, Tlanepantla,4833,"2,668","2,109",56
+21 183, Puebla, Tlaola,19826,"4,278","15,272",276
+21 184, Puebla, Tlapacoya,6406,"3,423","2,775",208
+21 185, Puebla, Tlapanalá,8404,"3,338","5,017",49
+21 186, Puebla, Tlatlauquitepec,51495,"28,682","22,648",165
+21 187, Puebla, Tlaxco,5415,"3,276","2,132",7
+21 188, Puebla, Tochimilco,17028,"5,014","11,974",40
+21 189, Puebla, Tochtepec,19701,"7,095","12,513",93
+21 190, Puebla, Totoltepec de Guerrero,1155,140,"1,011",4
+21 191, Puebla, Tulcingo,9245,"4,969","4,099",177
+21 192, Puebla, Tuzamapan de Galeana,5983,"4,805","1,175",3
+21 193, Puebla, Tzicatlacoyan,6242,"3,065","3,133",44
+21 194, Puebla, Venustiano Carranza,27890,"11,734","16,033",123
+21 195, Puebla, Vicente Guerrero,24217,"9,414","14,730",73
+21 196, Puebla, Xayacatlán de Bravo,1649,888,749,12
+21 197, Puebla, Xicotepec,75601,"27,344","48,140",117
+21 198, Puebla, Xicotlán,1241,528,690,23
+21 199, Puebla, Xiutetelco,37910,"15,684","22,144",82
+21 200, Puebla, Xochiapulco,3911,"1,748","1,843",320
+21 201, Puebla, Xochiltepec,3187,"1,711","1,372",104
+21 202, Puebla, Xochitlán de Vicente Suárez,12249,"8,548","3,640",61
+21 203, Puebla, Xochitlán Todos Santos,6049,"3,587","2,446",16
+21 204, Puebla, Yaonáhuac,7514,"1,905","5,584",25
+21 205, Puebla, Yehualtepec,22976,"7,072","15,675",229
+21 206, Puebla, Zacapala,4224,"2,398","1,797",29
+21 207, Puebla, Zacapoaxtla,53295,"17,653","35,296",346
+21 208, Puebla, Zacatlán,76296,"44,802","30,977",517
+21 209, Puebla, Zapotitlán,8220,"3,945","4,260",15
+21 210, Puebla, Zapotitlán de Méndez,5608,"4,682",916,10
+21 211, Puebla, Zaragoza,15444,"8,554","6,691",199
+21 212, Puebla, Zautla,19438,"9,511","9,749",178
+21 213, Puebla, Zihuateutla,12530,"6,424","6,080",26
+21 214, Puebla, Zinacatepec,15690,"8,324","7,288",78
+21 215, Puebla, Zongozotla,4599,"3,651",945,3
+21 216, Puebla, Zoquiapan,2639,"1,927",709,3
+21 217, Puebla, Zoquitlán,20529,"9,396","11,017",116
+22 001, Querétaro, Amealco de Bonfil,62197,"46,780","15,295",122
+22 002, Querétaro, Pinal de Amoles,27093,"24,145","2,881",67
+22 003, Querétaro, Arroyo Seco,12910,"10,843","2,025",42
+22 004, Querétaro, Cadereyta de Montes,64183,"49,392","14,682",109
+22 005, Querétaro, Colón,58171,"42,806","15,232",133
+22 006, Querétaro, Corregidora,143073,"105,409","36,120","1,544"
+22 007, Querétaro, Ezequiel Montes,38123,"24,880","13,087",156
+22 008, Querétaro, Huimilpan,35554,"24,505","10,921",128
+22 009, Querétaro, Jalpan de Serra,25550,"21,262","4,177",111
+22 010, Querétaro, Landa de Matamoros,19929,"16,991","2,905",33
+22 011, Querétaro, El Marqués,116458,"86,816","28,588","1,054"
+22 012, Querétaro, Pedro Escobedo,63966,"47,512","16,246",208
+22 013, Querétaro, Peñamiller,18441,"15,313","3,062",66
+22 014, Querétaro, Querétaro,801940,"585,133","206,123","10,684"
+22 015, Querétaro, San Joaquín,8865,"7,617","1,231",17
+22 016, Querétaro, San Juan del Río,241699,"180,314","60,243","1,142"
+22 017, Querétaro, Tequisquiapan,63413,"40,812","22,362",239
+22 018, Querétaro, Tolimán,26372,"21,196","5,140",36
+23 001, Quintana Roo, Cozumel,79535,"57,939","20,570","1,026"
+23 002, Quintana Roo, Felipe Carrillo Puerto,75026,"55,001","18,934","1,091"
+23 003, Quintana Roo, Isla Mujeres,16203,"11,555","4,496",152
+23 004, Quintana Roo, Othón P. Blanco,244553,"185,788","57,427","1,338"
+23 005, Quintana Roo, Benito Juárez,661176,"425,874","211,732","23,570"
+23 006, Quintana Roo, José María Morelos,36179,"28,663","7,426",90
+23 007, Quintana Roo, Lázaro Cárdenas,25333,"18,547","6,656",130
+23 008, Quintana Roo, Solidaridad,159310,"98,440","55,058","5,812"
+23 009, Quintana Roo, Tulum,28263,"14,601","12,887",775
+24 001, San Luis Potosí, Ahualulco,18644,"11,163","7,384",97
+24 002, San Luis Potosí, Alaquines,8186,"6,700","1,471",15
+24 003, San Luis Potosí, Aquismón,47423,"38,852","8,459",112
+24 004, San Luis Potosí, Armadillo de los Infante,4436,"1,599","2,827",10
+24 005, San Luis Potosí, Cárdenas,18937,"14,059","4,650",228
+24 006, San Luis Potosí, Catorce,9716,"7,782","1,905",29
+24 007, San Luis Potosí, Cedral,18485,"16,246","2,202",37
+24 008, San Luis Potosí, Cerritos,21394,"13,703","7,582",109
+24 009, San Luis Potosí, Cerro de San Pedro,4021,"2,523","1,451",47
+24 010, San Luis Potosí, Ciudad del Maíz,31323,"25,193","6,089",41
+24 011, San Luis Potosí, Ciudad Fernández,43528,"32,188","11,274",66
+24 012, San Luis Potosí, Tancanhuitz,21039,"10,601","10,279",159
+24 013, San Luis Potosí, Ciudad Valles,167713,"120,792","41,886","5,035"
+24 014, San Luis Potosí, Coxcatlán,17015,"10,406","6,577",32
+24 015, San Luis Potosí, Charcas,21138,"14,795","6,118",225
+24 016, San Luis Potosí, Ebano,41529,"31,144","10,331",54
+24 017, San Luis Potosí, Guadalcázar,25985,"14,511","11,365",109
+24 018, San Luis Potosí, Huehuetlán,15311,"11,888","3,382",41
+24 019, San Luis Potosí, Lagunillas,5774,"4,281","1,456",37
+24 020, San Luis Potosí, Matehuala,91522,"74,433","16,774",315
+24 021, San Luis Potosí, Mexquitic de Carmona,53442,"37,929","15,410",103
+24 022, San Luis Potosí, Moctezuma,19327,"14,661","4,573",93
+24 023, San Luis Potosí, Rayón,15707,"10,804","4,720",183
+24 024, San Luis Potosí, Rioverde,91924,"67,217","23,991",716
+24 025, San Luis Potosí, Salinas,30190,"21,418","8,721",51
+24 026, San Luis Potosí, San Antonio,9390,"5,763","3,596",31
+24 027, San Luis Potosí, San Ciro de Acosta,10171,"7,411","2,690",70
+24 028, San Luis Potosí, San Luis Potosí,772604,"570,899","188,727","12,978"
+24 029, San Luis Potosí, San Martín Chalchicuautla,21347,"15,394","5,906",47
+24 030, San Luis Potosí, San Nicolás Tolentino,5466,"3,778","1,670",18
+24 031, San Luis Potosí, Santa Catarina,11835,"4,423","7,375",37
+24 032, San Luis Potosí, Santa María del Río,40326,"30,725","9,341",260
+24 033, San Luis Potosí, Santo Domingo,12043,"9,835","2,197",11
+24 034, San Luis Potosí, San Vicente Tancuayalab,14958,"9,199","5,734",25
+24 035, San Luis Potosí, Soledad de Graciano Sánchez,267839,"202,042","61,877","3,920"
+24 036, San Luis Potosí, Tamasopo,28848,"20,090","8,463",295
+24 037, San Luis Potosí, Tamazunchale,96820,"60,047","35,990",783
+24 038, San Luis Potosí, Tampacán,15838,"13,305","2,505",28
+24 039, San Luis Potosí, Tampamolón Corona,14274,"9,957","4,290",27
+24 040, San Luis Potosí, Tamuín,37956,"29,548","8,345",63
+24 041, San Luis Potosí, Tanlajás,19312,"15,666","3,619",27
+24 042, San Luis Potosí, Tanquián de Escobedo,14382,"10,936","3,424",22
+24 043, San Luis Potosí, Tierra Nueva,9024,"6,355","2,632",37
+24 044, San Luis Potosí, Vanegas,7902,"6,199","1,639",64
+24 045, San Luis Potosí, Venado,14492,"10,131","4,271",90
+24 046, San Luis Potosí, Villa de Arriaga,16316,"9,923","6,297",96
+24 047, San Luis Potosí, Villa de Guadalupe,9779,"8,714","1,049",16
+24 048, San Luis Potosí, Villa de la Paz,5350,"4,754",567,29
+24 049, San Luis Potosí, Villa de Ramos,37928,"25,438","12,396",94
+24 050, San Luis Potosí, Villa de Reyes,46898,"34,342","12,245",311
+24 051, San Luis Potosí, Villa Hidalgo,14876,"7,769","7,055",52
+24 052, San Luis Potosí, Villa Juárez,10174,"8,090","2,073",11
+24 053, San Luis Potosí, Axtla de Terrazas,33245,"21,172","11,916",157
+24 054, San Luis Potosí, Xilitla,51498,"42,115","9,194",189
+24 055, San Luis Potosí, Zaragoza,24596,"17,010","7,378",208
+24 056, San Luis Potosí, Villa de Arista,15528,"11,215","4,271",42
+24 057, San Luis Potosí, Matlapa,30299,"24,344","5,883",72
+24 058, San Luis Potosí, El Naranjo,20495,"15,679","4,781",35
+25 001, Sinaloa, Ahome,416299,"317,129","97,438","1,732"
+25 002, Sinaloa, Angostura,44993,"36,942","7,925",126
+25 003, Sinaloa, Badiraguato,29999,"23,865","5,938",196
+25 004, Sinaloa, Concordia,28493,"22,576","5,882",35
+25 005, Sinaloa, Cosalá,16697,"13,864","2,750",83
+25 006, Sinaloa, Culiacán,858638,"631,244","219,148","8,246"
+25 007, Sinaloa, Choix,32998,"25,031","7,855",112
+25 008, Sinaloa, Elota,42907,"32,484","10,293",130
+25 009, Sinaloa, Escuinapa,54131,"41,826","11,469",836
+25 010, Sinaloa, El Fuerte,97536,"73,786","23,464",286
+25 011, Sinaloa, Guasave,285912,"213,203","71,937",772
+25 012, Sinaloa, Mazatlán,438434,"325,805","110,274","2,355"
+25 013, Sinaloa, Mocorito,45847,"36,502","9,182",163
+25 014, Sinaloa, Rosario,49380,"38,274","10,809",297
+25 015, Sinaloa, Salvador Alvarado,79085,"58,722","19,987",376
+25 016, Sinaloa, San Ignacio,22527,"18,058","4,401",68
+25 017, Sinaloa, Sinaloa,88282,"60,746","27,307",229
+25 018, Sinaloa, Navolato,135603,"103,991","31,145",467
+26 001, Sonora, Aconchi,2637,"2,096",538,3
+26 002, Sonora, Agua Prieta,79138,"48,871","29,408",859
+26 003, Sonora, Alamos,25848,"21,303","4,484",61
+26 004, Sonora, Altar,9049,"5,296","3,719",34
+26 005, Sonora, Arivechi,1253,910,330,13
+26 006, Sonora, Arizpe,3037,"2,489",545,3
+26 007, Sonora, Atil,625,475,150, 
+26 008, Sonora, Bacadéhuachi,1252,948,297,7
+26 009, Sonora, Bacanora,784,591,190,3
+26 010, Sonora, Bacerac,1467,996,458,13
+26 011, Sonora, Bacoachi,1646,"1,220",421,5
+26 012, Sonora, Bácum,22821,"16,117","6,577",127
+26 013, Sonora, Banámichi,1646,"1,390",226,30
+26 014, Sonora, Baviácora,3560,"2,527",999,34
+26 015, Sonora, Bavispe,1454,806,634,14
+26 016, Sonora, Benjamín Hill,5275,"4,493",770,12
+26 017, Sonora, Caborca,81309,"57,359","23,674",276
+26 018, Sonora, Cajeme,409310,"316,599","89,325","3,386"
+26 019, Sonora, Cananea,32936,"26,223","6,532",181
+26 020, Sonora, Carbó,5347,"3,580","1,752",15
+26 021, Sonora, La Colorada,1663,"1,028",605,30
+26 022, Sonora, Cucurpe,958,735,222,1
+26 023, Sonora, Cumpas,6362,"5,497",811,54
+26 024, Sonora, Divisaderos,813,662,146,5
+26 025, Sonora, Empalme,54131,"42,169","11,620",342
+26 026, Sonora, Etchojoa,60717,"47,331","13,060",326
+26 027, Sonora, Fronteras,8639,"6,135","2,467",37
+26 028, Sonora, Granados,1150,936,212,2
+26 029, Sonora, Guaymas,149299,"118,432","30,306",561
+26 030, Sonora, Hermosillo,784342,"596,381","177,640","10,321"
+26 031, Sonora, Huachinera,1350,999,347,4
+26 032, Sonora, Huásabas,962,712,241,9
+26 033, Sonora, Huatabampo,79313,"64,881","14,162",270
+26 034, Sonora, Huépac,1154,997,138,19
+26 035, Sonora, Imuris,12316,"7,572","4,606",138
+26 036, Sonora, Magdalena,29707,"21,351","8,094",262
+26 037, Sonora, Mazatán,1350,811,500,39
+26 038, Sonora, Moctezuma,4680,"4,321",355,4
+26 039, Sonora, Naco,6401,"3,394","2,981",26
+26 040, Sonora, Nácori Chico,2051,"1,422",617,12
+26 041, Sonora, Nacozari de García,12751,"10,747","1,872",132
+26 042, Sonora, Navojoa,157729,"127,197","29,019","1,513"
+26 043, Sonora, Nogales,220292,"157,554","58,438","4,300"
+26 044, Sonora, Onavas,399,228,159,12
+26 045, Sonora, Opodepe,2878,"2,215",654,9
+26 046, Sonora, Oquitoa,443,304,139, 
+26 047, Sonora, Pitiquito,9468,"7,290","2,154",24
+26 048, Sonora, Puerto Peñasco,57342,"38,666","18,280",396
+26 049, Sonora, Quiriego,3356,"1,439","1,878",39
+26 050, Sonora, Rayón,1599,"1,039",556,4
+26 051, Sonora, Rosario,5226,"3,912","1,305",9
+26 052, Sonora, Sahuaripa,6020,"3,734","2,266",20
+26 053, Sonora, San Felipe de Jesús,396,353,40,3
+26 054, Sonora, San Javier,492,193,289,10
+26 055, Sonora, San Luis Río Colorado,178380,"102,332","75,201",847
+26 056, Sonora, San Miguel de Horcasitas,8382,"4,342","4,006",34
+26 057, Sonora, San Pedro de la Cueva,1604,992,592,20
+26 058, Sonora, Santa Ana,16014,"12,321","3,595",98
+26 059, Sonora, Santa Cruz,1998,953,"1,018",27
+26 060, Sonora, Sáric,2703,"2,067",609,27
+26 061, Sonora, Soyopa,1284,817,462,5
+26 062, Sonora, Suaqui Grande,1121,661,453,7
+26 063, Sonora, Tepache,1365,"1,190",95,80
+26 064, Sonora, Trincheras,1731,"1,209",365,157
+26 065, Sonora, Tubutama,1735,"1,394",338,3
+26 066, Sonora, Ures,9185,"7,374","1,793",18
+26 067, Sonora, Villa Hidalgo,1738,"1,388",334,16
+26 068, Sonora, Villa Pesqueira,1254,951,303, 
+26 069, Sonora, Yécora,6046,"2,822","3,181",43
+26 070, Sonora, General Plutarco Elías Calles,15652,"7,702","7,670",280
+26 071, Sonora, Benito Juárez,22009,"16,708","5,220",81
+26 072, Sonora, San Ignacio Río Muerto,14136,"10,200","3,931",5
+27 001, Tabasco, Balancán,56739,"48,668","7,906",165
+27 002, Tabasco, Cárdenas,248481,"174,139","71,626","2,716"
+27 003, Tabasco, Centla,102110,"72,292","29,369",449
+27 004, Tabasco, Centro,640359,"457,220","165,774","17,365"
+27 005, Tabasco, Comalcalco,192802,"130,848","60,797","1,157"
+27 006, Tabasco, Cunduacán,126416,"88,084","38,047",285
+27 007, Tabasco, Emiliano Zapata,29518,"24,766","4,618",134
+27 008, Tabasco, Huimanguillo,179285,"130,025","48,603",657
+27 009, Tabasco, Jalapa,36391,"29,007","7,124",260
+27 010, Tabasco, Jalpa de Méndez,83356,"59,556","23,326",474
+27 011, Tabasco, Jonuta,29511,"24,902","4,511",98
+27 012, Tabasco, Macuspana,153132,"121,996","29,649","1,487"
+27 013, Tabasco, Nacajuca,115066,"90,482","23,642",942
+27 014, Tabasco, Paraíso,86620,"64,428","20,326","1,866"
+27 015, Tabasco, Tacotalpa,46302,"38,769","7,429",104
+27 016, Tabasco, Teapa,53555,"44,554","8,562",439
+27 017, Tabasco, Tenosique,58960,"45,510","13,117",333
+28 001, Tamaulipas, Abasolo,12070,"10,779","1,272",19
+28 002, Tamaulipas, Aldama,29470,"25,015","4,342",113
+28 003, Tamaulipas, Altamira,212001,"154,466","53,765","3,770"
+28 004, Tamaulipas, Antiguo Morelos,9003,"7,700","1,261",42
+28 005, Tamaulipas, Burgos,4589,"3,023","1,521",45
+28 006, Tamaulipas, Bustamante,7636,"6,892",729,15
+28 007, Tamaulipas, Camargo,14933,"8,219","6,384",330
+28 008, Tamaulipas, Casas,4423,"3,560",836,27
+28 009, Tamaulipas, Ciudad Madero,197216,"151,154","40,104","5,958"
+28 010, Tamaulipas, Cruillas,2011,"1,536",435,40
+28 011, Tamaulipas, Gómez Farías,8786,"7,627","1,137",22
+28 012, Tamaulipas, González,43435,"34,855","8,417",163
+28 013, Tamaulipas, Güémez,15659,"12,536","3,003",120
+28 014, Tamaulipas, Guerrero,4477,"2,830","1,130",517
+28 015, Tamaulipas, Gustavo Díaz Ordaz,15775,"9,013","6,585",177
+28 016, Tamaulipas, Hidalgo,23793,"18,652","4,989",152
+28 017, Tamaulipas, Jaumave,15105,"14,057",991,57
+28 018, Tamaulipas, Jiménez,8338,"7,378",861,99
+28 019, Tamaulipas, Llera,17333,"15,111","2,126",96
+28 020, Tamaulipas, Mainero,2579,"2,059",516,4
+28 021, Tamaulipas, El Mante,115792,"101,295","12,010","2,487"
+28 022, Tamaulipas, Matamoros,489193,"347,541","126,514","15,138"
+28 023, Tamaulipas, Méndez,4530,"3,160","1,312",58
+28 024, Tamaulipas, Mier,4762,"3,005","1,703",54
+28 025, Tamaulipas, Miguel Alemán,27015,"17,769","8,675",571
+28 026, Tamaulipas, Miquihuana,3514,"3,244",262,8
+28 027, Tamaulipas, Nuevo Laredo,384033,"250,701","107,380","25,952"
+28 028, Tamaulipas, Nuevo Morelos,3381,"2,959",421,1
+28 029, Tamaulipas, Ocampo,12962,"10,498","2,407",57
+28 030, Tamaulipas, Padilla,14020,"11,574","2,367",79
+28 031, Tamaulipas, Palmillas,1795,"1,589",196,10
+28 032, Tamaulipas, Reynosa,608891,"406,254","142,622","60,015"
+28 033, Tamaulipas, Río Bravo,118259,"82,293","34,887","1,079"
+28 034, Tamaulipas, San Carlos,9331,"8,154","1,147",30
+28 035, Tamaulipas, San Fernando,57220,"45,731","11,071",418
+28 036, Tamaulipas, San Nicolás,1031,966,56,9
+28 037, Tamaulipas, Soto la Marina,24764,"19,004","5,611",149
+28 038, Tamaulipas, Tampico,297554,"218,548","69,341","9,665"
+28 039, Tamaulipas, Tula,27572,"24,344","3,044",184
+28 040, Tamaulipas, Valle Hermoso,63170,"48,847","13,898",425
+28 041, Tamaulipas, Victoria,321953,"269,709","43,740","8,504"
+28 042, Tamaulipas, Villagrán,6316,"4,377","1,935",4
+28 043, Tamaulipas, Xicoténcatl,22864,"19,724","3,043",97
+29 001, Tlaxcala, Amaxac de Guerrero,9875,"6,327","3,467",81
+29 002, Tlaxcala, Apetatitlán de Antonio Carvajal,13361,"8,563","4,685",113
+29 003, Tlaxcala, Atlangatepec,6018,"4,671","1,334",13
+29 004, Tlaxcala, Atltzayanca,15935,"11,438","4,483",14
+29 005, Tlaxcala, Apizaco,76492,"47,674","28,540",278
+29 006, Tlaxcala, Calpulalpan,44807,"32,245","12,168",394
+29 007, Tlaxcala, El Carmen Tequexquitla,15368,"12,454","2,881",33
+29 008, Tlaxcala, Cuapiaxtla,13671,"10,821","2,835",15
+29 009, Tlaxcala, Cuaxomulco,5066,"3,711","1,354",1
+29 010, Tlaxcala, Chiautempan,66149,"37,263","28,566",320
+29 011, Tlaxcala, Muñoz de Domingo Arenas,4285,"2,903","1,373",9
+29 012, Tlaxcala, Españita,8399,"6,259","2,095",45
+29 013, Tlaxcala, Huamantla,84979,"55,049","29,708",222
+29 014, Tlaxcala, Hueyotlipan,13879,"9,313","4,512",54
+29 015, Tlaxcala, Ixtacuixtla de Mariano Matamoros,35162,"22,721","12,072",369
+29 016, Tlaxcala, Ixtenco,6791,"4,549","2,229",13
+29 017, Tlaxcala, Mazatecochco de José María Morelos,9740,"3,136","6,574",30
+29 018, Tlaxcala, Contla de Juan Cuamatzi,35084,"23,270","11,744",70
+29 019, Tlaxcala, Tepetitla de Lardizábal,18725,"9,581","8,976",168
+29 020, Tlaxcala, Sanctórum de Lázaro Cárdenas,8474,"6,591","1,712",171
+29 021, Tlaxcala, Nanacamilpa de Mariano Arista,16640,"12,035","4,450",155
+29 022, Tlaxcala, Acuamanala de Miguel Hidalgo,5711,"2,903","2,737",71
+29 023, Tlaxcala, Natívitas,23621,"10,728","12,781",112
+29 024, Tlaxcala, Panotla,25128,"15,237","9,787",104
+29 025, Tlaxcala, San Pablo del Monte,69615,"34,026","35,239",350
+29 026, Tlaxcala, Santa Cruz Tlaxcala,17968,"11,646","6,247",75
+29 027, Tlaxcala, Tenancingo,11763,"5,293","6,397",73
+29 028, Tlaxcala, Teolocholco,21671,"10,934","10,654",83
+29 029, Tlaxcala, Tepeyanco,11048,"5,896","4,857",295
+29 030, Tlaxcala, Terrenate,13775,"10,471","3,282",22
+29 031, Tlaxcala, Tetla de la Solidaridad,28760,"19,282","9,414",64
+29 032, Tlaxcala, Tetlatlahuca,12410,"6,677","5,672",61
+29 033, Tlaxcala, Tlaxcala,89795,"55,872","32,817","1,106"
+29 034, Tlaxcala, Tlaxco,39939,"28,292","11,502",145
+29 035, Tlaxcala, Tocatlán,5589,"4,083","1,479",27
+29 036, Tlaxcala, Totolac,20625,"12,532","7,971",122
+29 037, Tlaxcala, Ziltlaltépec de Trinidad Sánchez Santos,8224,"5,351","2,859",14
+29 038, Tlaxcala, Tzompantepec,14611,"9,776","4,820",15
+29 039, Tlaxcala, Xaloztoc,21769,"14,520","7,182",67
+29 040, Tlaxcala, Xaltocan,9777,"6,358","3,379",40
+29 041, Tlaxcala, Papalotla de Xicohténcatl,26997,"14,272","12,326",399
+29 042, Tlaxcala, Xicohtzinco,12255,"7,110","5,003",142
+29 043, Tlaxcala, Yauhquemehcan,33081,"21,489","11,093",499
+29 044, Tlaxcala, Zacatelco,38654,"22,612","15,702",340
+29 045, Tlaxcala, Benito Juárez,5687,"4,390","1,289",8
+29 046, Tlaxcala, Emiliano Zapata,4146,"3,266",876,4
+29 047, Tlaxcala, Lázaro Cárdenas,2769,"2,198",571, 
+29 048, Tlaxcala, La Magdalena Tlaltelulco,16834,"9,215","7,536",83
+29 049, Tlaxcala, San Damián Texóloc,5064,"2,229","2,823",12
+29 050, Tlaxcala, San Francisco Tetlanohcan,9880,"4,952","4,897",31
+29 051, Tlaxcala, San Jerónimo Zacualpan,3581,"1,962","1,524",95
+29 052, Tlaxcala, San José Teacalco,5660,"3,660","1,994",6
+29 053, Tlaxcala, San Juan Huactzinco,6821,"2,819","3,897",105
+29 054, Tlaxcala, San Lorenzo Axocomanitla,5045,"2,990","1,926",129
+29 055, Tlaxcala, San Lucas Tecopilco,2833,"1,774","1,053",6
+29 056, Tlaxcala, Santa Ana Nopalucan,6857,"3,047","3,764",46
+29 057, Tlaxcala, Santa Apolonia Teacalco,4349,"1,737","2,592",20
+29 058, Tlaxcala, Santa Catarina Ayometla,7992,"4,925","3,002",65
+29 059, Tlaxcala, Santa Cruz Quilehtla,6296,"3,097","3,077",122
+29 060, Tlaxcala, Santa Isabel Xiloxoxtla,4436,"2,350","2,049",37
+30 001, Veracruz de Ignacio de la Llave, Acajete,8223,"3,864","4,322",37
+30 002, Veracruz de Ignacio de la Llave, Acatlán,3085,"1,451","1,624",10
+30 003, Veracruz de Ignacio de la Llave, Acayucan,83817,"43,389","39,629",799
+30 004, Veracruz de Ignacio de la Llave, Actopan,40994,"17,342","23,423",229
+30 005, Veracruz de Ignacio de la Llave, Acula,5129,"4,462",654,13
+30 006, Veracruz de Ignacio de la Llave, Acultzingo,20973,"9,985","10,855",133
+30 007, Veracruz de Ignacio de la Llave, Camarón de Tejeda,6224,"4,336","1,879",9
+30 008, Veracruz de Ignacio de la Llave, Alpatláhuac,9691,"2,246","7,436",9
+30 009, Veracruz de Ignacio de la Llave, Alto Lucero de Gutiérrez Barrios,28017,"9,433","18,503",81
+30 010, Veracruz de Ignacio de la Llave, Altotonga,60396,"25,007","35,212",177
+30 011, Veracruz de Ignacio de la Llave, Alvarado,51955,"33,959","17,223",773
+30 012, Veracruz de Ignacio de la Llave, Amatitlán,7487,"5,428","2,041",18
+30 013, Veracruz de Ignacio de la Llave, Naranjos Amatlán,27548,"18,520","8,466",562
+30 014, Veracruz de Ignacio de la Llave, Amatlán de los Reyes,42268,"28,116","14,026",126
+30 015, Veracruz de Ignacio de la Llave, Angel R. Cabada,33528,"22,384","11,044",100
+30 016, Veracruz de Ignacio de la Llave, La Antigua,25500,"14,861","10,040",599
+30 017, Veracruz de Ignacio de la Llave, Apazapan,4027,"1,932","2,070",25
+30 018, Veracruz de Ignacio de la Llave, Aquila,1797,261,"1,534",2
+30 019, Veracruz de Ignacio de la Llave, Astacinga,5995,"5,483",462,50
+30 020, Veracruz de Ignacio de la Llave, Atlahuilco,9824,"9,079",686,59
+30 021, Veracruz de Ignacio de la Llave, Atoyac,22986,"16,377","6,555",54
+30 022, Veracruz de Ignacio de la Llave, Atzacan,20063,"11,926","7,931",206
+30 023, Veracruz de Ignacio de la Llave, Atzalan,48397,"21,026","27,171",200
+30 024, Veracruz de Ignacio de la Llave, Tlaltetela,14613,"8,545","6,037",31
+30 025, Veracruz de Ignacio de la Llave, Ayahualulco,25456,"12,645","12,664",147
+30 026, Veracruz de Ignacio de la Llave, Banderilla,21546,"12,020","9,286",240
+30 027, Veracruz de Ignacio de la Llave, Benito Juárez,16692,"3,154","13,480",58
+30 028, Veracruz de Ignacio de la Llave, Boca del Río,138058,"90,331","42,390","5,337"
+30 029, Veracruz de Ignacio de la Llave, Calcahualco,12929,"4,716","8,205",8
+30 030, Veracruz de Ignacio de la Llave, Camerino Z. Mendoza,41778,"24,678","16,579",521
+30 031, Veracruz de Ignacio de la Llave, Carrillo Puerto,16313,"10,638","5,662",13
+30 032, Veracruz de Ignacio de la Llave, Catemaco,48593,"30,347","18,051",195
+30 033, Veracruz de Ignacio de la Llave, Cazones de Herrera,23483,"12,674","10,712",97
+30 034, Veracruz de Ignacio de la Llave, Cerro Azul,25801,"18,053","7,605",143
+30 035, Veracruz de Ignacio de la Llave, Citlaltépetl,11081,"4,310","6,703",68
+30 036, Veracruz de Ignacio de la Llave, Coacoatzintla,9416,"5,634","3,752",30
+30 037, Veracruz de Ignacio de la Llave, Coahuitlán,7810,"4,982","2,788",40
+30 038, Veracruz de Ignacio de la Llave, Coatepec,86696,"50,179","35,909",608
+30 039, Veracruz de Ignacio de la Llave, Coatzacoalcos,305260,"214,745","85,515","5,000"
+30 040, Veracruz de Ignacio de la Llave, Coatzintla,48351,"32,449","15,410",492
+30 041, Veracruz de Ignacio de la Llave, Coetzala,2144,"1,712",402,30
+30 042, Veracruz de Ignacio de la Llave, Colipa,5728,"2,891","2,823",14
+30 043, Veracruz de Ignacio de la Llave, Comapa,18713,"12,335","6,332",46
+30 044, Veracruz de Ignacio de la Llave, Córdoba,196541,"114,318","79,769","2,454"
+30 045, Veracruz de Ignacio de la Llave, Cosamaloapan de Carpio,57366,"40,190","16,672",504
+30 046, Veracruz de Ignacio de la Llave, Cosautlán de Carvajal,15668,"9,963","5,685",20
+30 047, Veracruz de Ignacio de la Llave, Coscomatepec,52510,"10,345","42,044",121
+30 048, Veracruz de Ignacio de la Llave, Cosoleacaque,117725,"76,724","39,139","1,862"
+30 049, Veracruz de Ignacio de la Llave, Cotaxtla,19710,"11,389","8,240",81
+30 050, Veracruz de Ignacio de la Llave, Coxquihui,15492,"8,654","6,820",18
+30 051, Veracruz de Ignacio de la Llave, Coyutla,21822,"9,638","12,063",121
+30 052, Veracruz de Ignacio de la Llave, Cuichapa,11645,"8,154","3,470",21
+30 053, Veracruz de Ignacio de la Llave, Cuitláhuac,26265,"15,432","10,775",58
+30 054, Veracruz de Ignacio de la Llave, Chacaltianguis,11683,"9,221","2,392",70
+30 055, Veracruz de Ignacio de la Llave, Chalma,12626,"6,555","5,932",139
+30 056, Veracruz de Ignacio de la Llave, Chiconamel,6752,"4,765","1,963",24
+30 057, Veracruz de Ignacio de la Llave, Chiconquiaco,13190,"6,222","6,937",31
+30 058, Veracruz de Ignacio de la Llave, Chicontepec,54982,"18,344","36,458",180
+30 059, Veracruz de Ignacio de la Llave, Chinameca,15214,"7,646","7,525",43
+30 060, Veracruz de Ignacio de la Llave, Chinampa de Gorostiza,15286,"7,863","7,388",35
+30 061, Veracruz de Ignacio de la Llave, Las Choapas,77426,"45,243","30,499","1,684"
+30 062, Veracruz de Ignacio de la Llave, Chocamán,18601,"6,531","12,046",24
+30 063, Veracruz de Ignacio de la Llave, Chontla,14688,"6,365","8,301",22
+30 064, Veracruz de Ignacio de la Llave, Chumatlán,3889,"3,312",552,25
+30 065, Veracruz de Ignacio de la Llave, Emiliano Zapata,61718,"33,878","27,022",818
+30 066, Veracruz de Ignacio de la Llave, Espinal,25548,"15,613","9,901",34
+30 067, Veracruz de Ignacio de la Llave, Filomeno Mata,16418,"12,791","3,577",50
+30 068, Veracruz de Ignacio de la Llave, Fortín,59761,"36,402","22,401",958
+30 069, Veracruz de Ignacio de la Llave, Gutiérrez Zamora,24353,"13,862","10,383",108
+30 070, Veracruz de Ignacio de la Llave, Hidalgotitlán,18277,"10,248","8,001",28
+30 071, Veracruz de Ignacio de la Llave, Huatusco,54561,"24,497","29,931",133
+30 072, Veracruz de Ignacio de la Llave, Huayacocotla,20765,"10,755","9,757",253
+30 073, Veracruz de Ignacio de la Llave, Hueyapan de Ocampo,41649,"21,033","20,491",125
+30 074, Veracruz de Ignacio de la Llave, Huiloapan de Cuauhtémoc,6750,"4,744","1,938",68
+30 075, Veracruz de Ignacio de la Llave, Ignacio de la Llave,17121,"9,430","7,654",37
+30 076, Veracruz de Ignacio de la Llave, Ilamatlán,13575,"3,778","9,684",113
+30 077, Veracruz de Ignacio de la Llave, Isla,42205,"22,985","19,112",108
+30 078, Veracruz de Ignacio de la Llave, Ixcatepec,12713,"9,934","2,693",86
+30 079, Veracruz de Ignacio de la Llave, Ixhuacán de los Reyes,10724,"7,182","3,523",19
+30 080, Veracruz de Ignacio de la Llave, Ixhuatlán del Café,21407,"8,146","13,221",40
+30 081, Veracruz de Ignacio de la Llave, Ixhuatlancillo,21150,"11,579","8,902",669
+30 082, Veracruz de Ignacio de la Llave, Ixhuatlán del Sureste,14903,"11,993","2,755",155
+30 083, Veracruz de Ignacio de la Llave, Ixhuatlán de Madero,49820,"29,418","20,261",141
+30 084, Veracruz de Ignacio de la Llave, Ixmatlahuacan,5727,"4,241","1,445",41
+30 085, Veracruz de Ignacio de la Llave, Ixtaczoquitlán,65385,"45,807","19,277",301
+30 086, Veracruz de Ignacio de la Llave, Jalacingo,40747,"18,090","22,547",110
+30 087, Veracruz de Ignacio de la Llave, Xalapa,457928,"264,958","172,768","20,202"
+30 088, Veracruz de Ignacio de la Llave, Jalcomulco,4940,"2,671","2,239",30
+30 089, Veracruz de Ignacio de la Llave, Jáltipan,39673,"20,622","18,950",101
+30 090, Veracruz de Ignacio de la Llave, Jamapa,10376,"5,793","4,508",75
+30 091, Veracruz de Ignacio de la Llave, Jesús Carranza,27080,"11,783","15,176",121
+30 092, Veracruz de Ignacio de la Llave, Xico,35188,"19,688","15,251",249
+30 093, Veracruz de Ignacio de la Llave, Jilotepec,15313,"7,063","8,206",44
+30 094, Veracruz de Ignacio de la Llave, Juan Rodríguez Clara,37193,"17,949","19,218",26
+30 095, Veracruz de Ignacio de la Llave, Juchique de Ferrer,16387,"9,012","7,352",23
+30 096, Veracruz de Ignacio de la Llave, Landero y Coss,1546,356,"1,184",6
+30 097, Veracruz de Ignacio de la Llave, Lerdo de Tejada,20141,"13,754","6,040",347
+30 098, Veracruz de Ignacio de la Llave, Magdalena,2920,478,"2,417",25
+30 099, Veracruz de Ignacio de la Llave, Maltrata,16898,"8,630","8,221",47
+30 100, Veracruz de Ignacio de la Llave, Manlio Fabio Altamirano,22585,"12,790","9,730",65
+30 101, Veracruz de Ignacio de la Llave, Mariano Escobedo,33941,"18,777","14,784",380
+30 102, Veracruz de Ignacio de la Llave, Martínez de la Torre,101358,"59,259","41,292",807
+30 103, Veracruz de Ignacio de la Llave, Mecatlán,11808,"6,589","5,166",53
+30 104, Veracruz de Ignacio de la Llave, Mecayapan,17333,"10,789","6,516",28
+30 105, Veracruz de Ignacio de la Llave, Medellín,59126,"38,686","20,078",362
+30 106, Veracruz de Ignacio de la Llave, Miahuatlán,4429,"2,154","2,268",7
+30 107, Veracruz de Ignacio de la Llave, Las Minas,2897,"2,056",840,1
+30 108, Veracruz de Ignacio de la Llave, Minatitlán,157840,"105,126","51,552","1,162"
+30 109, Veracruz de Ignacio de la Llave, Misantla,62919,"38,673","24,101",145
+30 110, Veracruz de Ignacio de la Llave, Mixtla de Altamirano,10387,"6,331","4,006",50
+30 111, Veracruz de Ignacio de la Llave, Moloacán,16120,"11,349","4,667",104
+30 112, Veracruz de Ignacio de la Llave, Naolinco,20255,"7,167","13,054",34
+30 113, Veracruz de Ignacio de la Llave, Naranjal,4507,"3,154","1,317",36
+30 114, Veracruz de Ignacio de la Llave, Nautla,9974,"4,451","5,495",28
+30 115, Veracruz de Ignacio de la Llave, Nogales,34688,"21,071","13,151",466
+30 116, Veracruz de Ignacio de la Llave, Oluta,14784,"9,064","5,640",80
+30 117, Veracruz de Ignacio de la Llave, Omealca,22561,"13,215","9,308",38
+30 118, Veracruz de Ignacio de la Llave, Orizaba,120995,"81,940","36,721","2,334"
+30 119, Veracruz de Ignacio de la Llave, Otatitlán,5250,"2,933","2,306",11
+30 120, Veracruz de Ignacio de la Llave, Oteapan,14965,"9,517","5,403",45
+30 121, Veracruz de Ignacio de la Llave, Ozuluama de Mascareñas,23276,"16,282","6,719",275
+30 122, Veracruz de Ignacio de la Llave, Pajapan,15909,"7,875","8,014",20
+30 123, Veracruz de Ignacio de la Llave, Pánuco,97290,"64,627","32,186",477
+30 124, Veracruz de Ignacio de la Llave, Papantla,158599,"69,879","87,084","1,636"
+30 125, Veracruz de Ignacio de la Llave, Paso del Macho,29165,"19,803","9,326",36
+30 126, Veracruz de Ignacio de la Llave, Paso de Ovejas,32576,"18,926","13,555",95
+30 127, Veracruz de Ignacio de la Llave, La Perla,23648,"12,135","11,369",144
+30 128, Veracruz de Ignacio de la Llave, Perote,68982,"31,828","34,588","2,566"
+30 129, Veracruz de Ignacio de la Llave, Platón Sánchez,17888,"13,825","3,947",116
+30 130, Veracruz de Ignacio de la Llave, Playa Vicente,40984,"17,660","23,068",256
+30 131, Veracruz de Ignacio de la Llave, Poza Rica de Hidalgo,193311,"128,125","59,060","6,126"
+30 132, Veracruz de Ignacio de la Llave, Las Vigas de Ramírez,17958,"9,725","8,214",19
+30 133, Veracruz de Ignacio de la Llave, Pueblo Viejo,55358,"35,181","19,920",257
+30 134, Veracruz de Ignacio de la Llave, Puente Nacional,21603,"11,754","9,680",169
+30 135, Veracruz de Ignacio de la Llave, Rafael Delgado,20245,"8,791","11,383",71
+30 136, Veracruz de Ignacio de la Llave, Rafael Lucio,7023,"3,470","3,524",29
+30 137, Veracruz de Ignacio de la Llave, Los Reyes,5484,"2,784","2,681",19
+30 138, Veracruz de Ignacio de la Llave, Río Blanco,40634,"26,744","13,055",835
+30 139, Veracruz de Ignacio de la Llave, Saltabarranca,5908,"3,988","1,866",54
+30 140, Veracruz de Ignacio de la Llave, San Andrés Tenejapan,2715,"1,764",918,33
+30 141, Veracruz de Ignacio de la Llave, San Andrés Tuxtla,157364,"91,019","64,612","1,733"
+30 142, Veracruz de Ignacio de la Llave, San Juan Evangelista,33435,"16,535","16,802",98
+30 143, Veracruz de Ignacio de la Llave, Santiago Tuxtla,56427,"37,879","18,357",191
+30 144, Veracruz de Ignacio de la Llave, Sayula de Alemán,31974,"12,166","19,727",81
+30 145, Veracruz de Ignacio de la Llave, Soconusco,14395,"5,162","9,217",16
+30 146, Veracruz de Ignacio de la Llave, Sochiapa,3502,"2,398","1,087",17
+30 147, Veracruz de Ignacio de la Llave, Soledad Atzompa,21380,"13,550","7,516",314
+30 148, Veracruz de Ignacio de la Llave, Soledad de Doblado,27008,"14,681","12,135",192
+30 149, Veracruz de Ignacio de la Llave, Soteapan,32596,"25,463","6,673",460
+30 150, Veracruz de Ignacio de la Llave, Tamalín,11211,"7,079","4,105",27
+30 151, Veracruz de Ignacio de la Llave, Tamiahua,23588,"13,235","10,305",48
+30 152, Veracruz de Ignacio de la Llave, Tampico Alto,12242,"7,382","4,726",134
+30 153, Veracruz de Ignacio de la Llave, Tancoco,5873,"3,132","2,713",28
+30 154, Veracruz de Ignacio de la Llave, Tantima,12814,"6,640","6,120",54
+30 155, Veracruz de Ignacio de la Llave, Tantoyuca,101743,"74,883","26,469",391
+30 156, Veracruz de Ignacio de la Llave, Tatatila,5584,"3,719","1,857",8
+30 157, Veracruz de Ignacio de la Llave, Castillo de Teayo,18663,"10,515","8,042",106
+30 158, Veracruz de Ignacio de la Llave, Tecolutla,25126,"13,946","11,137",43
+30 159, Veracruz de Ignacio de la Llave, Tehuipango,23479,"1,441","21,951",87
+30 160, Veracruz de Ignacio de la Llave, Álamo Temapache,104499,"56,795","47,103",601
+30 161, Veracruz de Ignacio de la Llave, Tempoal,34956,"23,514","11,300",142
+30 162, Veracruz de Ignacio de la Llave, Tenampa,6247,"4,076","2,157",14
+30 163, Veracruz de Ignacio de la Llave, Tenochtitlán,5222,"3,040","2,173",9
+30 164, Veracruz de Ignacio de la Llave, Teocelo,16327,"11,311","4,991",25
+30 165, Veracruz de Ignacio de la Llave, Tepatlaxco,8249,"5,352","2,884",13
+30 166, Veracruz de Ignacio de la Llave, Tepetlán,9004,"5,471","3,521",12
+30 167, Veracruz de Ignacio de la Llave, Tepetzintla,13949,"9,389","4,536",24
+30 168, Veracruz de Ignacio de la Llave, Tequila,14648,"11,473","3,075",100
+30 169, Veracruz de Ignacio de la Llave, José Azueta,23999,"15,702","8,215",82
+30 170, Veracruz de Ignacio de la Llave, Texcatepec,10627,"2,681","7,870",76
+30 171, Veracruz de Ignacio de la Llave, Texhuacán,5292,"1,669","3,596",27
+30 172, Veracruz de Ignacio de la Llave, Texistepec,20199,"11,630","8,527",42
+30 173, Veracruz de Ignacio de la Llave, Tezonapa,52584,"26,967","25,477",140
+30 174, Veracruz de Ignacio de la Llave, Tierra Blanca,94087,"54,601","39,286",200
+30 175, Veracruz de Ignacio de la Llave, Tihuatlán,89774,"39,690","48,788","1,296"
+30 176, Veracruz de Ignacio de la Llave, Tlacojalpan,4632,"2,933","1,688",11
+30 177, Veracruz de Ignacio de la Llave, Tlacolulan,10299,"7,314","2,973",12
+30 178, Veracruz de Ignacio de la Llave, Tlacotalpan,13284,"10,215","2,961",108
+30 179, Veracruz de Ignacio de la Llave, Tlacotepec de Mejía,3965,"2,350","1,610",5
+30 180, Veracruz de Ignacio de la Llave, Tlachichilco,11276,"5,400","5,815",61
+30 181, Veracruz de Ignacio de la Llave, Tlalixcoyan,37037,"24,107","12,848",82
+30 182, Veracruz de Ignacio de la Llave, Tlalnelhuayocan,16311,"7,534","8,668",109
+30 183, Veracruz de Ignacio de la Llave, Tlapacoyan,58084,"27,711","30,187",186
+30 184, Veracruz de Ignacio de la Llave, Tlaquilpa,7151,"6,257",730,164
+30 185, Veracruz de Ignacio de la Llave, Tlilapan,4879,"3,197","1,666",16
+30 186, Veracruz de Ignacio de la Llave, Tomatlán,6763,"2,796","3,951",16
+30 187, Veracruz de Ignacio de la Llave, Tonayán,5696,"3,233","2,452",11
+30 188, Veracruz de Ignacio de la Llave, Totutla,16403,"8,281","8,075",47
+30 189, Veracruz de Ignacio de la Llave, Tuxpan,143362,"89,721","50,304","3,337"
+30 190, Veracruz de Ignacio de la Llave, Tuxtilla,2177,"1,841",333,3
+30 191, Veracruz de Ignacio de la Llave, Ursulo Galván,29005,"19,886","8,921",198
+30 192, Veracruz de Ignacio de la Llave, Vega de Alatorre,19541,"9,169","10,302",70
+30 193, Veracruz de Ignacio de la Llave, Veracruz,552156,"364,840","161,499","25,817"
+30 194, Veracruz de Ignacio de la Llave, Villa Aldama,10851,"6,672","4,152",27
+30 195, Veracruz de Ignacio de la Llave, Xoxocotla,5163,"4,795",322,46
+30 196, Veracruz de Ignacio de la Llave, Yanga,17462,"10,637","6,760",65
+30 197, Veracruz de Ignacio de la Llave, Yecuatla,11357,"3,852","7,474",31
+30 198, Veracruz de Ignacio de la Llave, Zacualpan,6784,"3,265","3,502",17
+30 199, Veracruz de Ignacio de la Llave, Zaragoza,10720,"6,428","4,261",31
+30 200, Veracruz de Ignacio de la Llave, Zentla,12379,"6,680","5,621",78
+30 201, Veracruz de Ignacio de la Llave, Zongolica,41923,"18,717","23,060",146
+30 202, Veracruz de Ignacio de la Llave, Zontecomatlán de López y Fuentes,13866,"11,296","2,379",191
+30 203, Veracruz de Ignacio de la Llave, Zozocolco de Hidalgo,13434,"7,088","6,334",12
+30 204, Veracruz de Ignacio de la Llave, Agua Dulce,46010,"30,920","13,739","1,351"
+30 205, Veracruz de Ignacio de la Llave, El Higo,19128,"13,329","5,768",31
+30 206, Veracruz de Ignacio de la Llave, Nanchital de Lázaro Cárdenas del Río,27094,"21,970","4,436",688
+30 207, Veracruz de Ignacio de la Llave, Tres Valles,45095,"26,717","18,295",83
+30 208, Veracruz de Ignacio de la Llave, Carlos A. Carrillo,22907,"18,523","4,176",208
+30 209, Veracruz de Ignacio de la Llave, Tatahuicapan de Juárez,14297,"4,151","10,081",65
+30 210, Veracruz de Ignacio de la Llave, Uxpanapa,27346,"11,436","15,856",54
+30 211, Veracruz de Ignacio de la Llave, San Rafael,29277,"16,172","12,654",451
+30 212, Veracruz de Ignacio de la Llave, Santiago Sochiapan,12409,"7,019","5,373",17
+31 001, Yucatán, Abalá,6356,"3,904","2,442",10
+31 002, Yucatán, Acanceh,15337,"9,971","5,303",63
+31 003, Yucatán, Akil,10362,"7,422","2,920",20
+31 004, Yucatán, Baca,5701,"4,312","1,379",10
+31 005, Yucatán, Bokobá,2053,"1,889",161,3
+31 006, Yucatán, Buctzotz,8637,"7,487","1,140",10
+31 007, Yucatán, Cacalchén,6811,"5,203","1,576",32
+31 008, Yucatán, Calotmul,4095,"3,155",933,7
+31 009, Yucatán, Cansahcab,4696,"3,719",965,12
+31 010, Yucatán, Cantamayec,2407,"2,050",354,3
+31 011, Yucatán, Celestún,6831,"4,729","2,037",65
+31 012, Yucatán, Cenotillo,3701,"2,897",800,4
+31 013, Yucatán, Conkal,9143,"6,834","2,196",113
+31 014, Yucatán, Cuncunul,1595,"1,245",347,3
+31 015, Yucatán, Cuzamá,4966,"3,028","1,917",21
+31 016, Yucatán, Chacsinkín,2818,"2,653",160,5
+31 017, Yucatán, Chankom,4464,"3,476",874,114
+31 018, Yucatán, Chapab,3035,"2,834",182,19
+31 019, Yucatán, Chemax,33490,"25,854","7,518",118
+31 020, Yucatán, Chicxulub Pueblo,4113,"2,895","1,191",27
+31 021, Yucatán, Chichimilá,7952,"5,937","1,993",22
+31 022, Yucatán, Chikindzonot,4162,"3,812",336,14
+31 023, Yucatán, Chocholá,4530,"3,185","1,336",9
+31 024, Yucatán, Chumayel,3148,"2,788",355,5
+31 025, Yucatán, Dzán,4941,"4,344",591,6
+31 026, Yucatán, Dzemul,3489,"2,698",784,7
+31 027, Yucatán, Dzidzantún,8133,"7,120",993,20
+31 028, Yucatán, Dzilam de Bravo,2463,"2,160",301,2
+31 029, Yucatán, Dzilam González,5905,"5,247",622,36
+31 030, Yucatán, Dzitás,3540,"3,258",274,8
+31 031, Yucatán, Dzoncauich,2772,"2,610",156,6
+31 032, Yucatán, Espita,15571,"12,628","2,933",10
+31 033, Yucatán, Halachó,19072,"12,806","6,235",31
+31 034, Yucatán, Hocabá,6061,"4,743","1,306",12
+31 035, Yucatán, Hoctún,5697,"3,867","1,784",46
+31 036, Yucatán, Homún,7257,"3,743","3,505",9
+31 037, Yucatán, Huhí,4841,"3,065","1,774",2
+31 038, Yucatán, Hunucmá,30731,"18,660","11,963",108
+31 039, Yucatán, Ixil,3803,"3,004",787,12
+31 040, Yucatán, Izamal,25980,"18,524","7,371",85
+31 041, Yucatán, Kanasín,78709,"56,249","21,012","1,448"
+31 042, Yucatán, Kantunil,5502,"4,031","1,460",11
+31 043, Yucatán, Kaua,2761,"2,070",684,7
+31 044, Yucatán, Kinchil,6571,"5,317","1,242",12
+31 045, Yucatán, Kopomá,2449,"1,550",887,12
+31 046, Yucatán, Mama,2888,"2,212",668,8
+31 047, Yucatán, Maní,5250,"4,609",635,6
+31 048, Yucatán, Maxcanú,21704,"14,749","6,919",36
+31 049, Yucatán, Mayapán,3269,"2,059","1,201",9
+31 050, Yucatán, Mérida,830732,"622,112","192,997","15,623"
+31 051, Yucatán, Mocochá,3071,"2,677",378,16
+31 052, Yucatán, Motul,33978,"23,152","10,731",95
+31 053, Yucatán, Muna,12336,"8,731","3,590",15
+31 054, Yucatán, Muxupip,2755,"2,179",563,13
+31 055, Yucatán, Opichén,6285,"3,762","2,516",7
+31 056, Yucatán, Oxkutzcab,29325,"20,121","8,952",252
+31 057, Yucatán, Panabá,7461,"6,108","1,346",7
+31 058, Yucatán, Peto,24159,"20,119","4,025",15
+31 059, Yucatán, Progreso,53958,"39,234","14,257",467
+31 060, Yucatán, Quintana Roo,942,634,306,2
+31 061, Yucatán, Río Lagartos,3438,"3,065",353,20
+31 062, Yucatán, Sacalum,4589,"2,479","2,102",8
+31 063, Yucatán, Samahil,5008,"4,350",655,3
+31 064, Yucatán, Sanahcat,1619,"1,297",311,11
+31 065, Yucatán, San Felipe,1839,"1,704",132,3
+31 066, Yucatán, Santa Elena,3833,"3,514",302,17
+31 067, Yucatán, Seyé,9276,"5,579","3,648",49
+31 068, Yucatán, Sinanché,3126,"2,594",524,8
+31 069, Yucatán, Sotuta,8449,"6,189","2,249",11
+31 070, Yucatán, Sucilá,3930,"3,427",499,4
+31 071, Yucatán, Sudzal,1689,"1,413",275,1
+31 072, Yucatán, Suma,1876,"1,522",335,19
+31 073, Yucatán, Tahdziú,4447,"4,199",233,15
+31 074, Yucatán, Tahmek,3609,"2,934",636,39
+31 075, Yucatán, Teabo,6205,"4,952","1,240",13
+31 076, Yucatán, Tecoh,16200,"12,654","3,502",44
+31 077, Yucatán, Tekal de Venegas,2606,"1,821",784,1
+31 078, Yucatán, Tekantó,3683,"3,008",623,52
+31 079, Yucatán, Tekax,40547,"34,994","5,523",30
+31 080, Yucatán, Tekit,9884,"6,136","3,720",28
+31 081, Yucatán, Tekom,3100,"2,442",637,21
+31 082, Yucatán, Telchac Pueblo,3557,"2,178","1,366",13
+31 083, Yucatán, Telchac Puerto,1726,"1,312",413,1
+31 084, Yucatán, Temax,6817,"4,970","1,843",4
+31 085, Yucatán, Temozón,14801,"11,993","2,773",35
+31 086, Yucatán, Tepakán,2226,"1,992",218,16
+31 087, Yucatán, Tetiz,4725,"3,453","1,259",13
+31 088, Yucatán, Teya,1977,"1,837",129,11
+31 089, Yucatán, Ticul,37685,"30,935","6,707",43
+31 090, Yucatán, Timucuy,6833,"3,583","3,233",17
+31 091, Yucatán, Tinum,11421,"7,682","3,714",25
+31 092, Yucatán, Tixcacalcupul,6665,"4,581","2,063",21
+31 093, Yucatán, Tixkokob,17176,"12,318","4,813",45
+31 094, Yucatán, Tixmehuac,4746,"4,151",591,4
+31 095, Yucatán, Tixpéhual,5388,"4,009","1,326",53
+31 096, Yucatán, Tizimín,73138,"55,479","17,392",267
+31 097, Yucatán, Tunkás,3464,"2,630",832,2
+31 098, Yucatán, Tzucacab,14011,"11,883","2,116",12
+31 099, Yucatán, Uayma,3782,"3,222",543,17
+31 100, Yucatán, Ucú,3469,"2,581",868,20
+31 101, Yucatán, Umán,50993,"39,732","11,162",99
+31 102, Yucatán, Valladolid,74217,"54,987","18,990",240
+31 103, Yucatán, Xocchel,3236,"1,815","1,317",104
+31 104, Yucatán, Yaxcabá,14802,"11,266","3,505",31
+31 105, Yucatán, Yaxkukul,2868,"1,848","1,012",8
+31 106, Yucatán, Yobaín,2137,"1,936",181,20
+32 001, Zacatecas, Apozol,6314,"4,851","1,437",26
+32 002, Zacatecas, Apulco,5005,"3,801","1,171",33
+32 003, Zacatecas, Atolinga,2692,"1,707",977,8
+32 004, Zacatecas, Benito Juárez,4372,"2,244","2,085",43
+32 005, Zacatecas, Calera,39917,"28,657","10,925",335
+32 006, Zacatecas, Cañitas de Felipe Pescador,8239,"6,011","2,192",36
+32 007, Zacatecas, Concepción del Oro,12803,"9,762","3,006",35
+32 008, Zacatecas, Cuauhtémoc,11915,"8,219","3,666",30
+32 009, Zacatecas, Chalchihuites,10565,"5,081","5,450",34
+32 010, Zacatecas, Fresnillo,213139,"145,467","63,531","4,141"
+32 011, Zacatecas, Trinidad García de la Cadena,3013,"1,407","1,602",4
+32 012, Zacatecas, Genaro Codina,8104,"5,501","2,552",51
+32 013, Zacatecas, General Enrique Estrada,5894,"3,827","2,057",10
+32 014, Zacatecas, General Francisco R. Murguía,21974,"16,772","5,160",42
+32 015, Zacatecas, El Plateado de Joaquín Amaro,1609,"1,019",569,21
+32 016, Zacatecas, General Pánfilo Natera,22346,"15,840","6,467",39
+32 017, Zacatecas, Guadalupe,159991,"123,046","34,642","2,303"
+32 018, Zacatecas, Huanusco,4306,"2,954","1,334",18
+32 019, Zacatecas, Jalpa,23557,"16,716","6,596",245
+32 020, Zacatecas, Jerez,57610,"34,065","22,866",679
+32 021, Zacatecas, Jiménez del Teul,4584,"2,273","2,118",193
+32 022, Zacatecas, Juan Aldama,20543,"15,339","5,046",158
+32 023, Zacatecas, Juchipila,12284,"9,103","3,156",25
+32 024, Zacatecas, Loreto,48365,"31,882","16,256",227
+32 025, Zacatecas, Luis Moya,12234,"8,319","3,868",47
+32 026, Zacatecas, Mazapil,17813,"10,618","7,114",81
+32 027, Zacatecas, Melchor Ocampo,2662,"1,767",893,2
+32 028, Zacatecas, Mezquital del Oro,2584,"1,605",971,8
+32 029, Zacatecas, Miguel Auza,22296,"13,858","8,412",26
+32 030, Zacatecas, Momax,2529,"1,349","1,170",10
+32 031, Zacatecas, Monte Escobedo,8929,"4,075","4,782",72
+32 032, Zacatecas, Morelos,11493,"8,322","3,105",66
+32 033, Zacatecas, Moyahua de Estrada,4563,"3,025","1,521",17
+32 034, Zacatecas, Nochistlán de Mejía,27932,"17,687","9,883",362
+32 035, Zacatecas, Noria de Ángeles,15607,"10,978","4,605",24
+32 036, Zacatecas, Ojocaliente,40740,"29,309","11,221",210
+32 037, Zacatecas, Pánuco,16875,"9,500","7,014",361
+32 038, Zacatecas, Pinos,69844,"44,663","24,937",244
+32 039, Zacatecas, Río Grande,62693,"42,996","18,574","1,123"
+32 040, Zacatecas, Sain Alto,21533,"15,168","6,329",36
+32 041, Zacatecas, El Salvador,2710,"1,121","1,528",61
+32 042, Zacatecas, Sombrerete,61188,"39,594","21,376",218
+32 043, Zacatecas, Susticacán,1360,615,734,11
+32 044, Zacatecas, Tabasco,15656,"12,292","3,308",56
+32 045, Zacatecas, Tepechitlán,8215,"5,282","2,914",19
+32 046, Zacatecas, Tepetongo,7090,"4,165","2,859",66
+32 047, Zacatecas, Teúl de González Ortega,5506,"3,499","1,986",21
+32 048, Zacatecas, Tlaltenango de Sánchez Román,25493,"14,836","10,452",205
+32 049, Zacatecas, Valparaíso,33323,"20,933","12,277",113
+32 050, Zacatecas, Vetagrande,9353,"6,613","2,670",70
+32 051, Zacatecas, Villa de Cos,34328,"23,879","10,016",433
+32 052, Zacatecas, Villa García,18269,"13,178","5,035",56
+32 053, Zacatecas, Villa González Ortega,12893,"8,543","4,313",37
+32 054, Zacatecas, Villa Hidalgo,18490,"12,252","6,185",53
+32 055, Zacatecas, Villanueva,29395,"16,539","12,730",126
+32 056, Zacatecas, Zacatecas,138176,"104,160","31,196","2,820"
+32 057, Zacatecas, Trancoso,16934,"12,747","3,892",295
+32 058, Zacatecas, Santa María de la Paz,2821,"1,456","1,357",8
